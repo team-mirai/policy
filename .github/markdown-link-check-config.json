@@ -18,6 +18,10 @@
     {
       "pattern": "^%20https://",
       "reason": "Malformed URLs with spaces at the beginning"
+    },
+    {
+      "pattern": "^https://github.com/team-mirai/policy/pulls$",
+      "reason": "Avoid to get 406 response"
     }
   ],
   "replacementPatterns": [
