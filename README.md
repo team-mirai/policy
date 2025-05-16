@@ -103,3 +103,9 @@
 - PRのチェック結果で報告されたリンクを修正してください
 - コミットを追加すると、自動的に再チェックが行われます
 
+## 参考資料 (FLOW様 ご提供)
+
+*   [論文：新生児機会均等配置法の必要性｜査読・ファクトチェック](https://note.com/flow_theory/n/nd497640d8093)
+*   [思考実験：「新生児機会均等配置法」という法律があったら。](https://note.com/flow_theory/n/n32be8f3d2ad8)
+*   [新生児機会均等配置法の必要性](https://note.com/flow_theory/n/n48ab21786668)
+*   [近未来の教育の姿についての提言｜思考実験：転送世代](https://note.com/flow_theory/n/n0a3ae44eafab)
