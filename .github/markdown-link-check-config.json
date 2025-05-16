@@ -26,15 +26,6 @@
       "replacement": "{{BASEURL}}/"
     }
   ],
-  "httpHeaders": [
-    {
-      "urls": ["https://github.com/", "https://raw.githubusercontent.com/"],
-      "headers": {
-        "Accept": "application/vnd.github.v3+json",
-        "User-Agent": "GitHub-Link-Checker"
-      }
-    }
-  ],
   "timeout": "10s",
   "retryOn429": true,
   "retryCount": 3,
