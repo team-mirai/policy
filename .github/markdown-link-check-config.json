@@ -18,6 +18,10 @@
     {
       "pattern": "^%20https://",
       "reason": "Malformed URLs with spaces at the beginning"
+    },
+    {
+      "pattern": "^https://github\\.com/[^/]+/[^/]+/pulls",
+      "reason": "Avoid 406 error"
     }
   ],
   "replacementPatterns": [
