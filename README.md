@@ -108,3 +108,4 @@ AI技術の進展も活用し、健康寿命の延伸やQOL向上に資する先
 
 - [デジタル民主主義2030](https://dd2030.org)で開発した[『いどばた』](https://github.com/digitaldemocracy2030/idobata/)を活用しています
 
+
