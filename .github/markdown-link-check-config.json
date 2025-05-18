@@ -18,6 +18,10 @@
     {
       "pattern": "^%20https://",
       "reason": "Malformed URLs with spaces at the beginning"
+    },
+    {
+      "pattern": "^https://policy.team-mir.ai/",
+      "reason": "policy.team-mir.ai returns 406 error when checked by GitHub Actions"
     }
   ],
   "replacementPatterns": [
