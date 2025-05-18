@@ -1,0 +1,5 @@
+# This file defines who should be automatically assigned as reviewers for specific files
+# Format: file_pattern @username
+
+# Assign tokshibata as reviewer for README.md
+README.md @tokshibata
