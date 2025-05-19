@@ -33,10 +33,10 @@ async function fetchPullRequestsWithoutLabels(page: number = 1, perPage: number 
     });
 
     const pullRequests = data as PullRequest[];
-    
+
     const hasNextPage = data.length === perPage;
 
-    return { pullRequests, hasNextPage };
+    return { pullRequests: pullRequests.filter(pr => pr.labels.length === 0), hasNextPage };
   } catch (error) {
     console.error(`PRの取得に失敗しました (ページ ${page}):`, error);
     return { pullRequests: [], hasNextPage: false };
@@ -132,17 +132,17 @@ async function main() {
 
   while (hasNextPage) {
     console.log(`ページ ${page} を処理中...`);
-    
+
     const result = await fetchPullRequestsWithoutLabels(page, BATCH_SIZE);
     hasNextPage = result.hasNextPage;
-    
+
     console.log(`ページ ${page} でラベルのないPRが ${result.pullRequests.length} 件見つかりました`);
-    
+
     if (result.pullRequests.length > 0) {
       await processPullRequestBatch(result.pullRequests);
       totalProcessed += result.pullRequests.length;
     }
-    
+
     page++;
   }
 
