@@ -11,22 +11,34 @@ const octokit = new Octokit({
 
 const REPO_OWNER = process.env.REPO_OWNER || 'team-mirai';
 const REPO_NAME = process.env.REPO_NAME || 'policy';
+const BATCH_SIZE = parseInt(process.env.BATCH_SIZE || '10', 10); // 一度に処理するPR数
 
 /**
- * ラベルのないPRを取得する
+ * ページング処理でラベルのないPRを取得する
+ * @param page ページ番号
+ * @param perPage 1ページあたりの取得数
  */
-async function fetchPullRequestsWithoutLabels(): Promise<PullRequest[]> {
+async function fetchPullRequestsWithoutLabels(page: number = 1, perPage: number = BATCH_SIZE): Promise<{
+  pullRequests: PullRequest[];
+  hasNextPage: boolean;
+}> {
   try {
     const { data } = await octokit.pulls.list({
       owner: REPO_OWNER,
       repo: REPO_NAME,
       state: 'open',
+      per_page: perPage,
+      page: page,
     });
 
-    return data.filter(pr => pr.labels.length === 0) as PullRequest[];
+    const pullRequests = data.filter(pr => pr.labels.length === 0) as PullRequest[];
+    
+    const hasNextPage = data.length === perPage;
+
+    return { pullRequests, hasNextPage };
   } catch (error) {
-    console.error('PRの取得に失敗しました:', error);
-    return [];
+    console.error(`PRの取得に失敗しました (ページ ${page}):`, error);
+    return { pullRequests: [], hasNextPage: false };
   }
 }
 
@@ -90,15 +102,9 @@ async function addLabelsToPullRequest(prNumber: number, labels: string[]): Promi
 }
 
 /**
- * メイン処理
+ * PRのバッチを処理する
  */
-async function main() {
-  console.log('PR自動ラベル付けバッチを開始します...');
-
-  const pullRequests = await fetchPullRequestsWithoutLabels();
-  console.log(`ラベルのないPRが ${pullRequests.length} 件見つかりました`);
-
-
+async function processPullRequestBatch(pullRequests: PullRequest[]): Promise<void> {
   for (const pr of pullRequests) {
     console.log(`PR #${pr.number} "${pr.title}" を処理中...`);
 
@@ -110,8 +116,36 @@ async function main() {
 
     await addLabelsToPullRequest(pr.number, labels);
   }
+}
 
-  console.log('処理が完了しました');
+/**
+ * メイン処理
+ */
+async function main() {
+  console.log('PR自動ラベル付けバッチを開始します...');
+  console.log(`バッチサイズ: ${BATCH_SIZE} PRs/バッチ`);
+
+  let page = 1;
+  let hasNextPage = true;
+  let totalProcessed = 0;
+
+  while (hasNextPage) {
+    console.log(`ページ ${page} を処理中...`);
+    
+    const result = await fetchPullRequestsWithoutLabels(page, BATCH_SIZE);
+    hasNextPage = result.hasNextPage;
+    
+    console.log(`ページ ${page} でラベルのないPRが ${result.pullRequests.length} 件見つかりました`);
+    
+    if (result.pullRequests.length > 0) {
+      await processPullRequestBatch(result.pullRequests);
+      totalProcessed += result.pullRequests.length;
+    }
+    
+    page++;
+  }
+
+  console.log(`処理が完了しました。合計 ${totalProcessed} 件のPRを処理しました。`);
 }
 
 main().catch(error => {
