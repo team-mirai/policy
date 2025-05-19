@@ -53,10 +53,11 @@
 
 ## 変更提案について
 
-本マニフェストによる変更提案は２つの形で受付をしています。
+本マニフェストへの変更提案は、以下の方法で受け付けています。
+*   [こちらのチャット](https://policy.team-mir.ai/view/README.md)で政策要望を提出する
+*   [GitHub](https://github.com/team-mirai/policy/pulls)でPull Requestを提出する
 
-* [こちら](https://policy.team-mir.ai/view/README.md)のページから、チャットで政策要望を提出する  
-* （玄人向け）[GitHub](https://github.com/team-mirai/policy/pulls)でPull Requestを提出する
+現在提案されている変更の一覧は、[こちらのGitHubページ](https://github.com/team-mirai/policy/pulls)でご確認いただけます。GitHubのページでは、それぞれの提案内容について議論に参加することも可能です。
 
 　頂いた変更提案は、チームみらいが責任をもって確認します。変更提案をマニフェストに反映させるかどうかについては、チームみらいが権限を持ちます。当初マニフェストとは異なる方向性の提案であっても、真剣に検討し、反映するかどうかを考えます。
 
