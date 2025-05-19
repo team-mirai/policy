@@ -98,6 +98,7 @@ async function main() {
   const pullRequests = await fetchPullRequestsWithoutLabels();
   console.log(`ラベルのないPRが ${pullRequests.length} 件見つかりました`);
 
+
   for (const pr of pullRequests) {
     console.log(`PR #${pr.number} "${pr.title}" を処理中...`);
 
