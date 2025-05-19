@@ -4,7 +4,7 @@ interface FileLabelMapping {
 }
 
 export const fileLabelMappings: FileLabelMapping[] = [
-  // { pattern: "10_ステップ１「デジタル時代の当たり前をやりきる」.md", label: "デジタル" },
+  { pattern: "README.md", label: "README" },
   { pattern: "11_ステップ１教育.md", label: "教育" },
   { pattern: "12_ステップ１子育て.md", label: "子育て" },
   { pattern: "13_ステップ１行政改革.md", label: "行政改革" },
@@ -25,7 +25,7 @@ export const fileLabelMappings: FileLabelMapping[] = [
   { pattern: "35_ステップ３エネルギー.md", label: "エネルギー" },
   { pattern: "36_ステップ３経済財政.md", label: "経済財政" },
 
-  // { pattern: "01_チームみらいのビジョン.md", label: "ビジョン" },
+  { pattern: "01_チームみらいのビジョン.md", label: "ビジョン" },
   // { pattern: "02_政策インデックス.md", label: "インデックス" },
   // { pattern: "40_国政政党成立後100日プラン.md", label: "100日プラン" },
   { pattern: "50_国政のその他重要分野.md", label: "その他政策" }
