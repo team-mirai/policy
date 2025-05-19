@@ -29,9 +29,10 @@ async function fetchPullRequestsWithoutLabels(page: number = 1, perPage: number 
       state: 'open',
       per_page: perPage,
       page: page,
+      labels: 'none', // APIレベルでラベルなしPRをフィルタリング
     });
 
-    const pullRequests = data.filter(pr => pr.labels.length === 0) as PullRequest[];
+    const pullRequests = data as PullRequest[];
     
     const hasNextPage = data.length === perPage;
 
