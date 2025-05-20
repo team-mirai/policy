@@ -1,3 +1,4 @@
+
 # チームみらい　マニフェスト ver.0.1 (超初期版）
 
 ようこそ！　このリポジトリは、チームみらいのマニフェストを皆さんと共に議論し、改善するためのオープンソースリポジトリです。
@@ -50,7 +51,7 @@
 
 [チームみらい公式サイト](https://team-mir.ai/)  
 [安野たかひろXアカウント](https://x.com/takahiroanno)  
-[安野たかひろ公式YouTube](https://www.youtube.com/@%E5%AE%89%E9%87%8E%E8%B2%B4%E5%8D%9A)
+[安野たかひろ公式YouTube](https://www.youtube.com/@%E5%AE%89%E9%87%8E%E8%B2%B4%E5%8D%9A)  
 
 ## 変更提案について
 
