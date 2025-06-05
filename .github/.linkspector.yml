@@ -16,3 +16,5 @@ ignorePatterns:
     # "reason": "ODIN website returns Status 500 errors consistently"
   - pattern: '^%20https://'
     # "reason": "Malformed URLs with spaces at the beginning"
+  - pattern: '^https://www\.science\.org/'
+    # "reason": "Science.org blocks automated requests from GitHub Actions with 403 errors"
