@@ -1,0 +1,19 @@
+name: Slack Notification on PR Merge
+
+on:
+  pull_request:
+    types: [closed]
+    branches: [main]
+
+jobs:
+  notify-slack:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Send Slack notification
+        run: |
+          curl -X POST -H 'Content-type: application/json' \
+            --data "{
+              \"text\": \"政策提案がマニフェストに取り込まれました🎉\\n\\n<${{ github.event.pull_request.html_url }}|${{ github.event.pull_request.title }}>\\n提案者: ${{ github.event.pull_request.user.login }}\\n対応者: ${{ github.event.pull_request.merged_by.login }}\"
+            }" \
+            ${{ secrets.SLACK_WEBHOOK_URL_01 }}
