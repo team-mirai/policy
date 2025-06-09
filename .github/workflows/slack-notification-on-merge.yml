@@ -27,6 +27,6 @@ jobs:
         run: |
           curl -X POST -H 'Content-type: application/json' \
             --data "{
-              \"text\": \"政策提案がマニフェストに取り込まれました🎉\\n\\n<${{ github.event.pull_request.html_url }}|${{ github.event.pull_request.title }}>\\n提案者: ${{ github.event.pull_request.user.login }}\\n対応者: ${{ github.event.pull_request.merged_by.login }}\\n変更ファイル: ${{ steps.get-pr-info.outputs.changed_files }}\\nラベル: ${{ steps.get-pr-info.outputs.labels }}\"
+              \"text\": \"政策提案がマニフェストに取り込まれました:tada:\\n\\n*<${{ github.event.pull_request.html_url }}|${{ github.event.pull_request.title }}>*\\n• 提案者: ${{ github.event.pull_request.user.login }}\\n• 対応者: ${{ github.event.pull_request.merged_by.login }}\\n• 変更ファイル: ${{ steps.get-pr-info.outputs.changed_files }}\\n• ラベル: ${{ steps.get-pr-info.outputs.labels }}\"
             }" \
             ${{ secrets.SLACK_WEBHOOK_URL_01 }}
