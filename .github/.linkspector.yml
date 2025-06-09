@@ -12,5 +12,7 @@ ignorePatterns:
     # "reason": "METI government PDF links often timeout in CI"
   - pattern: '^https://www.jftc.go.jp/'
     # "reason": "JFTC government links often return 403 in CI"
+  - pattern: '^https://odin\.opendatawatch\.com/'
+    # "reason": "ODIN website returns Status 500 errors consistently"
   - pattern: '^%20https://'
     # "reason": "Malformed URLs with spaces at the beginning"
