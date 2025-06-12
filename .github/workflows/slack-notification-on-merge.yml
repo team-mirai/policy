@@ -41,10 +41,18 @@ jobs:
             echo "handler=${{ github.actor }}" >> $GITHUB_OUTPUT
           fi
       
-      - name: Send Slack notification
+      - name: Send Slack notification to first channel
         run: |
           curl -X POST -H 'Content-type: application/json' \
             --data "{
               \"text\": \"${{ steps.message-template.outputs.message }}\\n\\n*<${{ github.event.pull_request.html_url }}|${{ github.event.pull_request.title }}>*\\n* 提案者: ${{ github.event.pull_request.user.login }}\\n* 対応者: ${{ steps.message-template.outputs.handler }}\\n* 変更ファイル: ${{ steps.get-pr-info.outputs.changed_files }}\\n* ラベル: ${{ steps.get-pr-info.outputs.labels }}\"
             }" \
             ${{ secrets.SLACK_WEBHOOK_URL_01 }}
+      
+      - name: Send Slack notification to second channel
+        run: |
+          curl -X POST -H 'Content-type: application/json' \
+            --data "{
+              \"text\": \"${{ steps.message-template.outputs.message }}\\n\\n*<${{ github.event.pull_request.html_url }}|${{ github.event.pull_request.title }}>*\\n* 提案者: ${{ github.event.pull_request.user.login }}\\n* 対応者: ${{ steps.message-template.outputs.handler }}\\n* 変更ファイル: ${{ steps.get-pr-info.outputs.changed_files }}\\n* ラベル: ${{ steps.get-pr-info.outputs.labels }}\"
+            }" \
+            ${{ secrets.SLACK_WEBHOOK_URL_02 }}
