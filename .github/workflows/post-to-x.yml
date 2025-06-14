@@ -5,6 +5,10 @@ on:
     types: [closed]
     branches:
       - main
+    paths-ignore:
+      - '.github/**'
+      - '.tools/**'
+      - '.meta/**'
 
 jobs:
   post-to-x:
@@ -30,4 +34,4 @@ jobs:
           npm init -y
           npm install twitter-api-v2 typescript @types/node
           npx tsc post_to_x.ts --target ES2020 --module commonjs
-          node post_to_x.js
+          node post_to_x.js 
