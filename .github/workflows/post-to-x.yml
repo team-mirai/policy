@@ -1,10 +1,9 @@
 name: Post PR Info to X
 
 on:
-  pull_request:
+  pull_request_target:
     types: [closed]
-    branches:
-      - main
+    branches: [main]
     paths-ignore:
       - '.github/**'
       - '.tools/**'
@@ -13,6 +12,11 @@ on:
 jobs:
   post-to-x:
     runs-on: ubuntu-latest
+    # 悪意あるユーザーが自分でPRをクローズしただけで通知が送信されることを防ぐため、
+    # 同一リポジトリからのPRまたは実際にマージされたPRのみ通知を行う
+    if: |
+      github.event.pull_request.head.repo.full_name == github.repository ||
+      github.event.pull_request.merged == true
     steps:
       - name: Checkout
         uses: actions/checkout@v4
