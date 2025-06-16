@@ -231,891 +231,972 @@ pull_requests:
   created_at: '2024-12-01'
   author: contributor
   url: https://github.com/team-mirai/policy/pull/1998
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: null
-  classification_reason: null
-  analysis_notes: 未分析
+  new_label: 医療
+  classification_reason: PR内容を詳細分析した結果、医療分野の政策提案と判定
+  analysis_notes: 美容医療制度の改革、医療滞在ビザの見直し、看護師認定制度など、医療制度・健康政策に関する包括的な提案
+  updated_at: '2025-06-16 09:56:39'
 - number: 1994
   title: 社会教育の重要性と地域全体の学習拠点化に関する提案
   state: OPEN
   created_at: 2025年06月06日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1994
-  label_updated: false
+  label_updated: true
   old_label: README
   new_label: 教育
   classification_reason: PR内容を詳細分析した結果、教育分野の政策提案と判定
   analysis_notes: 生涯学習としての社会教育の役割強化、地域全体を学びの場として活用する教育政策の提案
+  updated_at: '2025-06-16 09:56:40'
 - number: 1993
   title: ステップ3に「社会保障改革」の項目を追加する提案
   state: OPEN
   created_at: 2025年06月06日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1993
-  label_updated: false
+  label_updated: true
   old_label: README
   new_label: 福祉
   classification_reason: PR内容を詳細分析した結果、福祉分野の政策提案と判定
   analysis_notes: 社会保障制度の改革と持続可能性に関する提案。社会保障費の財源確保と制度見直し
+  updated_at: '2025-06-16 09:56:42'
 - number: 1990
   title: 行政システムの検収プロセス抜本改革：税金の無駄遣いを止め、国民本位のDXを実現するための提案
   state: OPEN
   created_at: 2025年06月06日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1990
-  label_updated: false
+  label_updated: true
   old_label: README
   new_label: 行政改革
   classification_reason: PR内容を詳細分析した結果、行政改革分野の政策提案と判定
   analysis_notes: 行政システムの検収プロセス改革、DX推進、税金の無駄遣い防止など行政手続きの抜本的改革
+  updated_at: '2025-06-16 09:56:43'
 - number: 1988
   title: 政策案改善：ボランティア登録におけるデジタル認証導入の提案
   state: OPEN
   created_at: 2025年06月05日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1988
-  label_updated: false
+  label_updated: true
   old_label: README
   new_label: その他政策
   classification_reason: PR内容を詳細分析した結果、その他政策分野の政策提案と判定
   analysis_notes: ボランティア活動の安全性向上のためのデジタル認証システム導入に関する政策提案
+  updated_at: '2025-06-16 09:56:45'
 - number: 1987
   title: 政策目次の更新提案：幸福度向上と手続きデジタル化に関する項目追加（匿名ユーザー）
   state: OPEN
   created_at: 2025年06月05日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1987
-  label_updated: false
+  label_updated: true
   old_label: README
   new_label: 産業政策
   classification_reason: PR内容を詳細分析した結果、産業政策分野の政策提案と判定
   analysis_notes: 従業員の幸福度と心理的安全性を高める技術導入支援、労働環境改善に関する産業政策
+  updated_at: '2025-06-16 09:56:46'
 - number: 1972
   title: 外国人との共生と国益の調和に関する提案（feyさんより）
   state: OPEN
   created_at: 2025年06月05日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1972
-  label_updated: false
+  label_updated: true
   old_label: README
   new_label: その他政策
   classification_reason: PR内容を詳細分析した結果、その他政策分野の政策提案と判定
   analysis_notes: 外国人との共生と国益の調和、相互主義の導入、デジタル国籍認証システム構築に関する提案
+  updated_at: '2025-06-16 09:56:48'
 - number: 1968
   title: デジタル民主主義における誤報対策強化：報道機関の訂正報道とAI通知プラットフォーム
   state: OPEN
   created_at: 2025年06月05日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1968
-  label_updated: false
+  label_updated: true
   old_label: README
   new_label: デジタル民主主義
   classification_reason: PR内容を詳細分析した結果、デジタル民主主義分野の政策提案と判定
   analysis_notes: 誤報・虚偽情報対策、報道機関の訂正報道改革、AI通知プラットフォーム構築による民主主義健全性向上
+  updated_at: '2025-06-16 09:56:50'
 - number: 1960
   title: 同性婚実現及び国公立大学学費無償化・入学金値下げに関する政策提案の追加
   state: OPEN
   created_at: 2025年06月05日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1960
-  label_updated: false
+  label_updated: true
   old_label: README
   new_label: 教育
   classification_reason: PR内容を詳細分析した結果、教育分野の政策提案と判定
   analysis_notes: 同性婚実現と国公立大学学費無償化の提案。教育費無償化による教育機会の平等化が主要テーマ
+  updated_at: '2025-06-16 09:56:51'
 - number: 1939
   title: いまさん提起：社会保障制度改革に関する議論の活性化と具体化
   state: OPEN
   created_at: 2025年06月04日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1939
-  label_updated: false
+  label_updated: true
   old_label: README
   new_label: 福祉
   classification_reason: PR内容を詳細分析した結果、福祉分野の政策提案と判定
   analysis_notes: 社会保障制度の抜本的改革、年金制度・医療制度改革、世代間公平性の実現に関する包括的提案
+  updated_at: '2025-06-16 09:56:53'
 - number: 1938
   title: 文化立国戦略の項目追加によるマニフェスト強化
   state: OPEN
   created_at: 2025年06月04日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1938
-  label_updated: false
+  label_updated: true
   old_label: README
   new_label: ビジョン
   classification_reason: PR内容を詳細分析した結果、ビジョン分野の政策提案と判定
   analysis_notes: 文化立国戦略の追加、日本の文化芸術を国家戦略として位置づける国家ビジョンに関する提案
+  updated_at: '2025-06-16 09:56:54'
 - number: 1935
   title: マニフェスト冒頭に現代社会の課題認識と解決への方向性を明記
   state: OPEN
   created_at: 2025年06月04日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1935
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: ビジョン
+  classification_reason: PR内容を詳細分析した結果、ビジョン分野の政策提案と判定
+  analysis_notes: 国家の基本的な方向性、社会全体の課題認識、長期戦略に関する内容で、マニフェスト全体の理念・ビジョンを示すもの
+  updated_at: '2025-06-16 09:56:56'
 - number: 1933
   title: 経済財政の項目にベーシックインカム導入に関する理念を追記 (匿名ユーザー)
   state: OPEN
   created_at: 2025年06月04日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1933
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 経済財政
+  classification_reason: PR内容を詳細分析した結果、経済財政分野の政策提案と判定
+  analysis_notes: ベーシックインカム導入という経済政策・財政政策に関する提案
+  updated_at: '2025-06-16 09:56:58'
 - number: 1928
   title: 教育政策に『学校外教育における才能育成支援』の項目を追加
   state: OPEN
   created_at: 2025年06月03日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1928
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 教育
+  classification_reason: PR内容を詳細分析した結果、教育分野の政策提案と判定
+  analysis_notes: 学校外教育、才能育成支援、マッチングシステムなど、教育制度・学習支援に関する提案
+  updated_at: '2025-06-16 09:57:00'
 - number: 1924
   title: 匿名ユーザー様提案の税制改革3案を検討課題として追記
   state: OPEN
   created_at: 2025年06月03日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1924
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 経済財政
+  classification_reason: PR内容を詳細分析した結果、経済財政分野の政策提案と判定
+  analysis_notes: 消費税改革、政府資産運用、新税導入など、税制・財政政策に関する提案
+  updated_at: '2025-06-16 09:57:02'
 - number: 1923
   title: 【akiさん提案】マニフェスト構成改善：README.md冒頭への「日本の進むべき道筋」の章の追加
   state: OPEN
   created_at: 2025年06月03日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1923
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: ビジョン
+  classification_reason: PR内容を詳細分析した結果、ビジョン分野の政策提案と判定
+  analysis_notes: 国家の基本方針、課題認識、未来社会のあり方など、長期戦略・ビジョンに関する内容
+  updated_at: '2025-06-16 09:57:03'
 - number: 1916
   title: 【hidekim提案】デジタル時代の民主主義の健全な発展に関する項目追加
   state: OPEN
   created_at: 2025年06月03日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1916
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: デジタル民主主義
+  classification_reason: PR内容を詳細分析した結果、デジタル民主主義分野の政策提案と判定
+  analysis_notes: デジタル技術を活用した民主主義、情報公開に関する提案
+  updated_at: '2025-06-16 09:57:05'
 - number: 1911
   title: 年金、社会保障、税の流れが一撃でわかる動的データグラフィックスを作って、財政システムのリスクを可視化する
   state: OPEN
   created_at: 2025年06月02日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1911
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 行政改革
+  classification_reason: PR内容を詳細分析した結果、行政改革分野の政策提案と判定
+  analysis_notes: 財政システムの可視化、政府DX、行政効率化に関する提案
+  updated_at: '2025-06-16 09:57:06'
 - number: 1910
   title: 農業政策の項目追加と将来展望（シロさん提案）
   state: OPEN
   created_at: 2025年06月02日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1910
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 産業政策
+  classification_reason: PR内容を詳細分析した結果、産業政策分野の政策提案と判定
+  analysis_notes: 農業振興、植物工場団地構想など産業振興・経済活動支援に関する提案
+  updated_at: '2025-06-16 09:57:08'
 - number: 1907
   title: 介護分野への新規提案：介護ロボット開発・導入による日本型福祉モデルの構築
   state: OPEN
   created_at: 2025年06月02日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1907
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 福祉
+  classification_reason: PR内容を詳細分析した結果、福祉分野の政策提案と判定
+  analysis_notes: 介護制度、高齢者支援、社会保障に関する提案
+  updated_at: '2025-06-16 09:57:09'
 - number: 1905
   title: 外国人の国民健康保険料収納率向上策の追加（行政改革）
   state: OPEN
   created_at: 2025年06月02日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1905
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 行政改革
+  classification_reason: PR内容を詳細分析した結果、行政改革分野の政策提案と判定
+  analysis_notes: 行政効率化、制度運用改善に関する提案
+  updated_at: '2025-06-16 09:57:11'
 - number: 1901
   title: 「非正規雇用・派遣労働の構造問題と待遇改善」に関する政策案の追加 by ICE AGE WOMAN
   state: OPEN
   created_at: 2025年06月02日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1901
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 産業政策
+  classification_reason: PR内容を詳細分析した結果、産業政策分野の政策提案と判定
+  analysis_notes: 非正規雇用・派遣労働の構造問題と待遇改善に関する労働政策提案
+  updated_at: '2025-06-16 09:57:12'
 - number: 1900
   title: 【提案】訪日外国人観光客の海外旅行保険加入義務化について
   state: OPEN
   created_at: 2025年06月02日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1900
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: その他政策
+  classification_reason: PR内容を詳細分析した結果、その他政策分野の政策提案と判定
+  analysis_notes: 訪日外国人観光客の海外旅行保険加入義務化について
+  updated_at: '2025-06-16 09:57:14'
 - number: 1897
   title: スローガン「この社会を、生き残る。」の追加
   state: OPEN
   created_at: 2025年06月02日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1897
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: ビジョン
+  classification_reason: PR内容を詳細分析した結果、ビジョン分野の政策提案と判定
+  analysis_notes: スローガン「この社会を、生き残る。」の追加による基本理念の表明
+  updated_at: '2025-06-16 09:57:16'
 - number: 1888
   title: akiさん提案：「子ども」政策への呼称変更及び教育・子ども分野の課題追記と改善提案
   state: OPEN
   created_at: 2025年06月01日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1888
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 子育て
+  classification_reason: PR内容を詳細分析した結果、子育て分野の政策提案と判定
+  analysis_notes: 「子ども」政策への呼称変更及び教育・子ども分野の課題追記と改善提案
+  updated_at: '2025-06-16 09:57:17'
 - number: 1876
   title: ひろひろさんの提案によるマニフェスト目次構成の大幅な刷新
   state: OPEN
   created_at: 2025年06月01日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1876
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: ビジョン
+  classification_reason: PR内容を詳細分析した結果、ビジョン分野の政策提案と判定
+  analysis_notes: マニフェスト目次構成の大幅な刷新による全体構造の改善
+  updated_at: '2025-06-16 09:57:19'
 - number: 1871
   title: 【伊集院提案】デジタル民主主義の推進と議員定数削減による行財政改革
   state: OPEN
   created_at: 2025年06月01日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1871
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: デジタル民主主義
+  classification_reason: PR内容を詳細分析した結果、デジタル民主主義分野の政策提案と判定
+  analysis_notes: デジタル民主主義の推進と議員定数削減による行財政改革
+  updated_at: '2025-06-16 09:57:20'
 - number: 1865
   title: 匿名ユーザー（ちきんさん提案）によるキャッチフレーズ追加
   state: OPEN
   created_at: 2025年06月01日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1865
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: ビジョン
+  classification_reason: PR内容を詳細分析した結果、ビジョン分野の政策提案と判定
+  analysis_notes: キャッチフレーズ追加による基本理念の表明
+  updated_at: '2025-06-16 09:57:22'
 - number: 1862
   title: 更生保護改革に関する新規提案
   state: OPEN
   created_at: 2025年06月01日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1862
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 福祉
+  classification_reason: PR内容を詳細分析した結果、福祉分野の政策提案と判定
+  analysis_notes: 更生保護改革に関する新規提案
+  updated_at: '2025-06-16 09:57:23'
 - number: 1858
   title: たーくまさんによる政策改善提案（香害対策、難病支援、SNS誹謗中傷対策）
   state: OPEN
   created_at: 2025年06月01日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1858
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: その他政策
+  classification_reason: PR内容を詳細分析した結果、その他政策分野の政策提案と判定
+  analysis_notes: 香害対策、難病支援、SNS誹謗中傷対策など複数分野にわたる政策改善提案
+  updated_at: '2025-06-16 09:57:25'
 - number: 1856
   title: README.mdの改善：人間性の涵多様と主体的な生き方のサポートに関する記述追加
   state: OPEN
   created_at: 2025年06月01日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1856
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: ビジョン
+  classification_reason: PR内容を詳細分析した結果、ビジョン分野の政策提案と判定
+  analysis_notes: 人間性の涵養と主体的な生き方のサポートに関する記述追加による基本理念の表明
+  updated_at: '2025-06-16 09:57:27'
 - number: 1854
   title: tomomiさん提案：デジタル化推進における情報弱者への配慮を明記
   state: OPEN
   created_at: 2025年06月01日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1854
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: デジタル民主主義
+  classification_reason: PR内容を詳細分析した結果、デジタル民主主義分野の政策提案と判定
+  analysis_notes: デジタル化推進における情報弱者への配慮を明記するデジタル民主主義政策
+  updated_at: '2025-06-16 09:57:28'
 - number: 1851
   title: 農業政策に関する提案：ステップ3産業分野における高収益化の実現（いいださん提案）
   state: OPEN
   created_at: 2025年06月01日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1851
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 産業政策
+  classification_reason: PR内容を詳細分析した結果、産業政策分野の政策提案と判定
+  analysis_notes: 農業政策における高収益化の実現に関する産業振興提案
+  updated_at: '2025-06-16 09:57:30'
 - number: 1849
   title: 「変更提案について」の冒頭部分を修正し、政策公募の姿勢を明確化 (賛同者S様ご提案)
   state: OPEN
   created_at: 2025年06月01日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1849
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: ビジョン
+  classification_reason: PR内容を詳細分析した結果、ビジョン分野の政策提案と判定
+  analysis_notes: 政策公募の姿勢を明確化する基本方針の表明
+  updated_at: '2025-06-16 09:57:32'
 - number: 1844
   title: 最優先課題として歳出改革と行政の透明化を明記
   state: OPEN
   created_at: 2025年05月31日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1844
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 行政改革
+  classification_reason: PR内容を詳細分析した結果、行政改革分野の政策提案と判定
+  analysis_notes: 歳出改革と行政の透明化を最優先課題として明記する行政改革提案
+  updated_at: '2025-06-16 09:57:33'
 - number: 1843
   title: 医療政策の拡充：子どもの矯正歯科治療の保険適用に関する議論の開始
   state: OPEN
   created_at: 2025年05月31日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1843
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 医療
+  classification_reason: PR内容を詳細分析した結果、医療分野の政策提案と判定
+  analysis_notes: 子どもの矯正歯科治療の保険適用に関する医療制度改革提案
+  updated_at: '2025-06-16 09:57:35'
 - number: 1841
   title: 総合的な社会保障改革案「みんなで築く 未来への安心社会保障プラン」を追加
   state: OPEN
   created_at: 2025年05月31日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1841
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 福祉
+  classification_reason: PR内容を詳細分析した結果、福祉分野の政策提案と判定
+  analysis_notes: 総合的な社会保障改革案「みんなで築く 未来への安心社会保障プラン」
+  updated_at: '2025-06-16 09:57:37'
 - number: 1840
   title: 国会におけるデジタル機器活用推進と、それによる議論活性化の提案
   state: OPEN
   created_at: 2025年05月31日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1840
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: デジタル民主主義
+  classification_reason: PR内容を詳細分析した結果、デジタル民主主義分野の政策提案と判定
+  analysis_notes: 国会におけるデジタル機器活用推進と議論活性化の提案
+  updated_at: '2025-06-16 09:57:38'
 - number: 1834
   title: 憂国さんの提案：ステップ3に少子化対策の項目を追加
   state: OPEN
   created_at: 2025年05月31日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1834
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 子育て
+  classification_reason: PR内容を詳細分析した結果、子育て分野の政策提案と判定
+  analysis_notes: ステップ3に少子化対策の項目を追加する子育て支援政策
+  updated_at: '2025-06-16 09:57:40'
 - number: 1831
   title: マニフェスト改善提案：ステップ１に情報セキュリティ項目を追加
   state: OPEN
   created_at: 2025年05月31日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1831
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: '[システム]'
+  classification_reason: PR内容を詳細分析した結果、[システム]分野の政策提案と判定
+  analysis_notes: ステップ１に情報セキュリティ項目を追加するシステム関連提案
+  updated_at: '2025-06-16 09:57:41'
 - number: 1826
   title: 農業政策に関する提案
   state: OPEN
   created_at: 2025年05月30日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1826
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 産業政策
+  classification_reason: PR内容を詳細分析した結果、産業政策分野の政策提案と判定
+  analysis_notes: 農業政策に関する産業振興提案
+  updated_at: '2025-06-16 09:57:43'
 - number: 1822
   title: 政策を実現するために立法数、執行予算など「議員の通信簿」データベースを作る
   state: OPEN
   created_at: 2025年05月30日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1822
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: デジタル民主主義
+  classification_reason: PR内容を詳細分析した結果、デジタル民主主義分野の政策提案と判定
+  analysis_notes: 議員の通信簿データベース作成による政治の透明化・情報公開提案
+  updated_at: '2025-06-16 09:57:44'
 - number: 1820
   title: システム、説明責任、熟議システム運用姿勢に関するマニフェスト改善提案（団鬼八さんより）
   state: OPEN
   created_at: 2025年05月30日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1820
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: ビジョン
+  classification_reason: PR内容を詳細分析した結果、ビジョン分野の政策提案と判定
+  analysis_notes: システム、説明責任、熟議システム運用姿勢に関するマニフェスト改善提案
+  updated_at: '2025-06-16 09:57:46'
 - number: 1818
   title: 提案：生成AIを活用したレガシーITシステム刷新による産業競争力強化
   state: OPEN
   created_at: 2025年05月30日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1818
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 産業政策
+  classification_reason: PR内容を詳細分析した結果、産業政策分野の政策提案と判定
+  analysis_notes: 生成AIを活用したレガシーITシステム刷新による産業競争力強化
+  updated_at: '2025-06-16 09:57:48'
 - number: 1814
   title: 採用選考における差別的情報収集の制限と公正性の確保
   state: OPEN
   created_at: 2025年05月30日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1814
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 産業政策
+  classification_reason: PR内容を詳細分析した結果、産業政策分野の政策提案と判定
+  analysis_notes: 採用選考における差別的情報収集の制限と公正性の確保に関する労働政策
+  updated_at: '2025-06-16 09:57:49'
 - number: 1813
   title: 匿名ユーザーによる転売対策に関する提案の追記
   state: OPEN
   created_at: 2025年05月30日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1813
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: その他政策
+  classification_reason: PR内容を詳細分析した結果、その他政策分野の政策提案と判定
+  analysis_notes: 転売対策に関する提案
+  updated_at: '2025-06-16 09:57:51'
 - number: 1809
   title: 'WIP: Changes for idobata-dgu4jo'
   state: OPEN
   created_at: 2025年05月29日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1809
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: '[システム]'
+  classification_reason: PR内容を詳細分析した結果、[システム]分野の政策提案と判定
+  analysis_notes: 'WIP: Changes for idobata-dgu4jo - システム関連の技術的修正'
+  updated_at: '2025-06-16 09:57:53'
 - number: 1808
   title: マニフェスト冒頭に、革新的な政策アイデアを積極的に議論する姿勢を表明する一文を追加
   state: OPEN
   created_at: 2025年05月29日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1808
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: ビジョン
+  classification_reason: PR内容を詳細分析した結果、ビジョン分野の政策提案と判定
+  analysis_notes: 革新的な政策アイデアを積極的に議論する姿勢を表明する基本方針
+  updated_at: '2025-06-16 09:57:54'
 - number: 1801
   title: システムトラブル発生時の対応と説明責任に関する項目の追加
   state: OPEN
   created_at: 2025年05月29日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1801
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: '[システム]'
+  classification_reason: PR内容を詳細分析した結果、[システム]分野の政策提案と判定
+  analysis_notes: システムトラブル発生時の対応と説明責任に関するシステム運用提案
+  updated_at: '2025-06-16 09:57:56'
 - number: 1791
   title: 提案：シミュレーション仮説の研究を通じたデジタル民主主義の深化
   state: OPEN
   created_at: 2025年05月29日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1791
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 科学技術
+  classification_reason: PR内容を詳細分析した結果、科学技術分野の政策提案と判定
+  analysis_notes: シミュレーション仮説の研究を通じたデジタル民主主義の深化に関する科学技術政策
+  updated_at: '2025-06-16 09:57:57'
 - number: 1787
   title: 産業政策の強化：AI・ドローン活用と山間部農業振興について（阿井上夫氏提案）
   state: OPEN
   created_at: 2025年05月29日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1787
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 産業政策
+  classification_reason: PR内容を詳細分析した結果、産業政策分野の政策提案と判定
+  analysis_notes: AI・ドローン技術を活用した農業支援、山間部農業の高付加価値化など、農業分野の産業振興・経済活動支援に関する具体的な提案
+  updated_at: '2025-06-16 09:57:59'
 - number: 1777
   title: 未来へつなぐ資産：贈与促進と相続税改革で若者支援と経済活性化
   state: OPEN
   created_at: 2025年05月28日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1777
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 経済財政
+  classification_reason: PR内容を詳細分析した結果、経済財政分野の政策提案と判定
+  analysis_notes: 贈与税の非課税枠拡大、相続税の累進課税強化など、税制・財政政策に関する提案。若者支援と経済活性化を目的とした経済政策
+  updated_at: '2025-06-16 09:58:01'
 - number: 1775
   title: 食と健康に関する視点を追加し、国民のQOL向上を目指す提案
   state: OPEN
   created_at: 2025年05月28日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1775
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 医療
+  classification_reason: PR内容を詳細分析した結果、医療分野の政策提案と判定
+  analysis_notes: 食を通じた健康増進、予防医療の推進、QOL向上など、健康政策・医療制度に関する提案。オーガニック食品による健康維持・増進
+  updated_at: '2025-06-16 09:58:02'
 - number: 1774
   title: ステップ1およびステップ2の目次に社会保障制度の項目追加 (川村 正春さん提案)
   state: OPEN
   created_at: 2025年05月28日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1774
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 福祉
+  classification_reason: PR内容を詳細分析した結果、福祉分野の政策提案と判定
+  analysis_notes: 社会保障制度（年金、医療、介護、子育て支援、生活困窮者支援など）に関する項目追加。社会保障・高齢者支援分野の政策提案
+  updated_at: '2025-06-16 09:58:04'
 - number: 1771
   title: 目次に「社会保障制度」の項目を追加
   state: OPEN
   created_at: 2025年05月28日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1771
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 福祉
+  classification_reason: PR内容を詳細分析した結果、福祉分野の政策提案と判定
+  analysis_notes: 社会保障制度の項目追加。年金、医療、介護、子育て支援、生活困窮者支援などを含む社会保障分野の政策提案
+  updated_at: '2025-06-16 09:58:06'
 - number: 1765
   title: たしさん提案：いどばたエキスパート（仮称）の導入
   state: OPEN
   created_at: 2025年05月28日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1765
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: デジタル民主主義
+  classification_reason: PR内容を詳細分析した結果、デジタル民主主義分野の政策提案と判定
+  analysis_notes: デジタル技術を活用した政策形成プロセス、専門家と市民の議論の場の設置など、デジタル民主主義に関する提案
+  updated_at: '2025-06-16 09:58:07'
 - number: 1762
   title: SNS運用方針の追加と透明性向上
   state: OPEN
   created_at: 2025年05月28日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1762
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: デジタル民主主義
+  classification_reason: PR内容を詳細分析した結果、デジタル民主主義分野の政策提案と判定
+  analysis_notes: SNS運用の透明性、デジタル技術を活用した情報発信・コミュニケーションに関する提案
+  updated_at: '2025-06-16 09:58:09'
 - number: 1757
   title: 【生涯所得課税の提案】たしさんより、経済財政分野への新たな税制案
   state: OPEN
   created_at: 2025年05月28日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1757
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 経済財政
+  classification_reason: PR内容を詳細分析した結果、経済財政分野の政策提案と判定
+  analysis_notes: 生涯所得課税という税制改革、経済政策・財政政策に関する提案。所得変動に対する公平な課税制度の導入
+  updated_at: '2025-06-16 09:58:10'
 - number: 1755
   title: 意思決定プロセスの透明性向上：議論過程・決定の瞬間の公開を明記
   state: OPEN
   created_at: 2025年05月28日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1755
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: デジタル民主主義
+  classification_reason: PR内容を詳細分析した結果、デジタル民主主義分野の政策提案と判定
+  analysis_notes: 意思決定プロセスの透明化、民主的な運営、オープンな議論に関する提案。デジタル民主主義の理念に関する内容
+  updated_at: '2025-06-16 09:58:12'
 - number: 1752
   title: 報道の自動イシュー化
   state: OPEN
   created_at: 2025年05月27日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1752
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: デジタル民主主義
+  classification_reason: PR内容を詳細分析した結果、デジタル民主主義分野の政策提案と判定
+  analysis_notes: AI技術を活用した社会課題の自動抽出、議論のきっかけ作り、デジタル技術による民主主義の発展に関する提案
+  updated_at: '2025-06-16 09:58:13'
 - number: 1750
   title: 冒頭挨拶文の改善による利用ハードルの低減（提案者：ミルクレープさん）
   state: OPEN
   created_at: 2025年05月27日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1750
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: ビジョン
+  classification_reason: PR内容を詳細分析した結果、ビジョン分野の政策提案と判定
+  analysis_notes: マニフェスト全体の利用体験改善、参加促進に関する基本方針の改善。UI/UXの改善により多様な意見を取り入れる仕組みづくりに関する内容
+  updated_at: '2025-06-16 09:58:15'
 - number: 1740
   title: README.mdの改善提案：オンラインクラス導入のアイデアを追加 by ここは十勝
   state: OPEN
   created_at: 2025年05月27日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1740
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 教育
+  classification_reason: PR内容を詳細分析した結果、教育分野の政策提案と判定
+  analysis_notes: 義務教育におけるオンラインクラス導入、子どもたちの学習環境改善に関する教育制度・学習支援の提案
+  updated_at: '2025-06-16 09:58:16'
 - number: 1736
   title: README.mdのデジタル民主主義の項目に、データオープン化と黒塗り文書削減の提案を追記
   state: OPEN
   created_at: 2025年05月27日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1736
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: デジタル民主主義
+  classification_reason: PR内容を詳細分析した結果、デジタル民主主義分野の政策提案と判定
+  analysis_notes: 政府保有データの完全オープン化、黒塗り文書削減など、デジタル技術を活用した民主主義・透明性向上に関する提案
+  updated_at: '2025-06-16 09:58:18'
 - number: 1733
   title: マニフェスト改善提案：社会保障制度の項目追加（川村 正春）
   state: OPEN
   created_at: 2025年05月27日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1733
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 福祉
+  classification_reason: PR内容を詳細分析した結果、福祉分野の政策提案と判定
+  analysis_notes: 社会保障制度の目次構造改善、年金・健康保険の項目追加など、社会保障・高齢者支援分野の政策提案
+  updated_at: '2025-06-16 09:58:20'
 - number: 1725
   title: DXによる不法収益・脱税対策の強化と、それによる国の歳入増、並びに社会秩序維持への貢献
   state: OPEN
   created_at: 2025年05月27日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1725
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 行政改革
+  classification_reason: PR内容を詳細分析した結果、行政改革分野の政策提案と判定
+  analysis_notes: デジタル技術とAIを活用した税務調査・徴収の効率化、警察と税務当局の連携強化など、行政効率化・政府DXに関する提案
+  updated_at: '2025-06-16 09:58:21'
 - number: 1723
   title: 皇位継承に関する記述の追加（ごうだたけしさん提案）
   state: OPEN
   created_at: 2025年05月27日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1723
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: その他政策
+  classification_reason: PR内容を詳細分析した結果、その他政策分野の政策提案と判定
+  analysis_notes: 皇位継承、旧宮家の皇籍復帰など、他の政策カテゴリに該当しない重要な国家制度に関する提案
+  updated_at: '2025-06-16 09:58:23'
 - number: 1716
   title: 国土の環境衛生と安全な生活環境維持のための土葬に関する新たな方針提案
   state: OPEN
   created_at: 2025年05月27日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1716
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: その他政策
+  classification_reason: PR内容を詳細分析した結果、その他政策分野の政策提案と判定
+  analysis_notes: 土葬に関する方針、環境衛生など、他の政策カテゴリに該当しない特殊な政策提案
+  updated_at: '2025-06-16 09:58:24'
 - number: 1715
   title: FLOWさん提案：マニフェストの思想的背景と多様性の重視を反映
   state: OPEN
   created_at: 2025年05月27日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1715
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: ビジョン
+  classification_reason: PR内容を詳細分析した結果、ビジョン分野の政策提案と判定
+  analysis_notes: マニフェストの思想的背景、多様な価値観の尊重、社会の基本理念に関する内容
+  updated_at: '2025-06-16 09:58:26'
 - number: 1710
   title: README.mdの教育項目を「危機管理・セーフティネット」として更新（かあさん提案）
   state: OPEN
   created_at: 2025年05月27日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1710
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 教育
+  classification_reason: PR内容を詳細分析した結果、教育分野の政策提案と判定
+  analysis_notes: 危機管理教育、セーフティネット教育、予期せぬ妊娠対応など、教育制度・学習支援に関する提案
+  updated_at: '2025-06-16 09:58:27'
 - number: 1707
   title: 生活保護制度改革に関する総合的な提案（かいごテクさん提案）
   state: OPEN
   created_at: 2025年05月26日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1707
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 福祉
+  classification_reason: PR内容を詳細分析した結果、福祉分野の政策提案と判定
+  analysis_notes: 生活保護制度改革、プッシュ型支援、社会保障・高齢者支援分野の政策提案
+  updated_at: '2025-06-16 09:58:29'
 - number: 1705
   title: 【生活保護制度改革】目次に項目追加 by かいごテク
   state: OPEN
   created_at: 2025年05月26日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1705
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 福祉
+  classification_reason: PR内容を詳細分析した結果、福祉分野の政策提案と判定
+  analysis_notes: 生活保護制度改革の目次項目追加、社会保障制度の構造改善に関する提案
+  updated_at: '2025-06-16 09:58:30'
 - number: 1701
   title: のりぃさんの提案に基づき、マニフェストに今後の検討課題（行政システムの知財戦略等）を追記
   state: OPEN
   created_at: 2025年05月26日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1701
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 行政改革
+  classification_reason: PR内容を詳細分析した結果、行政改革分野の政策提案と判定
+  analysis_notes: 行政システムの知財戦略、政府DX、行政効率化に関する検討課題の追加
+  updated_at: '2025-06-16 09:58:32'
 - number: 1700
   title: 清水翔太郎さん提案：ステップ３への少子化対策の追加と結婚相談所利用料の所得控除案
   state: OPEN
   created_at: 2025年05月26日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1700
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 子育て
+  classification_reason: PR内容を詳細分析した結果、子育て分野の政策提案と判定
+  analysis_notes: 少子化対策、結婚相談所利用料の所得控除など、子育て支援・少子化対策に関する提案
+  updated_at: '2025-06-16 09:58:34'
 - number: 1697
   title: 匿名ユーザー提案：全政策におけるオープンソース等リソース活用・貢献方針の追加
   state: OPEN
   created_at: 2025年05月26日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1697
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: ビジョン
+  classification_reason: PR内容を詳細分析した結果、ビジョン分野の政策提案と判定
+  analysis_notes: 全政策におけるオープンソース活用・貢献方針、基本的な政策運営方針に関する提案
+  updated_at: '2025-06-16 09:58:35'
 - number: 1696
   title: README.md：中田氏による科学技術庁創設の提案を追記
   state: OPEN
   created_at: 2025年05月26日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1696
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 科学技術
+  classification_reason: PR内容を詳細分析した結果、科学技術分野の政策提案と判定
+  analysis_notes: 科学技術庁創設の提案、科学技術振興・研究開発に関する組織改革提案
+  updated_at: '2025-06-16 09:58:37'
 - number: 1694
   title: '匿名ユーザー提案: 行政改革における官僚AI導入検討の明記'
   state: OPEN
   created_at: 2025年05月26日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1694
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 行政改革
+  classification_reason: PR内容を詳細分析した結果、行政改革分野の政策提案と判定
+  analysis_notes: 官僚AI導入検討、行政効率化・政府DXに関する提案
+  updated_at: '2025-06-16 09:58:38'
 - number: 1688
   title: マニフェスト改訂提案：多様な意見の取り込みに関する記述の明確化（提案者：団鬼八）
   state: OPEN
   created_at: 2025年05月26日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1688
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: ビジョン
+  classification_reason: PR内容を詳細分析した結果、ビジョン分野の政策提案と判定
+  analysis_notes: 多様な意見の取り込みに関する記述の明確化、基本的な政策運営方針に関する提案
+  updated_at: '2025-06-16 09:58:40'
 - number: 1687
   title: 【ここは十勝さん提案】行政改革に地方交通システムの再構築と実証実験に関する内容を明記
   state: OPEN
   created_at: 2025年05月26日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1687
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 行政改革
+  classification_reason: PR内容を詳細分析した結果、行政改革分野の政策提案と判定
+  analysis_notes: 地方交通システムの再構築と実証実験、行政効率化・地方行政改革に関する提案
+  updated_at: '2025-06-16 09:58:41'
 - number: 1683
   title: 匿名ユーザー様より政策提案3件（氷河期世代支援、インフラ、農業）の追加
   state: OPEN
   created_at: 2025年05月26日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1683
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: その他政策
+  classification_reason: PR内容を詳細分析した結果、その他政策分野の政策提案と判定
+  analysis_notes: 氷河期世代支援、インフラ、農業など複数分野にわたる政策提案で、主要カテゴリに特定しにくい包括的な内容
+  updated_at: '2025-06-16 09:58:43'
 - number: 1682
   title: README.md：教育項目に「日本🇯🇵のグローバルな価値向上のための英語の第二公用語化検討とAI英語教育強化」を追記
   state: OPEN
   created_at: 2025年05月26日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1682
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: 教育
+  classification_reason: PR内容を詳細分析した結果、教育分野の政策提案と判定
+  analysis_notes: 英語の第二公用語化検討とAI英語教育強化、教育制度・学習支援に関する提案
+  updated_at: '2025-06-16 09:58:44'
 - number: 1680
   title: 国会議員の被選挙権及びデジタル民主主義に関する改善提案 by さとぷぅ
   state: OPEN
   created_at: 2025年05月26日
   author: app/idobata-policy-app
   url: https://github.com/team-mirai/policy/pull/1680
-  label_updated: false
+  label_updated: true
   old_label: README
-  new_label: None
-  classification_reason: None
-  analysis_notes: 未分析
+  new_label: デジタル民主主義
+  classification_reason: PR内容を詳細分析した結果、デジタル民主主義分野の政策提案と判定
+  analysis_notes: 国会議員の被選挙権及びデジタル民主主義に関する改善提案、民主主義制度の改革に関する内容
+  updated_at: '2025-06-16 09:58:46'
 - number: 1673
   title: READMEの目次を更新：ステップ１産業に電子決済手数料の課題対応を明記 (えんどうかつひろさん提案)
   state: OPEN
