@@ -1,0 +1,6 @@
+# PR分析作業用の一時ファイル
+.pr_analysis/pr_*_analysis.md
+.pr_analysis/analysis_files_list.json
+.pr_analysis/remaining_prs.yaml
+.pr_analysis/pr_analysis_results.json
+.pr_analysis/*.py 
