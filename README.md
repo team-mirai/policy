@@ -50,8 +50,8 @@
 チームみらい、安野たかひろについての最新情報は下記よりご確認ください。
 
 [チームみらい公式サイト](https://team-mir.ai/)  
-[安野たかひろXアカウント](httpshttps://x.com/takahiroanno)  
-[安野たかひろ公式YouTube](https://www.youtube.com/@%E5%AE%89%E9%87%8E%E8%B2%B4%E5%8D%9A)
+[安野たかひろXアカウント](https://x.com/takahiroanno)  
+[安野たかひろ公式YouTube](https://www.youtube.com/@%E5%AE%89%E9%87%8E%E8%B2_B4_E5_8D_9A)
 
 ## 変更提案について
 
@@ -108,4 +108,3 @@
 ## おしゃべりできるシステム『いどばたシステム』について
 
 - [デジタル民主主義2030](https://dd2030.org)で開発した[『いどばた』](https://github.com/digitaldemocracy2030/idobata/)を活用しています
-
