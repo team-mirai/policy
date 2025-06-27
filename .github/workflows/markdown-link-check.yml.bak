@@ -1,0 +1,20 @@
+name: Check Markdown links
+
+on:
+  pull_request:
+    branches: [ main ]
+    paths:
+      - '**.md'
+
+jobs:
+  markdown-link-check:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: umbrelladocs/action-linkspector@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          reporter: github-pr-annotations
+          filter_mode: nofilter
+          fail_level: any
+          config_file: .github/.linkspector.yml
