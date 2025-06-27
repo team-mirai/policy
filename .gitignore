@@ -1,0 +1,5 @@
+# Claude local settings
+.claude/settings.local.json
+
+# PR analysis directory
+.pr_analysis/
