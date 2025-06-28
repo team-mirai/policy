@@ -108,6 +108,7 @@
 
 - [デジタル民主主義2030](https://dd2030.org)で開発した[『いどばた』](https://github.com/digitaldemocracy2030/idobata/)を活用しています
 
+---
 ### 生活保護の見直し
 
 #### 背景
