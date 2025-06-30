@@ -11,10 +11,13 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
-      - uses: umbrelladocs/action-linkspector@v1
+      
+      - uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          reporter: github-pr-annotations
-          filter_mode: nofilter
-          fail_level: any
-          config_file: .github/.linkspector.yml
+          use-quiet-mode: 'yes'
+          use-verbose-mode: 'no'
+          config-file: '.github/markdown-link-check-config.json'
+          folder-path: '.'
+          file-extension: '.md'
+          check-modified-files-only: 'yes'
+          base-branch: 'main'
