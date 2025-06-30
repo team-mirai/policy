@@ -1,13 +1,18 @@
 name: Slack Notification on PR Close
 
 on:
-  pull_request:
+  pull_request_target:
     types: [closed]
     branches: [main]
 
 jobs:
   notify-slack:
     runs-on: ubuntu-24.04
+    # 悪意あるユーザーが自分でPRをクローズしただけで通知が送信されることを防ぐため、
+    # 同一リポジトリからのPRまたは実際にマージされたPRのみ通知を行う
+    if: |
+      github.event.pull_request.head.repo.full_name == github.repository ||
+      github.event.pull_request.merged == true
     steps:
       - name: Get PR labels and changed files
         id: get-pr-info

@@ -1,0 +1,36 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^https://x.com/"
+    },
+    {
+      "pattern": "^https://www.meti.go.jp/.*\\.pdf$"
+    },
+    {
+      "pattern": "^https://www.jftc.go.jp/"
+    },
+    {
+      "pattern": "^https://odin.opendatawatch.com/"
+    },
+    {
+      "pattern": "^https://www.science.org/"
+    },
+    {
+      "pattern": "^https://ai.gov.uk/"
+    }
+  ],
+  "replacementPatterns": [],
+  "httpHeaders": [
+    {
+      "urls": ["https://"],
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; markdown-link-check)"
+      }
+    }
+  ],
+  "timeout": "20s",
+  "retryOn429": true,
+  "retryCount": 3,
+  "fallbackRetryDelay": "30s",
+  "aliveStatusCodes": [200, 201, 202, 203, 204, 205, 206]
+}
