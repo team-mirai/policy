@@ -53,9 +53,9 @@
 [安野たかひろXアカウント](https://x.com/takahiroanno)  
 [安野たかひろ公式YouTube](https://www.youtube.com/@%E5%AE%89%E9%87%8E%E8%B2%B4%E5%8D%9A)
 
-## 変更提案について
+## ご意見やご質問について
 
-本マニフェストによる変更提案は２つの形で受付をしています。
+本マニフェストへのご意見やご質問は、２つの形で受け付けています。
 
 * [こちら](https://policy.team-mir.ai/view/README.md)のページから、チャットで政策要望を提出する  
 * （玄人向け）[GitHub](https://github.com/team-mirai/policy/pulls)でPull Requestを提出する
@@ -109,4 +109,3 @@
 ## おしゃべりできるシステム『いどばたシステム』について
 
 - [デジタル民主主義2030](https://dd2030.org)で開発した[『いどばた』](https://github.com/digitaldemocracy2030/idobata/)を活用しています
-
