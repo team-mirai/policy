@@ -55,12 +55,11 @@
 
 ## 変更提案について
 
-本マニフェストによる変更提案は２つの形で受付をしています。
+本マニフェストに関するご提案やご連絡は、以下の形で受付をしています。
 
-* [こちら](https://policy.team-mir.ai/view/README.md)のページから、チャットで政策要望を提出する  
-* （玄人向け）[GitHub](https://github.com/team-mirai/policy/pulls)でPull Requestを提出する
-
-　頂いた変更提案は、チームみらいが責任をもって確認します。変更提案をマニフェストに反映させるかどうかについては、チームみらいが権限を持ちます。当初マニフェストとは異なる方向性の提案であっても、真剣に検討し、反映するかどうかを考えます。
+*   政策に関するご提案: [こちら](https://policy.team-mir.ai/view/README.md)のページから、チャットでご提出ください。
+*   緊急のバグ報告など技術的なご連絡: [チームみらい公式サイト](https://team-mir.ai/)のお問い合わせフォームをご利用ください。
+*   （開発者向け）GitHubでの直接提案: [GitHub](https://github.com/team-mirai/policy/pulls)でPull Requestを提出する
 
 ## 注意事項
 
@@ -109,3 +108,4 @@
 ## おしゃべりできるシステム『いどばたシステム』について
 
 - [デジタル民主主義2030](https://dd2030.org)で開発した[『いどばた』](https://github.com/digitaldemocracy2030/idobata/)を活用しています
+
