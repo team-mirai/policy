@@ -1,0 +1,59 @@
+name: PR Comment for Notification Info
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+    paths:
+      - '[0-9]*.md'
+
+jobs:
+  comment-notification-info:
+    runs-on: ubuntu-latest
+    # 初回のPRオープン時、または政策ファイルが初めて追加された時のみコメント
+    steps:
+      - name: Check if comment already exists
+        id: check-comment
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const comments = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+            
+            const botComment = comments.data.find(comment => 
+              comment.user.type === 'Bot' && 
+              comment.body.includes('X（旧Twitter）通知について')
+            );
+            
+            return !botComment;
+
+      - name: Post notification info comment
+        if: steps.check-comment.outputs.result == 'true'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `## 📢 X（旧Twitter）通知について
+
+このPRがマージされると、自動的にX（旧Twitter）に投稿されます。
+
+もし以下のような政策内容の実質的な変更を含まないPRの場合、X通知をスキップすることができます：
+- タイポや誤字脱字の修正
+- マークダウンのフォーマット調整
+- リンク切れの修正
+- その他、政策内容に実質的な変更を含まない修正
+
+### 通知をスキップする方法
+PRに \`skip-notification\` ラベルを追加してください。
+1. 右側のLabelsセクションをクリック
+2. \`skip-notification\` を選択
+
+※ Slack通知は内部進捗管理のため、引き続き送信されます。`
+            });
