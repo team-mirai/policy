@@ -60,7 +60,7 @@
 
 ## 変更提案について
 
-本マ次に、妃さんからいただいた国際標準や海外事例など、説得力のあるご意見をあますところなく盛り込んだ提案書を作成しました。
+本マニフェストによる変更提案は２つの形で受付をしています。
 
 * [こちら](https://policy.team-mir.ai/view/README.md)のページから、チャットで政策要望を提出する  
 * （玄人向け）[GitHub](https://github.com/team-mirai/policy/pulls)でPull Requestを提出する
@@ -135,3 +135,4 @@
 ## おしゃべりできるシステム『いどばたシステム』について
 
 - [デジタル民主主義2030](https://dd2030.org)で開発した[『いどばた』](https://github.com/digitaldemocracy2030/idobata/)を活用しています
+
