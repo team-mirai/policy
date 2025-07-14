@@ -9,6 +9,9 @@ on:
 jobs:
   comment-notification-info:
     runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      issues: write
     # 初回のPRオープン時、または政策ファイルが初めて追加された時のみコメント
     steps:
       - name: Check if comment already exists
