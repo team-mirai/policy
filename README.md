@@ -62,7 +62,7 @@
 本マニフェストによる変更提案は２つの形で受付をしています。
 
 * [こちら](https://policy.team-mir.ai/view/README.md)のページから、チャットで政策要望を提出する  
-* （玄人向け）[GitHub](https://github.com/team-mirai/policy/pulls)でPull Requestを提出する
+* （詳しい方向け）[GitHub](https://github.com/team-mirai/policy/pulls)でPull Requestを提出する
 
 　頂いた変更提案は、チームみらいが責任をもって確認します。変更提案をマニフェストに反映させるかどうかについては、チームみらいが権限を持ちます。当初マニフェストとは異なる方向性の提案であっても、真剣に検討し、反映するかどうかを考えます。
 
@@ -118,7 +118,7 @@
 
 政策内容の変更以外のPR（例：タイポ修正、フォーマット調整、ドキュメント更新など）でX通知を避けたい場合は、PRに `skip-notification` ラベルを付けることで通知をスキップできます。
 
-#### 使い方
+#### सीना
 
 1. Pull Requestを作成後、右側のLabelsセクションから `skip-notification` ラベルを選択して追加
 2. このラベルが付いているPRは、マージされてもX通知が送信されません
@@ -134,3 +134,4 @@
 ## おしゃべりできるシステム『いどばたシステム』について
 
 - [デジタル民主主義2030](https://dd2030.org)で開発した[『いどばた』](https://github.com/digitaldemocracy2030/idobata/)を活用しています
+
