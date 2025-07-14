@@ -4,16 +4,16 @@ on:
   pull_request_target:
     types: [closed]
     branches: [main]
-    paths-ignore:
-      - '.github/**'
-      - '.tools/**'
-      - '.meta/**'
+    paths:
+      - '[0-9]*.md'
 
 jobs:
   post-to-x:
     runs-on: ubuntu-latest
-    # マージされたPRのみX投稿を実行する
-    if: github.event.pull_request.merged == true
+    # マージされたPRのみX投稿を実行する（skip-notificationラベルがついていない場合）
+    if: |
+      github.event.pull_request.merged == true &&
+      !contains(github.event.pull_request.labels.*.name, 'skip-notification')
     steps:
       - name: Checkout
         uses: actions/checkout@v4
