@@ -1,0 +1,21 @@
+PR番号,タイトル,作成者,作成日,ステータス,政策分野（新ラベル）,旧ラベル,分類理由,分析メモ,URL,説明（200文字まで）
+6215,マニフェストの基本方針の明確化と誤字の修正,app/idobata-policy-app,2025-07-13T15:06:20Z,OPEN,[システム],README,タイトル「マニフェストの基本方針の明確化と誤字の修正」と内容から[システム]に分類,自動分類: 2025-07-14,https://github.com/team-mirai/policy/pull/6215,マニフェストの基本方針の明確化と誤字の修正
+6213,提案：チームみらいの基本姿勢にSOGIに関する記述を追加,app/idobata-policy-app,2025-07-13T14:59:49Z,OPEN,ビジョン,README,タイトル「チームみらいの基本姿勢にSOGIに関する記述を追加」と内容からビジョンに分類,自動分類: 2025-07-14,https://github.com/team-mirai/policy/pull/6213,提案：チームみらいの基本姿勢にSOGIに関する記述を追加
+6210,選挙の参加しやすさと公平性を高めるための包括的提案,app/idobata-policy-app,2025-07-13T14:53:05Z,OPEN,デジタル民主主義,README,インターネット投票と選挙制度の改善に関する提案,自動分類後に手動修正: 2025-07-14,https://github.com/team-mirai/policy/pull/6210,選挙の参加しやすさと公平性を高めるための包括的提案
+6207,雪さん提案：性犯罪対策の強化,app/idobata-policy-app,2025-07-13T14:35:23Z,OPEN,その他政策,README,性犯罪対策は司法・治安分野に該当,自動分類後に手動修正: 2025-07-14,https://github.com/team-mirai/policy/pull/6207,雪さん提案：性犯罪対策の強化
+6206,【みらいのくささん提案】3人目の壁を壊す、企業と本人への手厚い子育て支援,app/idobata-policy-app,2025-07-13T14:33:59Z,OPEN,子育て,README,タイトル「3人目の壁を壊す、企業と本人への手厚い子育て支援」と内容から子育てに分類,自動分類: 2025-07-14,https://github.com/team-mirai/policy/pull/6206,【みらいのくささん提案】3人目の壁を壊す、企業と本人への手厚い子育て支援
+6201,匿名ユーザーからの提案：義務投票制と第三者機関による選挙公報の導入,app/idobata-policy-app,2025-07-13T14:20:26Z,OPEN,デジタル民主主義,README,義務投票制と選挙制度改革に関する提案,自動分類後に手動修正: 2025-07-14,https://github.com/team-mirai/policy/pull/6201,匿名ユーザーからの提案：義務投票制と第三者機関による選挙公報の導入
+6200,国連サイバー犯罪条約に関する懸念と表現の自由の擁護,app/idobata-policy-app,2025-07-13T14:20:07Z,OPEN,その他政策,README,サイバー犯罪条約は国際条約・セキュリティ分野,自動分類後に手動修正: 2025-07-14,https://github.com/team-mirai/policy/pull/6200,国連サイバー犯罪条約に関する懸念と表現の自由の擁護
+6195,匿名ユーザーによるマニフェスト改善提案：養育費と性犯罪対策の強化,app/idobata-policy-app,2025-07-13T14:06:03Z,OPEN,子育て,README,養育費に関する提案が含まれているため,自動分類後に手動修正: 2025-07-14,https://github.com/team-mirai/policy/pull/6195,匿名ユーザーによるマニフェスト改善提案：養育費と性犯罪対策の強化
+6194,憲法9条と自衛隊のあり方に関する方針の明確化（すももさん提案）,app/idobata-policy-app,2025-07-13T14:03:22Z,OPEN,その他政策,README,憲法9条と自衛隊は防衛・安全保障分野,自動分類後に手動修正: 2025-07-14,https://github.com/team-mirai/policy/pull/6194,憲法9条と自衛隊のあり方に関する方針の明確化（すももさん提案）
+6192,「多様な家族のあり方を尊重する」という視点を追加する提案,app/idobata-policy-app,2025-07-13T13:57:21Z,OPEN,ビジョン,README,多様な家族のあり方は基本理念に関わる,自動分類後に手動修正: 2025-07-14,https://github.com/team-mirai/policy/pull/6192,「多様な家族のあり方を尊重する」という視点を追加する提案
+6188,匿名ユーザー様による「新たな弔い」に関する統合的政策の提案,app/idobata-policy-app,2025-07-13T13:48:13Z,OPEN,その他政策,README,葬儀・墓地は社会インフラに関わる分野,自動分類後に手動修正: 2025-07-14,https://github.com/team-mirai/policy/pull/6188,匿名ユーザー様による「新たな弔い」に関する統合的政策の提案
+6186,教育：教員の役割見直しと外部人材活用の提案,app/idobata-policy-app,2025-07-13T13:47:19Z,OPEN,教育,README,タイトル「教育：教員の役割見直しと外部人材活用の提案」と内容から教育に分類,自動分類: 2025-07-14,https://github.com/team-mirai/policy/pull/6186,教育：教員の役割見直しと外部人材活用の提案
+6184,農家支援による食料安定供給の強化,app/idobata-policy-app,2025-07-13T13:42:40Z,OPEN,産業政策,README,農家支援と食料安定供給は農業産業政策,自動分類後に手動修正: 2025-07-14,https://github.com/team-mirai/policy/pull/6184,農家支援による食料安定供給の強化
+6183,【みらいのくささん提案】過疎地域のリモートワーク拠点設置を促進する税制優遇,app/idobata-policy-app,2025-07-13T13:42:15Z,OPEN,経済財政,README,タイトル「過疎地域のリモートワーク拠点設置を促進する税制優遇」と内容から経済財政に分類,自動分類: 2025-07-14,https://github.com/team-mirai/policy/pull/6183,【みらいのくささん提案】過疎地域のリモートワーク拠点設置を促進する税制優遇
+6180,氷河期世代支援策の追加,app/idobata-policy-app,2025-07-13T13:33:25Z,OPEN,福祉,README,氷河期世代支援は社会保障・福祉政策,自動分類後に手動修正: 2025-07-14,https://github.com/team-mirai/policy/pull/6180,氷河期世代支援策の追加
+6179,いじめ問題への取り組みに関する章の新設,app/idobata-policy-app,2025-07-13T13:29:55Z,OPEN,教育,README,いじめ問題は教育分野の重要課題,自動分類後に手動修正: 2025-07-14,https://github.com/team-mirai/policy/pull/6179,いじめ問題への取り組みに関する章の新設
+6176,高齢者やデジタルが苦手な方の投票参加を促すための多様な投票方法の提案,app/idobata-policy-app,2025-07-13T13:24:40Z,OPEN,デジタル民主主義,README,高齢者の投票参加促進は民主主義の基盤強化,自動分類後に手動修正: 2025-07-14,https://github.com/team-mirai/policy/pull/6176,高齢者やデジタルが苦手な方の投票参加を促すための多様な投票方法の提案
+6173,【kindleさん提案】マニフェストに「教育産業複合体構想」を追加,app/idobata-policy-app,2025-07-13T13:19:49Z,OPEN,教育,README,タイトル「マニフェストに「教育産業複合体構想」を追加」と内容から教育に分類,自動分類: 2025-07-14,https://github.com/team-mirai/policy/pull/6173,【kindleさん提案】マニフェストに「教育産業複合体構想」を追加
+6163,選択的夫婦別姓制度の導入と旧姓使用の拡充,app/idobata-policy-app,2025-07-13T12:53:18Z,OPEN,ビジョン,README,選択的夫婦別姓は多様性を尊重する基本理念,自動分類後に手動修正: 2025-07-14,https://github.com/team-mirai/policy/pull/6163,選択的夫婦別姓制度の導入と旧姓使用の拡充
+6160,匿名ユーザーによるマイナンバーカードの機能拡充提案,app/idobata-policy-app,2025-07-13T12:46:43Z,OPEN,行政改革,README,マイナンバーカードは行政デジタル化の中核,自動分類後に手動修正: 2025-07-14,https://github.com/team-mirai/policy/pull/6160,匿名ユーザーによるマイナンバーカードの機能拡充提案
