@@ -59,7 +59,7 @@
 
 ## 変更提案について
 
-本マニフェストによる変更提案は２つの形で受付をしています。
+本マニフェストによる変更提案は２つの形で受付をしています。具体的な解決策がまだはっきりしていない段階でも、重要な問題提起や現場の声は歓迎します。
 
 * [こちら](https://policy.team-mir.ai/view/README.md)のページから、チャットで政策要望を提出する  
 * （玄人向け）[GitHub](https://github.com/team-mirai/policy/pulls)でPull Requestを提出する
