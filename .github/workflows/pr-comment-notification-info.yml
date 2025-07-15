@@ -1,7 +1,7 @@
 name: PR Comment for Notification Info
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, synchronize]
     paths:
       - '[0-9]*.md'
