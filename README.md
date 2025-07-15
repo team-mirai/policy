@@ -61,7 +61,7 @@
 
 本マニフェストによる変更提案は２つの形で受付をしています。
 
-* [こちら](https://policy.team-mir.ai/view/README.md)のページから、チャットで政策要望を提出する  
+* [こちら](https.policy.team-mir.ai/view/README.md)のページから、チャットで政策要望を提出する  
 * （玄人向け）[GitHub](https://github.com/team-mirai/policy/pulls)でPull Requestを提出する
 * ご提案の進捗は[こちらのページ](https://github.com/team-mirai/policy/pulls)で確認できます。
 
@@ -135,4 +135,3 @@
 ## おしゃべりできるシステム『いどばたシステム』について
 
 - [デジタル民主主義2030](https://dd2030.org)で開発した[『いどばた』](https://github.com/digitaldemocracy2030/idobata/)を活用しています
-
