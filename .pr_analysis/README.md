@@ -2,47 +2,52 @@
 
 READMEラベルが付いているPRを13の政策分野に自動分類し、GitHubのラベルを更新するシステムです。
 
-## クイックスタート（2コマンドで完了）
+## 使い方（2ステップ）
+
+### ステップ1: READMEラベルのPRを分析してCSV出力
 
 ```bash
-# 1. まずドライランで確認（実際の更新はしない）
-./classify_and_update_labels.sh --dry-run
-
-# 2. 問題なければ実行
-./classify_and_update_labels.sh
+python3 analyze_readme_prs.py
 ```
 
-これだけで全てのREADMEラベルPRが分析・分類・更新されます！
+これでREADMEラベルの全PRが分析され、`analyzed_prs_YYYYMMDD_HHMMSS.csv`が出力されます。
 
-## 詳細な使い方
-
-### オプション
+### ステップ2: CSVを使ってGitHubのラベルを更新
 
 ```bash
-# OPENのPRのみ処理
-./classify_and_update_labels.sh --open-only
+# まずドライランで確認
+python3 update_pr_labels.py -i analyzed_prs_YYYYMMDD_HHMMSS.csv --dry-run
 
-# 最初の50件だけ処理
-./classify_and_update_labels.sh --limit 50
-
-# OPENのPRを10件だけドライラン
-./classify_and_update_labels.sh --open-only --limit 10 --dry-run
+# 問題なければ実行
+python3 update_pr_labels.py -i analyzed_prs_YYYYMMDD_HHMMSS.csv
 ```
 
-### 個別実行（細かい制御が必要な場合）
+## オプション
+
+### ステップ1のオプション
 
 ```bash
-# 1. READMEラベルのPRを取得
-python3 get_readme_prs.py -o target_prs.csv
+# OPENのPRのみ分析
+python3 analyze_readme_prs.py --state open
 
-# 2. 分析・分類
-python3 claude_pr_classifier.py target_prs.csv -o classified_prs.csv
+# 最初の50件だけ分析
+python3 analyze_readme_prs.py --limit 50
 
-# 3. ラベル表記修正（[システム] の表記揺れなど）
-python3 fix_label_format.py classified_prs.csv
+# ドライラン（PR取得のみ、分析はしない）
+python3 analyze_readme_prs.py --dry-run
+```
 
-# 4. GitHubラベル更新
-python3 update_pr_labels.py -i classified_prs_fixed.csv
+### ステップ2のオプション
+
+```bash
+# OPENのPRのみ更新
+python3 update_pr_labels.py -i analyzed_prs.csv --open-only
+
+# 最初の10件だけ更新
+python3 update_pr_labels.py -i analyzed_prs.csv --limit 10
+
+# 中断した場合の再開
+python3 update_pr_labels.py -i analyzed_prs.csv --resume
 ```
 
 ## 政策分野ラベル
@@ -65,21 +70,27 @@ python3 update_pr_labels.py -i classified_prs_fixed.csv
 
 ## 処理時間の目安
 
-- PR取得: 数秒
-- 分析・分類: 約0.3秒/PR（100件で約30秒）
-- ラベル更新: 約0.5秒/PR（100件で約50秒）
+- ステップ1: 約0.3秒/PR（100件で約30秒）
+- ステップ2: 約0.5秒/PR（100件で約50秒）
+
+## 必要な環境
+
+- Python 3.6+
+- GitHub CLI (`gh auth login`で認証済み)
+- Claude CLI (`claude`コマンドが使える状態)
+- リポジトリへの書き込み権限
+
+## ファイル構成
+
+```
+.pr_analysis/
+├── README.md                  # このファイル
+├── analyze_readme_prs.py      # ステップ1: PR分析・CSV出力
+├── update_pr_labels.py        # ステップ2: ラベル更新
+└── pr_cache/                  # PR情報のキャッシュ（高速化用）
+```
 
 ## トラブルシューティング
-
-### 中断した場合の再開
-
-```bash
-# 分析の再開（キャッシュが効くので高速）
-python3 claude_pr_classifier.py target_prs.csv --resume
-
-# ラベル更新の再開
-python3 update_pr_labels.py -i classified_prs_fixed.csv --resume
-```
 
 ### エラーが出た場合
 
@@ -87,36 +98,13 @@ python3 update_pr_labels.py -i classified_prs_fixed.csv --resume
 2. **claude コマンドエラー**: Claude CLIがインストールされているか確認
 3. **権限エラー**: リポジトリへの書き込み権限があるか確認
 
-## ファイル構成
-
-```
-.pr_analysis/
-├── README.md                         # このファイル
-├── classify_and_update_labels.sh     # 一括実行スクリプト
-├── get_readme_prs.py                 # PR取得
-├── claude_pr_classifier.py           # 分析・分類
-├── fix_label_format.py               # ラベル表記修正
-├── update_pr_labels.py               # GitHubラベル更新
-└── pr_cache/                         # PR情報のキャッシュ
-```
-
-## 必要な環境
-
-- Python 3.6+
-- GitHub CLI (`gh`)
-- Claude CLI (`claude`)
-- リポジトリへの書き込み権限
-
-## セットアップ
+### 中断した場合
 
 ```bash
-# GitHub CLI認証
-gh auth login
-
-# Python依存関係（標準ライブラリのみ使用）
-# 追加インストール不要
+# ステップ2で中断した場合は--resumeで再開可能
+python3 update_pr_labels.py -i analyzed_prs.csv --resume
 ```
 
 ---
 
-以上で完了です！質問があれば issue を作成してください。
+以上です。質問があれば issue を作成してください。
