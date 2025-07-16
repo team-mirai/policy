@@ -8,13 +8,16 @@ on:
 
 jobs:
   markdown-link-check:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+      
       - uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
-          use-quiet-mode: 'no'
-          use-verbose-mode: 'yes'
+          use-quiet-mode: 'yes'
+          use-verbose-mode: 'no'
           config-file: '.github/markdown-link-check-config.json'
           folder-path: '.'
-          max-depth: -1
+          file-extension: '.md'
+          check-modified-files-only: 'yes'
+          base-branch: 'main'

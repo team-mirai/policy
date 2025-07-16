@@ -1,0 +1,63 @@
+name: Slack Notification on PR Close
+
+on:
+  pull_request_target:
+    types: [closed]
+    branches: [main]
+
+jobs:
+  notify-slack:
+    runs-on: ubuntu-24.04
+    # 悪意あるユーザーが自分でPRをクローズしただけで通知が送信されることを防ぐため、
+    # 同一リポジトリからのPRまたは実際にマージされたPRのみ通知を行う
+    if: |
+      github.event.pull_request.head.repo.full_name == github.repository ||
+      github.event.pull_request.merged == true
+    steps:
+      - name: Get PR labels and changed files
+        id: get-pr-info
+        run: |
+          labels=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}" | \
+            jq -r '.labels | map(.name) | join(", ")')
+          echo "labels=$labels" >> $GITHUB_OUTPUT
+          
+          has_thankyou=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}" | \
+            jq -r '.labels | map(.name) | contains(["thankyou"])')
+          echo "has_thankyou=$has_thankyou" >> $GITHUB_OUTPUT
+          
+          changed_files=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files" | \
+            jq -r '.[].filename | select(. != null)' | tr '\n' ',' | sed 's/,$//')
+          echo "changed_files=$changed_files" >> $GITHUB_OUTPUT
+      
+      - name: Determine notification message
+        id: message-template
+        run: |
+          if [ "${{ github.event.pull_request.merged }}" == "true" ]; then
+            echo "message=政策提案がマニフェストに取り込まれました:tada:" >> $GITHUB_OUTPUT
+            echo "handler=${{ github.event.pull_request.merged_by.login }}" >> $GITHUB_OUTPUT
+          elif [ "${{ steps.get-pr-info.outputs.has_thankyou }}" == "true" ]; then
+            echo "message=政策提案がThank You付きでクローズされました:white_check_mark:" >> $GITHUB_OUTPUT
+            echo "handler=${{ github.actor }}" >> $GITHUB_OUTPUT
+          else
+            echo "message=政策提案がクローズされました:octagonal_sign:" >> $GITHUB_OUTPUT
+            echo "handler=${{ github.actor }}" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Send Slack notification to first channel
+        run: |
+          curl -X POST -H 'Content-type: application/json' \
+            --data "{
+              \"text\": \"${{ steps.message-template.outputs.message }}\\n\\n*<${{ github.event.pull_request.html_url }}|${{ github.event.pull_request.title }}>*\\n* 提案者: ${{ github.event.pull_request.user.login }}\\n* 対応者: ${{ steps.message-template.outputs.handler }}\\n* 変更ファイル: ${{ steps.get-pr-info.outputs.changed_files }}\\n* ラベル: ${{ steps.get-pr-info.outputs.labels }}\"
+            }" \
+            ${{ secrets.SLACK_WEBHOOK_URL_01 }}
+      
+      - name: Send Slack notification to second channel
+        run: |
+          curl -X POST -H 'Content-type: application/json' \
+            --data "{
+              \"text\": \"${{ steps.message-template.outputs.message }}\\n\\n*<${{ github.event.pull_request.html_url }}|${{ github.event.pull_request.title }}>*\\n* 提案者: ${{ github.event.pull_request.user.login }}\\n* 対応者: ${{ steps.message-template.outputs.handler }}\\n* 変更ファイル: ${{ steps.get-pr-info.outputs.changed_files }}\\n* ラベル: ${{ steps.get-pr-info.outputs.labels }}\"
+            }" \
+            ${{ secrets.SLACK_WEBHOOK_URL_02 }}

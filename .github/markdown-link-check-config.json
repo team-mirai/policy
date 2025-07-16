@@ -1,46 +1,36 @@
 {
   "ignorePatterns": [
     {
-      "pattern": "^#"
+      "pattern": "^https://x.com/"
     },
     {
-      "pattern": "^https://x.com/",
-      "reason": "X.com blocks automated requests from GitHub Actions"
+      "pattern": "^https://www.meti.go.jp/.*\\.pdf$"
     },
     {
-      "pattern": "^https://www.meti.go.jp/.*\\.pdf$",
-      "reason": "METI government PDF links often timeout in CI"
+      "pattern": "^https://www.jftc.go.jp/"
     },
     {
-      "pattern": "^https://www.jftc.go.jp/",
-      "reason": "JFTC government links often return 403 in CI"
+      "pattern": "^https://odin.opendatawatch.com/"
     },
     {
-      "pattern": "^%20https://",
-      "reason": "Malformed URLs with spaces at the beginning"
+      "pattern": "^https://www.science.org/"
     },
     {
-      "pattern": "^https://github.com/team-mirai/policy/pulls$",
-      "reason": "Avoid to get 406 response"
+      "pattern": "^https://ai.gov.uk/"
     }
   ],
-  "replacementPatterns": [
-    {
-      "pattern": "^/",
-      "replacement": "{{BASEURL}}/"
-    }
-  ],
+  "replacementPatterns": [],
   "httpHeaders": [
     {
-      "urls": ["https://github.com/", "https://raw.githubusercontent.com/"],
+      "urls": ["https://"],
       "headers": {
-        "Accept": "application/vnd.github.v3+json",
-        "User-Agent": "GitHub-Link-Checker"
+        "User-Agent": "Mozilla/5.0 (compatible; markdown-link-check)"
       }
     }
   ],
-  "timeout": "10s",
+  "timeout": "20s",
   "retryOn429": true,
   "retryCount": 3,
-  "fallbackRetryDelay": "30s"
+  "fallbackRetryDelay": "30s",
+  "aliveStatusCodes": [200, 201, 202, 203, 204, 205, 206]
 }

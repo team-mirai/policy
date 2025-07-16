@@ -1,0 +1,23 @@
+name: Post PR Info to X
+
+on:
+  pull_request_target:
+    types: [closed]
+    branches: [main]
+    paths:
+      - '[0-9]*.md'
+
+jobs:
+  post-to-x:
+    runs-on: ubuntu-latest
+    # マージされたPRのみX投稿を実行する（skip-notificationラベルがついていない場合）
+    if: |
+      github.event.pull_request.merged == true &&
+      !contains(github.event.pull_request.labels.*.name, 'skip-notification')
+    steps:
+      - name: Post X
+        if: github.event.pull_request.merged == true
+        run: |
+          curl -v -H 'Authorization: Bearer ${{ secrets.MANIFESTO_NOTIFY_API_TOKEN }}' \
+            --json '{"githubPrUrl": "${{ github.event.pull_request.html_url }}"}' \
+            ${{ secrets.MANIFESTO_NOTIFY_ENDPOINT }}
