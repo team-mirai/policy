@@ -56,7 +56,7 @@
 
 [チームみらい公式サイト](https://team-mir.ai/)  
 [安野たかひろXアカウント](https://x.com/takahiroanno)  
-[安野たかひろ公式YouTube](https://www.youtube.com/@%E5%AE%89%E9%87%8E%E8%B2%B4%E5%8D%9A)
+[安野たかひろ公式YouTube](https://www.youtube.com/@%E5%ae%89%E9%87%8E%E8%B2%B4%E5%8D%9A)
 
 ## 変更提案について
 
@@ -117,7 +117,7 @@
 
 ### 通知のスキップ機能
 
-政策内容の変更以外のPR（例：タイポ修正、フォーマット調整、ドキュメント更新など）でX通知を避けたい場合は、PRに `skip-notification` ラベルを付けることで通知をスキロップできます。
+政策内容の変更以外のPR（例：タイポ修正、フォーマット調整、ドキュメント更新など）でX通知を避けたい場合は、PRに `skip-notification` ラベルを付けることで通知をスキップできます。
 
 #### 使い方
 
@@ -135,5 +135,4 @@
 ## おしゃべりできるシステム『いどばたシステム』について
 
 - [デジタル民主主義2030](https://dd2030.org)で開発した[『いどばた』](https://github.com/digitaldemocracy2030/idobata/)を活用しています
-
 
