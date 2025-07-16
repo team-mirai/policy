@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 993,
+  "summary": "読解力強化カリキュラム開発と外国人向けJSL教育の全国的充実化を提案",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "中",
+    "reason": "課題と方向性は明確だが、具体的な実施方法は未定"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "全国統一の教育カリキュラム改革と新制度構築の調整"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["読解力", "国語力", "JSL教育", "外国人児童", "カリキュラム開発"],
+  "unique_features": "国語力とJSL教育の2つの異なる教育課題への同時アプローチ",
+  "discussion_points": ["読解力強化の具体的なカリキュラム内容と評価方法", "JSL教育の全国統一基準と地域実情への対応バランス"]
+}
+```

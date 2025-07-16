@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2431,
+  "summary": "AIの教育活用における限界を明記し、人間の専門家の必要性を強調する文言を追加",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "具体的な追加文言と挿入箇所が明確に示されている"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "文言追加のみで実装上の障壁は少ない"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["AI限界", "人間専門家", "メンタルヘルス", "教育支援", "バランス"],
+  "unique_features": "AI万能論を避け現実的な活用方針を示す",
+  "discussion_points": ["AIと人間の役割分担の具体的な線引き", "深刻な問題への対応体制の構築方法"]
+}
+```

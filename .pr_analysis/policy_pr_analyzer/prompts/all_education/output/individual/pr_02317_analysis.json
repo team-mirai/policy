@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2317,
+  "summary": "教員の働き方改革推進のため高速大容量校内無線LANとGIGAスクール端末活用基盤を整備",
+  "category": "設備・インフラ",
+  "specificity": {
+    "level": "中",
+    "reason": "高速大容量無線LANやGIGAスクール端末支援を明記するも具体的な数値目標は未設定"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "全国規模での整備に必要な予算確保と地方自治体との調整"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["校内無線LAN", "GIGAスクール", "ICTインフラ", "教員働き方改革", "デジタル環境整備"],
+  "unique_features": "既存のGIGAスクール構想を活かしつつインフラ面を強化",
+  "discussion_points": ["国と地方自治体の費用負担割合の決定", "整備後の保守・更新体制の持続可能性確保"]
+}
+```

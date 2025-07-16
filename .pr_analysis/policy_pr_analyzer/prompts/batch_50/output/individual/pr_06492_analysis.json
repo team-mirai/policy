@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 6492,
+  "summary": "社会人向けオンライン学習環境整備とAI活用による生涯学習支援システムの構築",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "具体的な数値（補助金131億円、講座助成300万円）や実施方法が明記"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "既存の補助金制度の見直しと関係省庁間の調整"
+  },
+  "scope": "全国",
+  "required_resources": "予算（補助金の再配分）と制度改正",
+  "keywords": ["社会人学習", "リスキリング", "MOOC", "EdTech", "生涯学習"],
+  "unique_features": "AI活用による個別最適化と既存補助金の転用による効率的実施",
+  "discussion_points": ["既存の通信教育事業者への影響と移行支援", "デジタル修了証の社会的認知度向上策"]
+}
+```

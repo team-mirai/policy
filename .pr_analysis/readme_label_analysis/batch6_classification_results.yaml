@@ -1,0 +1,200 @@
+batch_6_classifications:
+  - pr_number: 5892
+    label: 行政改革
+    reason: 議員定年制導入による政治改革と世代交代促進
+    
+  - pr_number: 5887
+    label: ビジョン
+    reason: 表現の自由に関する基本方針の追加
+    
+  - pr_number: 5882
+    label: 産業政策
+    reason: AI時代の人材活用と現場負担への配慮
+    
+  - pr_number: 5881
+    label: [システム]
+    reason: マニフェストの改善提案（一般的な内容）
+    
+  - pr_number: 5874
+    label: デジタル民主主義
+    reason: マニフェストの信頼性向上のための3つの提案
+    
+  - pr_number: 5873
+    label: デジタル民主主義
+    reason: 世代による一票の価値の違いに関する議論
+    
+  - pr_number: 5869
+    label: デジタル民主主義
+    reason: 選挙運動のデジタル化と静穏化
+    
+  - pr_number: 5868
+    label: [システム]
+    reason: マニフェスト冒頭文の修正
+    
+  - pr_number: 5858
+    label: 子育て
+    reason: 結婚の有無にかかわらず子どもを産み育てやすい社会
+    
+  - pr_number: 5846
+    label: その他政策
+    reason: 災害時の非常用通信ネットワーク構築（防災・通信）
+    
+  - pr_number: 5840
+    label: その他政策
+    reason: 食料自給率向上（農業・食料安全保障）
+    
+  - pr_number: 5839
+    label: ビジョン
+    reason: マニフェストの100日計画明確化
+    
+  - pr_number: 5834
+    label: ビジョン
+    reason: 「公正で豊かな社会」という基本理念
+    
+  - pr_number: 5833
+    label: 経済財政
+    reason: ベーシックインカムの導入検討
+    
+  - pr_number: 5832
+    label: デジタル民主主義
+    reason: 政治に関する文書の無償公開
+    
+  - pr_number: 5830
+    label: その他政策
+    reason: 司法制度改革（裁判官の国民審査）
+    
+  - pr_number: 5644
+    label: 産業政策
+    reason: 起業支援とスタートアップ育成
+    
+  - pr_number: 5641
+    label: その他政策
+    reason: 米軍基地問題への対応（外交・安全保障）
+    
+  - pr_number: 5638
+    label: 福祉
+    reason: 高齢者の居場所づくりと社会参加
+    
+  - pr_number: 5636
+    label: ビジョン
+    reason: マニフェスト序文の修正
+    
+  - pr_number: 5633
+    label: 医療
+    reason: 柔道整復師の資格更新制度
+    
+  - pr_number: 5631
+    label: 産業政策
+    reason: 文化芸術支援と経済振興
+    
+  - pr_number: 5630
+    label: その他政策
+    reason: 私刑の禁止と法治主義（司法・人権）
+    
+  - pr_number: 5629
+    label: デジタル民主主義
+    reason: AIによる偏向報道チェックシステム
+    
+  - pr_number: 5628
+    label: ビジョン
+    reason: 「いじめも戦争もない社会」の基本方針
+    
+  - pr_number: 5622
+    label: 子育て
+    reason: 学童保育の充実と教員業務負担軽減
+    
+  - pr_number: 5620
+    label: 産業政策
+    reason: 働き方改革と労働環境改善
+    
+  - pr_number: 5615
+    label: その他政策
+    reason: 憲法改正議論の方向性
+    
+  - pr_number: 5614
+    label: その他政策
+    reason: 皇位継承の安定化
+    
+  - pr_number: 5613
+    label: エネルギー
+    reason: 原子力発電に関する政策方針
+    
+  - pr_number: 5612
+    label: 福祉
+    reason: 認知症診断後の支援強化
+    
+  - pr_number: 5603
+    label: その他政策
+    reason: 性犯罪厳罰化と再犯防止（司法・治安）
+    
+  - pr_number: 5601
+    label: 行政改革
+    reason: 役所での高圧的な対応改善
+    
+  - pr_number: 5596
+    label: その他政策
+    reason: 在外投票制度の改善（選挙制度）
+    
+  - pr_number: 5587
+    label: 医療
+    reason: 医療における包括同意の見直し
+    
+  - pr_number: 5586
+    label: 産業政策
+    reason: ライドシェア導入と規制改革
+    
+  - pr_number: 5585
+    label: 子育て
+    reason: 第二子以降の大学進学支援
+    
+  - pr_number: 5583
+    label: その他政策
+    reason: 外国人参政権に関する議論
+    
+  - pr_number: 5581
+    label: その他政策
+    reason: 米軍駐留経費削減（外交・防衛）
+    
+  - pr_number: 5575
+    label: 福祉
+    reason: 就職氷河期世代への支援策
+    
+  - pr_number: 5570
+    label: 福祉
+    reason: 障害者雇用の促進
+    
+  - pr_number: 5566
+    label: 経済財政
+    reason: インボイス制度廃止と複数税率見直し
+    
+  - pr_number: 5561
+    label: その他政策
+    reason: 政治家の任期制限（政治改革）
+    
+  - pr_number: 5560
+    label: その他政策
+    reason: 性暴力の撲滅対策（司法・治安）
+    
+  - pr_number: 5553
+    label: [システム]
+    reason: 「成長のための100日プラン」改名提案
+    
+  - pr_number: 5549
+    label: その他政策
+    reason: 公共放送（NHK）改革
+    
+  - pr_number: 5545
+    label: 医療
+    reason: 医療費削減と国民負担軽減
+    
+  - pr_number: 5544
+    label: 経済財政
+    reason: 消費税廃止と財政の見直し
+    
+  - pr_number: 5541
+    label: [システム]
+    reason: マニフェストの誤字脱字修正
+    
+  - pr_number: 5540
+    label: その他政策
+    reason: 公益通報者保護の強化

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2394,
+  "summary": "AI教育政策に保護者・教員向けAIリテラシー向上プログラムの開発・提供を追加",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "中",
+    "reason": "プログラムの必要性は明確だが、具体的な内容や実施方法の詳細が不足"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "全国の保護者・教員への効果的な展開と参加促進"
+  },
+  "scope": "全国",
+  "required_resources": "予算/人材",
+  "keywords": ["AIリテラシー", "保護者教育", "教員研修", "AI教育", "監督体制"],
+  "unique_features": "子どものAI利用を支える大人側の教育に着目",
+  "discussion_points": ["プログラムの実効性をどう確保するか", "保護者の参加をどう促進するか"]
+}
+```

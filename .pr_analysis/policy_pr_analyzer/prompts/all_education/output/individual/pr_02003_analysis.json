@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2003,
+  "summary": "地方の教育・雇用機会格差と消防団問題をマニフェストに追記し議論促進",
+  "category": "その他",
+  "specificity": {
+    "level": "中",
+    "reason": "問題提起は具体的だが解決策は議論を促すに留まる"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "マニフェスト追記は容易だが実際の問題解決は別途必要"
+  },
+  "scope": "地域",
+  "required_resources": "制度改正",
+  "keywords": ["地方格差", "教育機会", "雇用機会", "消防団", "地域防災"],
+  "unique_features": "地方の声を政策議論の出発点として明記",
+  "discussion_points": ["地方の教育・雇用機会をどう創出するか", "消防団に代わる地域防災の仕組みをどう構築するか"]
+}
+```

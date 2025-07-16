@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1042,
+  "summary": "AIを活用したゲーム形式プログラムで子どもの観察力・推理力・批判的思考力を育成",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "中",
+    "reason": "「名探偵AI」の具体例はあるが、実装詳細や評価方法が不明"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "質の高い教育プログラムの開発と全国展開のための体制構築"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AI活用教育", "観察力", "推理力", "批判的思考", "ゲーム型学習"],
+  "unique_features": "AIをゲーム形式で活用し楽しみながら思考力を養う",
+  "discussion_points": ["プログラムの教育効果をどう測定・評価するか", "教員への研修・サポート体制をどう構築するか"]
+}
+```

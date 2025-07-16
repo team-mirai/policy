@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1740,
+  "summary": "地域を超えたオンラインクラスで子どもたちに多様な価値観と新しい学びの場を提供",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "低",
+    "reason": "対象学年、頻度、具体的な実施方法が未定"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "全国的なインフラ整備と教員のスキル習得"
+  },
+  "scope": "全国",
+  "required_resources": "インフラ整備/教員研修/制度改正",
+  "keywords": ["オンラインクラス", "サードプレイス", "地域間交流", "デジタル教育", "多様性"],
+  "unique_features": "地域を超えて子どもたちの交流を促進",
+  "discussion_points": ["デジタル格差への対応策", "既存の学級制度との整合性"]
+}
+```

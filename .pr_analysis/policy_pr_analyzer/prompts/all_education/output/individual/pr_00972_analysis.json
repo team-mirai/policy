@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 972,
+  "summary": "古民家や遊休施設をアート専門家の協力で改修し新世代児童館として教育活用",
+  "category": "設備・インフラ",
+  "specificity": {
+    "level": "高",
+    "reason": "活用施設、協力者、用途が明確に示されている"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "地域差による施設・専門家確保の格差"
+  },
+  "scope": "地域",
+  "required_resources": "予算/人材",
+  "keywords": ["新世代児童館", "古民家活用", "アート空間", "STEAM教育", "地域資源"],
+  "unique_features": "既存施設とアートを融合した創造的教育空間",
+  "discussion_points": ["地域による利用可能施設の格差解消方法", "アート専門家の確保・配置体制"]
+}
+```

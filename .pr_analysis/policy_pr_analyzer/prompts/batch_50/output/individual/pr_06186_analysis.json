@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 6186,
+  "summary": "教員業務を外部委託可能なものと本来業務に分け、部活動等を外部に任せ生徒ケアに専念",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "中",
+    "reason": "外部委託対象は明確だが実施方法の詳細が不明"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "質の高い外部人材の確保と継続性"
+  },
+  "scope": "全国",
+  "required_resources": "人材",
+  "keywords": ["教員働き方改革", "外部人材活用", "部活動外部委託", "業務分担", "生徒ケア"],
+  "unique_features": "教員採用調整による財源確保と役割最適化の両立",
+  "discussion_points": ["外部人材の質の担保と継続的確保方法", "教員採用数調整の適切な規模と影響"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2249,
+  "summary": "教育DXの基盤となるデジタルインフラ整備と災害時BCP策定支援を政策文書に明記",
+  "category": "設備・インフラ",
+  "specificity": {
+    "level": "中",
+    "reason": "医療分野の先行事例を参照しているが、実装詳細や予算規模は未記載"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "全国規模のインフラ整備に必要な膨大な予算確保と地域格差解消"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["デジタルインフラ", "BCP", "事業継続計画", "セキュリティ", "災害対応"],
+  "unique_features": "医療分野の先行事例を教育分野に応用",
+  "discussion_points": ["インフラ整備の財源確保と地域格差解消の方法", "BCP策定の標準化と学校現場の負担軽減策"]
+}
+```

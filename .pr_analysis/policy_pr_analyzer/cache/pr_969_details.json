@@ -1,0 +1,30 @@
+{
+  "additions": 1,
+  "author": {
+    "is_bot": true,
+    "login": "app/idobata-policy-app"
+  },
+  "body": "<THE LONG DESCRIPTION AGREED UPON>",
+  "changedFiles": 1,
+  "comments": [],
+  "createdAt": "2025-05-18T12:40:05Z",
+  "deletions": 107,
+  "labels": [
+    {
+      "id": "LA_kwDOOqTJvM8AAAACAn5d8w",
+      "name": "教育",
+      "description": "",
+      "color": "E57B81"
+    }
+  ],
+  "mergeable": "UNKNOWN",
+  "mergedAt": null,
+  "number": 969,
+  "reactionGroups": [],
+  "state": "OPEN",
+  "title": "保護者への情報提供強化によるAI教育の透明性向上（匿名ユーザー提案）",
+  "updatedAt": "2025-05-19T13:44:24Z",
+  "url": "https://github.com/team-mirai/policy/pull/969",
+  "commentsCount": 0,
+  "totalReactions": 0
+}

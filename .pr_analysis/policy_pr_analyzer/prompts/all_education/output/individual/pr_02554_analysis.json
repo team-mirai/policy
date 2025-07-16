@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2554,
+  "summary": "AI学習アシスタントに加え、学習導入時の理解を促す動画教材提供を追加",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "動画教材導入の方向性は明確だが、具体的な内容や実装方法は今後検討"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "効果的な動画教材の制作コストと選定基準の設定"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AI学習アシスタント", "動画教材", "個別最適化", "学習導入支援", "視覚的理解"],
+  "unique_features": "AIと動画教材を組み合わせた段階的学習支援",
+  "discussion_points": ["効果的な動画教材の選定基準と制作範囲", "AI学習アシスタントと動画教材の連携方法"]
+}
+```

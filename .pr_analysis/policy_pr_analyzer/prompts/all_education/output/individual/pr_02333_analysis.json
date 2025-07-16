@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2333,
+  "summary": "AI教育の機会均等のため全児童生徒への学習用端末整備（貸与・給付含む）を政策に明記",
+  "category": "設備・インフラ",
+  "specificity": {
+    "level": "中",
+    "reason": "端末整備の必要性は明確だが、仕様・配布方法・予算規模は今後検討"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "全国規模での端末整備に必要な莫大な予算の確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AI教育", "学習用端末", "機会均等", "デジタル教育", "端末整備"],
+  "unique_features": "AI教育実現の前提条件として端末整備を政策に明記",
+  "discussion_points": ["財源確保の具体的方法", "端末の仕様・更新サイクル"]
+}
+```

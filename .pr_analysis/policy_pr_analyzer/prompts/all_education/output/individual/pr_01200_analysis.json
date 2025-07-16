@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1200,
+  "summary": "AIリテラシー教育に情報モラル・道徳教育を統合し、SNS利用の倫理観育成を強化",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "中",
+    "reason": "教育内容は明確だが実施方法の詳細が不足"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "教材開発と全国の教員への研修体制構築"
+  },
+  "scope": "全国",
+  "required_resources": "教材開発・教員研修",
+  "keywords": ["AIリテラシー", "情報モラル", "SNS教育", "デジタル市民性", "道徳教育"],
+  "unique_features": "AI教育と道徳教育を統合した総合的アプローチ",
+  "discussion_points": ["情報モラル教育の具体的な実施時間・方法", "教員の指導力向上のための研修体制"]
+}
+```

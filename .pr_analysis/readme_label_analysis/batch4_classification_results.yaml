@@ -1,0 +1,200 @@
+batch_4_classifications:
+  - pr_number: 5822
+    label: その他政策
+    reason: 性犯罪の根絶に関する司法・治安政策
+    
+  - pr_number: 5817
+    label: デジタル民主主義
+    reason: 世代間の声の不均衡を是正する民主主義の仕組み
+    
+  - pr_number: 5816
+    label: 子育て
+    reason: 子どもの安全を守るための政策
+    
+  - pr_number: 5813
+    label: その他政策
+    reason: 性犯罪・性暴力の根絶と被害者保護（司法・治安）
+    
+  - pr_number: 5799
+    label: ビジョン
+    reason: 支援のあり方に関する基本原則の追加
+    
+  - pr_number: 5798
+    label: その他政策
+    reason: コンテンツ産業と表現の自由に関する政策
+    
+  - pr_number: 5797
+    label: その他政策
+    reason: 性犯罪対策強化（司法・治安）
+    
+  - pr_number: 5796
+    label: 福祉
+    reason: 老老介護におけるコミュニケーション支援
+    
+  - pr_number: 5793
+    label: デジタル民主主義
+    reason: 国民との対話の改革と透明性向上
+    
+  - pr_number: 5785
+    label: [システム]
+    reason: 「チームみらいについて」の記述改善
+    
+  - pr_number: 5774
+    label: デジタル民主主義
+    reason: 提案への迅速な応答義務付け
+    
+  - pr_number: 5772
+    label: 教育
+    reason: 教育におけるデジタルと従来手法の組み合わせ
+    
+  - pr_number: 5771
+    label: 科学技術
+    reason: 国際宇宙港（スペースポート）構想
+    
+  - pr_number: 5770
+    label: 福祉
+    reason: 障害者支援における負担決定プロセス
+    
+  - pr_number: 5767
+    label: ビジョン
+    reason: 同性婚の法制化に関する基本方針
+    
+  - pr_number: 5766
+    label: ビジョン
+    reason: マニフェストの基本理念の明確化
+    
+  - pr_number: 5763
+    label: ビジョン
+    reason: 同性婚の法制化に関する政策
+    
+  - pr_number: 5762
+    label: 福祉
+    reason: 公的な死後事務支援システムの構築
+    
+  - pr_number: 5758
+    label: 福祉
+    reason: ケアマネジャー更新研修制度の見直し
+    
+  - pr_number: 5756
+    label: 教育
+    reason: いじめ・性加害の加害者に対する教育改革
+    
+  - pr_number: 5753
+    label: 福祉
+    reason: 孤独死対策としてのテクノロジー活用
+    
+  - pr_number: 5748
+    label: 科学技術
+    reason: AI活用基本方針「使いこなす社会」へ
+    
+  - pr_number: 5746
+    label: 福祉
+    reason: ヤングケアラーへの医療・福祉サポート
+    
+  - pr_number: 5745
+    label: 産業政策
+    reason: 氷河期世代支援と多様な人材登用
+    
+  - pr_number: 5742
+    label: ビジョン
+    reason: 人権に関する基本方針の追加
+    
+  - pr_number: 5732
+    label: 科学技術
+    reason: AIの構造的リスクと世論操作の危険性
+    
+  - pr_number: 5730
+    label: 産業政策
+    reason: 労働者の権利保護に関する政策
+    
+  - pr_number: 5728
+    label: その他政策
+    reason: 外国人犯罪者の強制送還（治安・移民政策）
+    
+  - pr_number: 5726
+    label: 子育て
+    reason: 子どものオンライン上の安全とAI活用
+    
+  - pr_number: 5722
+    label: 子育て
+    reason: 出産・育児支援と働き方のビジョン
+    
+  - pr_number: 5719
+    label: その他政策
+    reason: 外交・安全保障と科学技術政策の強化
+    
+  - pr_number: 5718
+    label: その他政策
+    reason: 防衛政策に関する議論
+    
+  - pr_number: 5715
+    label: ビジョン
+    reason: 人権に関する基本方針
+    
+  - pr_number: 5713
+    label: ビジョン
+    reason: 選択的夫婦別姓の政策方針
+    
+  - pr_number: 5707
+    label: 産業政策
+    reason: 賃上げ促進と公正な交渉環境整備
+    
+  - pr_number: 5704
+    label: ビジョン
+    reason: ジェンダーと多様性の尊重
+    
+  - pr_number: 5700
+    label: エネルギー
+    reason: エネルギー政策に関する議論の方向性
+    
+  - pr_number: 5694
+    label: ビジョン
+    reason: 同性婚の法制化提案
+    
+  - pr_number: 5690
+    label: 福祉
+    reason: 就職氷河期世代へのセーフティネット
+    
+  - pr_number: 5688
+    label: 産業政策
+    reason: ライフステージに応じた働き方支援
+    
+  - pr_number: 5687
+    label: その他政策
+    reason: 皇位の安定継承についての提案
+    
+  - pr_number: 5686
+    label: デジタル民主主義
+    reason: 在外邦人のオンライン投票導入
+    
+  - pr_number: 5685
+    label: 医療
+    reason: マイナンバーカードへの終末医療意思登録
+    
+  - pr_number: 5676
+    label: 行政改革
+    reason: 新しい公務員制度の提案
+    
+  - pr_number: 5672
+    label: デジタル民主主義
+    reason: マニフェスト報告義務化による透明性向上
+    
+  - pr_number: 5659
+    label: [システム]
+    reason: マニフェストの実行戦略を具体化
+    
+  - pr_number: 5649
+    label: 経済財政
+    reason: 自動車関連税制の抜本改革
+    
+  - pr_number: 5648
+    label: 教育
+    reason: デジタル技術を活用した学習支援
+    
+  - pr_number: 5647
+    label: ビジョン
+    reason: 政策の具体性と透明性向上
+    
+  - pr_number: 5645
+    label: 子育て
+    reason: 子どもを性的搾取から守る包括的対策

@@ -1,0 +1,21 @@
+diff --git "a/32_\343\202\271\343\203\206\343\203\203\343\203\227\357\274\223\346\225\231\350\202\262.md" "b/32_\343\202\271\343\203\206\343\203\203\343\203\227\357\274\223\346\225\231\350\202\262.md"
+index f0e5bb2e95..d603da8d55 100644
+--- "a/32_\343\202\271\343\203\206\343\203\203\343\203\227\357\274\223\346\225\231\350\202\262.md"
++++ "b/32_\343\202\271\343\203\206\343\203\203\343\203\227\357\274\223\346\225\231\350\202\262.md"
+@@ -82,7 +82,7 @@
+   <img src="https://github.com/user-attachments/assets/d1ad1201-8d23-489e-bd5e-7bee32c4e2cf">
+ </p>
+ 
+-日本の子どもたちは、諸外国と比較し、社会を変えられると感じていない  
++日本の子どもたちは、諸外国と比較し、社会を変えられると感じていない（ただし、この調査は5段階評価のうち上位2項目を比較したものであり、日本人は一般的に自己評価を控えめにする傾向があるため、他国との比較には注意が必要である）。
+ 出典：日本財団調査  
+ [https://www.nippon-foundation.or.jp/who/news/pr/2024/20240403-100595.html](https://www.nippon-foundation.or.jp/who/news/pr/2024/20240403-100595.html)
+ 
+@@ -92,5 +92,4 @@
+  
+ 世帯年収によって学校外の体験がない子どもの割合は２倍ほど開きがある  
+ 出典：Chance for Children報告書  
+-[https://cfc.or.jp/wp-content/uploads/2023/07/cfc\_taiken\_report2307.pdf](https://cfc.or.jp/wp-content/uploads/2023/07/cfc\_taiken\_report2307.pdf)　　
+-
++[https://cfc.or.jp/wp-content/uploads/2023/07/cfc\_taiken\_report2307.pdf](https://cfc.or.jp/wp-content/uploads/2023/07/cfc\_taiken\_report2307.pdf)
+\ No newline at end of file

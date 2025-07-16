@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 666,
+  "summary": "AIを個別指導の「専属トレーナー」と位置づけ、倫理観育成も重視する教育ビジョンの改善",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "ビジョンレベルの提案で具体的な実施方法は未提示"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "全国規模でのAI個別最適化システムの構築"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["AI教育", "個別最適化", "倫理教育", "専属トレーナー", "人間性"],
+  "unique_features": "AIを「専属トレーナー」として明確に位置づける新視点",
+  "discussion_points": ["AIの「専属トレーナー」化の具体的な実装方法", "技術活用と倫理教育のバランスの取り方"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2899,
+  "summary": "義務教育と高専連携でSTEAM教育とAI活用により15歳での高校卒業レベル達成を目指すモデル校設置",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "高",
+    "reason": "モデル校設置、STEAM教育導入、AI活用、到達目標年齢など具体的に記載"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "既存制度の大幅改革と対応可能な教員の確保・育成"
+  },
+  "scope": "学校単位",
+  "required_resources": "制度改正",
+  "keywords": ["早期高密度教育", "STEAM教育", "AIアダプティブラーニング", "義務教育学校", "高等専門学校"],
+  "unique_features": "全学力層対応とSTEAM教育で15歳での高校卒業レベル達成を目指す",
+  "discussion_points": ["15歳での高校卒業レベル達成の妥当性と子供の発達への影響", "教育困難校から進学校まで同一モデルで対応可能か"]
+}
+```

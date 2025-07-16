@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 503,
+  "summary": "学校から独立したCBT形式の高校数学能力証明試験制度を創設し証明書を発行",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "高",
+    "reason": "CBT形式、分野別受験、証明書発行など具体的な仕組みを提示"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "既存の教育評価制度との調整・位置づけの明確化"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正・システム構築",
+  "keywords": ["CBT試験", "数学能力証明", "絶対評価", "生涯学習", "単位認定"],
+  "unique_features": "学校教育から独立した公的な数学能力証明システム",
+  "discussion_points": ["既存の高校単位・大学入試との関係性", "試験運営主体と認定基準の策定方法"]
+}
+```

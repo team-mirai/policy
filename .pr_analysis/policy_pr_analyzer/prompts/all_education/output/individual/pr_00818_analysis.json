@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 818,
+  "summary": "AI教育パイロット校を公募制とし、意欲的教員がいる学校を地域バランスを考慮して選定",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "高",
+    "reason": "公募制、選定基準、地域配慮など具体的な方法を明記"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "意欲的教員の客観的評価基準の設定"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["AI教育", "パイロット校", "公募制", "地域バランス", "教員意欲"],
+  "unique_features": "地域格差解消を考慮したパイロット校選定基準の明確化",
+  "discussion_points": ["意欲的教員の判断基準と評価方法", "地域バランスと選定効率のトレードオフ"]
+}
+```

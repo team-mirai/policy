@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2177,
+  "summary": "教員の負担をAIで軽減し生徒との対話時間を確保、カウンセリングの敷居を下げる",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性は明確だが具体的な実装方法は未定"
+  },
+  "difficulty": {
+    "level": "中", 
+    "main_challenge": "カウンセラー増員とAI導入に必要な予算確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算・制度改正",
+  "keywords": ["心のケア", "メンタルヘルス", "教員負担軽減", "スクールカウンセリング", "AI活用"],
+  "unique_features": "カウンセリングの「慣れ」を重視した予防的アプローチ",
+  "discussion_points": ["AI活用による教員業務削減の具体的方法", "全生徒への定期的カウンセリング提供の実現可能性"]
+}
+```

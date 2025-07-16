@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 3052,
+  "summary": "教育財源を歳出削減から教育国債発行主軸に変更しマニフェスト整合性向上",
+  "category": "予算・財源",
+  "specificity": {
+    "level": "中",
+    "reason": "教育国債の方向性は明確だが発行規模や条件等の詳細は未定"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "新規国債発行に対する財政規律面での政治的合意形成"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["教育国債", "財源確保", "投資対効果", "マニフェスト整合性", "教育投資"],
+  "unique_features": "教育を投資と位置づけ独立財源確保を明確化",
+  "discussion_points": ["教育国債の投資対効果測定方法", "財政規律との両立方法"]
+}
+```

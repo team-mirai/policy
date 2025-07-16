@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "label": "教育",
+    "state": "open",
+    "fetchedAt": "2025-07-15T23:33:10.780537",
+    "totalPRs": 5,
+    "successfulPRs": 0,
+    "failedPRs": 5,
+    "failedPRNumbers": [
+      6554,
+      6533,
+      6522,
+      6519,
+      6516
+    ],
+    "repo": "team-mirai/policy"
+  },
+  "prs": [
+    {
+      "author": {
+        "is_bot": true,
+        "login": "app/idobata-policy-app"
+      },
+      "createdAt": "2025-07-14T15:17:36Z",
+      "isDraft": true,
+      "labels": [
+        {
+          "id": "LA_kwDOOqTJvM8AAAACAn5d8w",
+          "name": "教育",
+          "description": "",
+          "color": "E57B81"
+        }
+      ],
+      "milestone": null,
+      "number": 6554,
+      "state": "OPEN",
+      "title": "所得制限のあり方を見直し、中間層も支援する公平な教育制度へ",
+      "updatedAt": "2025-07-14T15:20:59Z",
+      "url": "https://github.com/team-mirai/policy/pull/6554",
+      "statistics": {
+        "commentsCount": 0,
+        "totalReactions": 0,
+        "filesChanged": 0,
+        "additions": 0,
+        "deletions": 0,
+        "diffLines": 0
+      },
+      "fetch_error": true
+    },
+    {
+      "author": {
+        "is_bot": true,
+        "login": "app/idobata-policy-app"
+      },
+      "createdAt": "2025-07-14T14:41:47Z",
+      "isDraft": true,
+      "labels": [
+        {
+          "id": "LA_kwDOOqTJvM8AAAACAn5d8w",
+          "name": "教育",
+          "description": "",
+          "color": "E57B81"
+        }
+      ],
+      "milestone": null,
+      "number": 6533,
+      "state": "OPEN",
+      "title": "AIとの協働による創造性の育成と、人間関係を豊かにする支援の実現",
+      "updatedAt": "2025-07-14T15:21:14Z",
+      "url": "https://github.com/team-mirai/policy/pull/6533",
+      "statistics": {
+        "commentsCount": 0,
+        "totalReactions": 0,
+        "filesChanged": 0,
+        "additions": 0,
+        "deletions": 0,
+        "diffLines": 0
+      },
+      "fetch_error": true
+    },
+    {
+      "author": {
+        "is_bot": true,
+        "login": "app/idobata-policy-app"
+      },
+      "createdAt": "2025-07-14T14:12:18Z",
+      "isDraft": true,
+      "labels": [
+        {
+          "id": "LA_kwDOOqTJvM8AAAACAn5d8w",
+          "name": "教育",
+          "description": "",
+          "color": "E57B81"
+        }
+      ],
+      "milestone": null,
+      "number": 6522,
+      "state": "OPEN",
+      "title": "提案(水野谷さん): AI活用による防災、Wellbeing支援、教育体制強化の総合提案",
+      "updatedAt": "2025-07-14T15:21:22Z",
+      "url": "https://github.com/team-mirai/policy/pull/6522",
+      "statistics": {
+        "commentsCount": 0,
+        "totalReactions": 0,
+        "filesChanged": 0,
+        "additions": 0,
+        "deletions": 0,
+        "diffLines": 0
+      },
+      "fetch_error": true
+    },
+    {
+      "author": {
+        "is_bot": true,
+        "login": "app/idobata-policy-app"
+      },
+      "createdAt": "2025-07-14T13:55:43Z",
+      "isDraft": true,
+      "labels": [
+        {
+          "id": "LA_kwDOOqTJvM8AAAACAn5d8w",
+          "name": "教育",
+          "description": "",
+          "color": "E57B81"
+        }
+      ],
+      "milestone": null,
+      "number": 6519,
+      "state": "OPEN",
+      "title": "金融リテラシー教育の充実",
+      "updatedAt": "2025-07-14T15:21:24Z",
+      "url": "https://github.com/team-mirai/policy/pull/6519",
+      "statistics": {
+        "commentsCount": 0,
+        "totalReactions": 0,
+        "filesChanged": 0,
+        "additions": 0,
+        "deletions": 0,
+        "diffLines": 0
+      },
+      "fetch_error": true
+    },
+    {
+      "author": {
+        "is_bot": true,
+        "login": "app/idobata-policy-app"
+      },
+      "createdAt": "2025-07-14T13:49:43Z",
+      "isDraft": true,
+      "labels": [
+        {
+          "id": "LA_kwDOOqTJvM8AAAACAn5d8w",
+          "name": "教育",
+          "description": "",
+          "color": "E57B81"
+        }
+      ],
+      "milestone": null,
+      "number": 6516,
+      "state": "OPEN",
+      "title": "現役世代の学び直し（リスキリング）支援策の追加",
+      "updatedAt": "2025-07-14T15:21:27Z",
+      "url": "https://github.com/team-mirai/policy/pull/6516",
+      "statistics": {
+        "commentsCount": 0,
+        "totalReactions": 0,
+        "filesChanged": 0,
+        "additions": 0,
+        "deletions": 0,
+        "diffLines": 0
+      },
+      "fetch_error": true
+    }
+  ]
+}

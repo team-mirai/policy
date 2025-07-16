@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 6463,
+  "summary": "教育政策にジェンダー平等とSOGI配慮の視点を追加し、AI活用においても多様性を確保",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "理念と方向性は明確だが、実施手順や評価方法の詳細が不足"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "保護者や地域社会の多様な価値観への対応と合意形成"
+  },
+  "scope": "全国",
+  "required_resources": "人材/制度改正",
+  "keywords": ["ジェンダー平等", "SOGI", "多様性", "インクルーシブ教育", "AIバイアス"],
+  "unique_features": "AI教育改革にジェンダー視点を統合した包括的アプローチ",
+  "discussion_points": ["保護者の理解と合意形成の具体的方法", "AI開発での多様性チェックの実効性確保"]
+}
+```

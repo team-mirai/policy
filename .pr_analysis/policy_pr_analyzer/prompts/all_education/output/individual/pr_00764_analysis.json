@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 764,
+  "summary": "教育とAI研究開発への予算配分を統合的KPIで最適化し効果測定する仕組みを提案",
+  "category": "予算・財源",
+  "specificity": {
+    "level": "中",
+    "reason": "KPI設定や予算配分の方向性は示されているが具体的な指標や数値は未定"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "省庁横断的な予算配分見直しと統一KPI設計の調整困難"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["予算配分", "KPI", "AI研究開発", "教育投資", "効果測定"],
+  "unique_features": "教育とAI投資を統合的に捉え最適化を図る視点",
+  "discussion_points": ["教育とAI投資の適切なバランスの決定方法", "分野横断的な統一KPIの設計方法"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 45,
+  "summary": "私立助成金を公教育に配分転換し、累進課税多段階化と給付金所得制限見直しを提案",
+  "category": "予算・財源",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性は明確だが具体的な配分比率や実施手順が未定"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "私学関係者との調整と既存制度の大幅変更"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["私立助成金", "公教育", "教育格差", "累進課税", "所得制限"],
+  "unique_features": "教育財源配分と税制改革を一体的に提案",
+  "discussion_points": ["私学助成削減の影響と代替支援策", "公教育への配分効果の測定指標"]
+}
+```

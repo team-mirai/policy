@@ -1,0 +1,200 @@
+batch_5_classifications:
+  - pr_number: 6154
+    label: 産業政策
+    reason: 観光産業の政策。オーバーツーリズム対策と持続可能な観光モデル構築
+    
+  - pr_number: 6152
+    label: デジタル民主主義
+    reason: AI活用の原則強化と有権者の政策比較支援システム
+    
+  - pr_number: 6150
+    label: 科学技術
+    reason: AI活用における人間の責任と専門性維持の原則
+    
+  - pr_number: 6148
+    label: 子育て
+    reason: 養育費不払い問題の解決による子どもの貧困対策
+    
+  - pr_number: 6146
+    label: 行政改革
+    reason: 政治改革（議員定年制・報酬適正化・世襲制限）
+    
+  - pr_number: 6142
+    label: ビジョン
+    reason: 多様な家族のあり方（選択的夫婦別姓・同性婚）の基本方針
+    
+  - pr_number: 6139
+    label: その他政策
+    reason: 持続可能な都市政策（コンパクトシティ・都市計画）
+    
+  - pr_number: 6135
+    label: その他政策
+    reason: 2拠点生活など新しいライフスタイル支援（地方創生）
+    
+  - pr_number: 6128
+    label: 経済財政
+    reason: 納税実績を活用した信用創造システム（金融政策）
+    
+  - pr_number: 6124
+    label: その他政策
+    reason: ネット上の私的制裁対策と人権保障（司法・人権）
+    
+  - pr_number: 6114
+    label: その他政策
+    reason: 性加害の厳罰化（司法・刑事政策）
+    
+  - pr_number: 6110
+    label: 医療
+    reason: 安楽死に関する政策（終末期医療・生命倫理）
+    
+  - pr_number: 6108
+    label: 経済財政
+    reason: 消費税一本化と経済のDXによる物価安定
+    
+  - pr_number: 6107
+    label: 教育
+    reason: 日本文化への理解とアイデンティティ確立の教育
+    
+  - pr_number: 6105
+    label: 産業政策
+    reason: 既卒者など多様な経歴を持つ人への就職支援
+    
+  - pr_number: 6095
+    label: 産業政策
+    reason: エンペラー・ワラント・マーク制度によるブランド価値向上
+    
+  - pr_number: 6092
+    label: ビジョン
+    reason: 平和主義の原則の明記
+    
+  - pr_number: 6091
+    label: [システム]
+    reason: マニフェスト序文の改善と100日プランの位置づけ明確化
+    
+  - pr_number: 6071
+    label: ビジョン
+    reason: 人権についての基本的な考え方の追加
+    
+  - pr_number: 6063
+    label: その他政策
+    reason: 未成年者への性犯罪対策強化（司法・治安）
+    
+  - pr_number: 6054
+    label: [システム]
+    reason: サイト利用ガイドの新設とステップ定義の見解確認
+    
+  - pr_number: 6053
+    label: ビジョン
+    reason: 憲法に関する考え方の追加
+    
+  - pr_number: 6046
+    label: [システム]
+    reason: 政策提案における根拠明記のルール強化
+    
+  - pr_number: 6045
+    label: その他政策
+    reason: 動物愛護政策（ペット資格制度・虐待防止）
+    
+  - pr_number: 6040
+    label: 子育て
+    reason: 不妊治療の対象拡大による多様な家族形成支援
+    
+  - pr_number: 6033
+    label: その他政策
+    reason: 住宅政策の重要性の明確化
+    
+  - pr_number: 6008
+    label: ビジョン
+    reason: 選択的夫婦別姓の導入（基本的人権）
+    
+  - pr_number: 6006
+    label: 行政改革
+    reason: 相続手続きのデジタル化による負担軽減
+    
+  - pr_number: 6001
+    label: 産業政策
+    reason: DAOの社会実装による公正で柔軟な働き方
+    
+  - pr_number: 5999
+    label: 医療
+    reason: プラネタリーヘルスに関する政策検討
+    
+  - pr_number: 5994
+    label: [システム]
+    reason: iOS版ブラウザのバグ報告
+    
+  - pr_number: 5992
+    label: その他政策
+    reason: 公共ワークスペース環境の整備（都市インフラ）
+    
+  - pr_number: 5983
+    label: その他政策
+    reason: ネット広告の健全化（消費者保護・インターネット規制）
+    
+  - pr_number: 5982
+    label: ビジョン
+    reason: AI・デジタル原則の明確化と配慮事項
+    
+  - pr_number: 5981
+    label: 福祉
+    reason: 制度の狭間にある人々への支援補足
+    
+  - pr_number: 5980
+    label: 教育
+    reason: 包括的性教育と多様な家族のあり方
+    
+  - pr_number: 5971
+    label: ビジョン
+    reason: 人権に関する基本方針の追加
+    
+  - pr_number: 5963
+    label: デジタル民主主義
+    reason: 政治資金の透明化と罰則強化
+    
+  - pr_number: 5958
+    label: 経済財政
+    reason: インボイス制度廃止と消費税単一税率化
+    
+  - pr_number: 5956
+    label: [システム]
+    reason: 政策評価の基本方針に多角的視点を追加
+    
+  - pr_number: 5943
+    label: ビジョン
+    reason: 党の基本方針の不在についての重要課題明記
+    
+  - pr_number: 5940
+    label: 子育て
+    reason: 学童保育の環境充実
+    
+  - pr_number: 5939
+    label: 科学技術
+    reason: 国際卓越研究大学を中心とした共同研究体制
+    
+  - pr_number: 5938
+    label: その他政策
+    reason: 防災DXの実現（防災・危機管理）
+    
+  - pr_number: 5933
+    label: ビジョン
+    reason: 選択的夫婦別姓に関する方針
+    
+  - pr_number: 5932
+    label: ビジョン
+    reason: 人権尊重の姿勢を基本原則として明記
+    
+  - pr_number: 5910
+    label: 医療
+    reason: 葉酸に関する検討プロセス（妊産婦支援）
+    
+  - pr_number: 5903
+    label: 経済財政
+    reason: 社会保険料と税金の使途に関する議論
+    
+  - pr_number: 5896
+    label: 子育て
+    reason: 多様な世帯への配慮と地方創生（子育て支援）
+    
+  - pr_number: 5893
+    label: 産業政策
+    reason: 地方のデジタル産業振興

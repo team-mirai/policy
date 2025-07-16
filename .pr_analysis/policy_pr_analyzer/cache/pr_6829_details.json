@@ -1,0 +1,46 @@
+{
+  "additions": 4,
+  "author": {
+    "is_bot": true,
+    "login": "app/idobata-policy-app"
+  },
+  "body": "鈴木紅璃さんからのご提案に基づき、政策案を修正しました。\n\n発達障害を持つ当事者としての視点から、「AIが子供の特性を見誤ってしまい、その子供にふさわしくない支援の方向性に走ってしまう」という懸念が示されました。これは、AIの導入を進める上で非常に重要な視点です。\n\nこのご意見を受け、AIの役割はあくまで人間の専門家を「支援する」補助的なものであり、診断や最終的な判断、支援方針の決定は行わない、という点を明確にすべきだという結論に至りました。\n\n具体的には、「４）データとAIを駆使して、支援の必要な子ども・家庭に、支援を積極的かつ必要十分に届けます」の項目を、以下のように修正しました。\n\n修正前:\n> AIの分析結果は、支援の必要性に関する参考情報として、関連する教職員や支援者にのみアラートとして通知され、その後の専門職による判断や具体的な介入につなげます。\n\n修正後:\n> AIの分析結果は、あくまで支援の必要性を示唆する参考情報として、関連する教職員や支援者にのみアラートで通知されます。AI自身が子どもへの支援方針を判断・決定することはなく、通知を元にした最終的な判断と具体的な対応は、必ず子どもを直接見守る教職員や専門家などの「人」が行います。\n\nこの変更により、AIは「気づきのきっかけ」を提供するツールであるという位置づけを明確にし、AIが過度に介入することへの不安を払拭することを目的としています。子どもたちの状況を最もよく理解している教職員や専門家が、より多くの情報に基づいて適切な判断を下せるようにサポートするという、私たちの基本的な考え方を具体的に示しました。これにより、保護者や教育関係者が安心してテクノロジーを活用できる基盤が整うと考えています。\n\n今回の修正は、鈴木紅璃さんの貴重なご意見を反映したものです。",
+  "changedFiles": 1,
+  "comments": [
+    {
+      "id": "IC_kwDOOqTJvM63K5R9",
+      "author": {
+        "login": "github-actions"
+      },
+      "authorAssociation": "NONE",
+      "body": "## 📢 X（旧Twitter）通知について\n\nこのPRがマージされると、自動的にX（旧Twitter）に投稿されます。\n\nもし以下のような政策内容の実質的な変更を含まないPRの場合、X通知をスキップすることができます：\n- タイポや誤字脱字の修正\n- マークダウンのフォーマット調整\n- リンク切れの修正\n- その他、政策内容に実質的な変更を含まない修正\n\n### 通知をスキップする方法\nPRに `skip-notification` ラベルを追加してください。\n1. 右側のLabelsセクションをクリック\n2. `skip-notification` を選択\n\n※ Slack通知は内部進捗管理のため、引き続き送信されます。",
+      "createdAt": "2025-07-15T10:35:09Z",
+      "includesCreatedEdit": false,
+      "isMinimized": false,
+      "minimizedReason": "",
+      "reactionGroups": [],
+      "url": "https://github.com/team-mirai/policy/pull/6829#issuecomment-3073086589",
+      "viewerDidAuthor": false
+    }
+  ],
+  "createdAt": "2025-07-15T10:35:00Z",
+  "deletions": 3,
+  "labels": [
+    {
+      "id": "LA_kwDOOqTJvM8AAAACAn5d8w",
+      "name": "教育",
+      "description": "",
+      "color": "E57B81"
+    }
+  ],
+  "mergeable": "MERGEABLE",
+  "mergedAt": null,
+  "number": 6829,
+  "reactionGroups": [],
+  "state": "OPEN",
+  "title": "AIによる支援の役割を明確化し、最終判断は人間が行うことを強調する修正",
+  "updatedAt": "2025-07-15T15:20:39Z",
+  "url": "https://github.com/team-mirai/policy/pull/6829",
+  "commentsCount": 1,
+  "totalReactions": 0
+}

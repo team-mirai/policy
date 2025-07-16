@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1530,
+  "summary": "AI教育導入時の教員・保護者間の意識ギャップという課題認識を政策文書に明記",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "課題認識は明確だが具体的解決策は未提示"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "文書追記は容易だが実際の意識統一は困難"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["AI家庭教師", "個別最適化教育", "教員意識", "保護者理解", "合意形成"],
+  "unique_features": "技術導入の前提となる人的側面の課題を明示化",
+  "discussion_points": ["教員・保護者の意識ギャップをどう埋めるか", "AI教育導入の具体的なプロセス設計"]
+}
+```

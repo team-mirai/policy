@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 639,
+  "summary": "GIGAスクール端末の通信環境をポケットWiFiで改善し、OS非依存のWebベース教材を拡充",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "ポケットWiFi配備、セキュリティ対策、UI共通化など具体的な実施内容を明記"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "全国の学校への一斉導入に必要な予算確保と運用体制の構築"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["GIGAスクール", "ポケットWiFi", "Webアプリケーション", "EdTech", "通信環境"],
+  "unique_features": "ポケットWiFiによる迅速な通信環境整備とWebベース教材のUI標準化",
+  "discussion_points": ["ポケットWiFiと校内LAN整備のコスト効果比較", "Web教材の標準化・オープンソース化の実施体制"]
+}
+```

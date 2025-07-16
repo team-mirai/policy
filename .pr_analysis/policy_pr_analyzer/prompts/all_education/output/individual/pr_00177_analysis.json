@@ -1,0 +1,22 @@
+Looking at PR #177 about AI utilization in geography and history education...
+
+```json
+{
+  "pr_number": 177,
+  "summary": "地理歴史科向けに学術書を読み込み根拠提示できる専門的AIの開発を提案",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "対象教科と必要なAI機能を明確に定義"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "複数の学術文献を正確に理解・統合するAI技術の開発"
+  },
+  "scope": "全国",
+  "required_resources": "予算・技術開発",
+  "keywords": ["AI教育", "地理歴史科", "学術書読み込み", "エビデンスベース", "専門教科AI"],
+  "unique_features": "学術的根拠を提示できる教科特化型AI",
+  "discussion_points": ["学術文献解釈の正確性をどう担保するか", "AI依存と生徒の主体的探究力のバランス"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 932,
+  "summary": "社会人向けAI研修プログラム開発と国産LLM開発支援により企業のAI活用を促進",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "具体的な施策3つが明記されているが、実施詳細や予算規模が不明"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "国産LLM開発には巨額投資と高度な技術力が必要"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AIスキル", "リスキリング", "国産LLM", "企業研修", "セキュリティ"],
+  "unique_features": "社会人のAIスキル習得と国産LLM開発を統合的に推進",
+  "discussion_points": ["国産LLM開発の実現可能性と必要性", "既存の民間研修との差別化・連携方法"]
+}
+```

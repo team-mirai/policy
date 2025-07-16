@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 81,
+  "summary": "AI家庭教師により高校生の数学IIIC履修8割、数学IIB・物理履修6割を目指す",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "高",
+    "reason": "数学IIIC8割、数学IIB・物理6割という明確な数値目標を設定"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "現在の履修率から大幅な増加が必要で、選択制度の見直しも必要"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["AI家庭教師", "数学IIIC", "物理履修率", "科学技術人材", "理数系教育"],
+  "unique_features": "理数系科目の履修率に具体的数値目標を設定",
+  "discussion_points": ["現在の履修率との差をどう埋めるか", "AI家庭教師と履修率向上の因果関係の検証方法"]
+}
+```

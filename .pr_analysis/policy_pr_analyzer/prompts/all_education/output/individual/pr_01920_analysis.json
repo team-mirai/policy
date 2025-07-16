@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1920,
+  "summary": "AIを主要学習手段とし教師は個別サポートに特化、定期評価制度で教師の質を担保",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "中",
+    "reason": "評価制度や報告窓口など具体的提案があるが実装詳細は不明"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "教員組合の反発と評価制度の公平性確保"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正・評価システム構築予算",
+  "keywords": ["AI教育", "教師評価", "個別指導", "教員研修", "教育改革"],
+  "unique_features": "AIを主要学習手段とし教師の役割を根本的に転換",
+  "discussion_points": ["教師の評価制度の公平性と実効性をどう確保するか", "AI主体の学習で人間的な成長をどう保証するか"]
+}
+```

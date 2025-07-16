@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1992,
+  "summary": "AI個別学習と並行し運動会等の集団活動で協調性育成、通学困難者にもオンライン参加を保障",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "活動内容は具体的だが実施方法の詳細は不明"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "オンライン参加での集団活動の質の確保"
+  },
+  "scope": "全国",
+  "required_resources": "設備・インフラ",
+  "keywords": ["AI教育", "集団活動", "協調性", "社会性", "オンライン参加"],
+  "unique_features": "AI個別学習と集団活動のバランスを明確化",
+  "discussion_points": ["オンライン参加での集団活動の効果的な実施方法", "AI個別学習と集団活動の時間配分"]
+}
+```

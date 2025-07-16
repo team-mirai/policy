@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2619,
+  "summary": "教育政策文書の若年層起業関心層27%のデータに日本政策金融公庫の調査出典を追記",
+  "category": "その他",
+  "specificity": {
+    "level": "高",
+    "reason": "具体的な出典名と追記箇所が明確に示されている"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "出典データと記載内容の整合性確認"
+  },
+  "scope": "全国",
+  "required_resources": "特になし",
+  "keywords": ["出典明記", "統計データ", "起業関心層", "透明性向上", "文書品質"],
+  "unique_features": "匿名ユーザーからの文書品質改善提案",
+  "discussion_points": ["提示された出典の27%という数値の解釈の妥当性", "他の統計データへの出典追加の必要性"]
+}
+```

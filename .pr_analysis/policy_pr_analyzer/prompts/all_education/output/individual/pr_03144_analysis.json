@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 3144,
+  "summary": "AIアシスタント導入で生まれる時間的余裕を活用し、専門家によるSSTを体系的に導入する提案",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "AIアシスタントの具体的機能とSSTの導入方法が明確に示されている"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "SST指導ができる専門家の確保と全国展開のための人材育成"
+  },
+  "scope": "全国",
+  "required_resources": "予算（AIシステム開発）・人材（SST専門家）・制度改正",
+  "keywords": ["AIアシスタント", "メンタルヘルス", "ソーシャルスキルトレーニング", "自殺予防", "個別最適化学習"],
+  "unique_features": "AI活用で生まれる余裕を人間教育に再投資する発想",
+  "discussion_points": ["SST専門家の質の確保と研修体制の構築方法", "AIへの相談内容のプライバシー保護と緊急時対応の仕組み"]
+}
+```

@@ -1,0 +1,32 @@
+{
+  "additions": 27,
+  "author": {
+    "id": "MDQ6VXNlcjEyMTc4MzA1",
+    "is_bot": false,
+    "login": "akinorioyama",
+    "name": ""
+  },
+  "body": "18歳意識調査の2024年結果は、回答選択肢が増えています。\r\n「どちらかといえば」という選択肢が追加され、「同意」「どちらかといえば同意」の２つの回答が集計されていています。過去の調査の「はい」「いいえ」のみの選択肢のみの調査での結果より数値が大きくなり、より効力感があると認知される可能性があります。2024年調査45.8%は、2022年26.9%、2019年18.3%、と過去の結果を含むことで、より明確に自体を認識できるようにする。",
+  "changedFiles": 2,
+  "comments": [],
+  "createdAt": "2025-05-16T08:15:14Z",
+  "deletions": 2,
+  "labels": [
+    {
+      "id": "LA_kwDOOqTJvM8AAAACAn5d8w",
+      "name": "教育",
+      "description": "",
+      "color": "E57B81"
+    }
+  ],
+  "mergeable": "MERGEABLE",
+  "mergedAt": null,
+  "number": 91,
+  "reactionGroups": [],
+  "state": "OPEN",
+  "title": "ステップ３教育への18歳意識調査の詳細追加を提案",
+  "updatedAt": "2025-05-19T01:59:26Z",
+  "url": "https://github.com/team-mirai/policy/pull/91",
+  "commentsCount": 0,
+  "totalReactions": 0
+}

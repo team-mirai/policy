@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2445,
+  "summary": "企業のプロボノ活動によるSTEAM・起業家精神教育の充実と官公庁案件での評価制度導入",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "企業名公表や官公庁案件評価など具体的施策を提示するも実施詳細は未定"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "企業参加の評価基準策定と教育の公平性確保"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["民間企業連携", "プロボノ活動", "STEAM教育", "アントレプレナーシップ教育", "キャリア教育"],
+  "unique_features": "企業の社会貢献を官公庁案件評価に反映",
+  "discussion_points": ["企業の教育参加の評価基準設定", "教育の公平性と企業利益のバランス"]
+}
+```

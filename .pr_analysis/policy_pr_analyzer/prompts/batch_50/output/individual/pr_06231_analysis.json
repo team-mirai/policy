@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 6231,
+  "summary": "EdTech活用の無学年制・習熟度別学習と教員増員・専門職配置によるチーム学校体制で個別最適な学びを実現",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "高",
+    "reason": "無学年制導入、学習/HRクラス分離、専門職配置など具体的施策を明記"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "無学年制への移行に伴う評価基準の再構築と大規模な財源確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["無学年制", "習熟度別学習", "EdTech", "チーム学校", "個別最適化"],
+  "unique_features": "無学年制と人的投資を組み合わせた包括的改革",
+  "discussion_points": ["無学年制移行時の評価基準や進級判定の具体的方法", "教員増員・専門職配置の財源確保と持続可能性"]
+}
+```

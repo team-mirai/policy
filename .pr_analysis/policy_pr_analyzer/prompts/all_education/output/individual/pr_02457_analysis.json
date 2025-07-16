@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2457,
+  "summary": "AI学習アシスタントに純粋数学探求支援と入試対策機能を追加する教育AI強化提案",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "入試問題分析や個別学習計画など具体的な機能が明確に定義されている"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "高度なAI技術開発と教育現場での実証・検証が必要"
+  },
+  "scope": "全国",
+  "required_resources": "技術開発・予算",
+  "keywords": ["AI学習アシスタント", "純粋数学", "入試対策", "個別最適化", "探究学習"],
+  "unique_features": "純粋数学の探求支援と入試対策AIの統合提案",
+  "discussion_points": ["AIによる入試対策支援が教育格差に与える影響", "純粋数学の深い理解をAIがどこまで支援できるか"]
+}
+```

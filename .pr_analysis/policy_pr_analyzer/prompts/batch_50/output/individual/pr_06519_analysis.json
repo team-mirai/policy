@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 6519,
+  "summary": "小中高の学習指導要領を改訂し、税・年金・社会保障等の金融リテラシー教育を体系的に導入",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "中",
+    "reason": "学習指導要領改訂とEdTech活用は明記されているが、具体的な教科配置や時間数が不明"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "教員の専門知識習得と研修体制の構築"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正・人材",
+  "keywords": ["金融リテラシー", "税金", "年金", "社会保障", "学習指導要領"],
+  "unique_features": "EdTechで確定申告等の実践的シミュレーション導入",
+  "discussion_points": ["どの教科で扱うか、時間確保の方法", "教員の専門知識習得と研修体制"]
+}
+```

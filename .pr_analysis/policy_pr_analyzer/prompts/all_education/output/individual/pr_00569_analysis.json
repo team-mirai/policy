@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 569,
+  "summary": "AI時代に必要な論理的思考力・読解力・AI倫理観を育成し変化に適応できる人材を育てる",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "中",
+    "reason": "育成能力は明示されているが具体的な教育方法は未提示"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "教員のAI・AI倫理指導力不足と研修体制構築"
+  },
+  "scope": "全国",
+  "required_resources": "人材",
+  "keywords": ["AI教育", "AI倫理", "論理的思考力", "国語教育", "格差是正"],
+  "unique_features": "AI技術習得より国語力等の基盤能力とAI倫理観を重視",
+  "discussion_points": ["AI倫理教育の具体的内容と発達段階別教育方法", "従来教科との統合方法と時間配分"]
+}
+```

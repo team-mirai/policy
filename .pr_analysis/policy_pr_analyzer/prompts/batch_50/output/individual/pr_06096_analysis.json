@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 6096,
+  "summary": "EdTech推進において端末の長時間利用によるネット依存を防ぐ管理ソフトウェア導入を提案",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "管理ソフトウェア導入という具体策を示すが、詳細な仕様や運用方法は未定"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "学校・家庭・自治体間での運用ルールの統一"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["EdTech", "ネット依存", "GIGAスクール", "端末管理", "デジタルウェルビーイング"],
+  "unique_features": "EdTech推進と子どもの健康保護の両立を目指す",
+  "discussion_points": ["管理と教育的自由のバランスをどう取るか", "家庭での端末利用時間との整合性"]
+}
+```

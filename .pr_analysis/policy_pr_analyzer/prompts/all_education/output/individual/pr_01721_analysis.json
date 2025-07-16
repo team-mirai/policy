@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1721,
+  "summary": "AI教育政策文書の表現を平易化し、情報構成を最適化してURLを削除する改善提案",
+  "category": "その他",
+  "specificity": {
+    "level": "高",
+    "reason": "具体的な変更箇所（表現調整、情報順序変更、URL削除）が明確に示されている"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "文書編集のみで実施可能、技術的・制度的障壁なし"
+  },
+  "scope": "政策文書の読者",
+  "required_resources": "編集作業のみ",
+  "keywords": ["AI教育", "文書改善", "表現平易化", "海外事例", "情報構成"],
+  "unique_features": "読者視点に立った細やかな文書改善と政策文書の品位確保",
+  "discussion_points": ["具体的な海外事例（ナイジェリア）削除の是非", "政策文書でのURL掲載の適切性"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 746,
+  "summary": "AI家庭教師が個別最適化学習と学習指導要領の標準ペースを両立させることを明記",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "具体的な文言追加と背景・意図が明確"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "個別最適化と標準化のバランス調整の技術的実現"
+  },
+  "scope": "全国",
+  "required_resources": "AI開発",
+  "keywords": ["AI家庭教師", "個別最適化", "学習指導要領", "学習進度", "定期テスト"],
+  "unique_features": "個別最適化と標準化の両立を明確化",
+  "discussion_points": ["個別進度と標準ペースの具体的な調整方法", "AIによる学習支援と定期テストの整合性"]
+}
+```

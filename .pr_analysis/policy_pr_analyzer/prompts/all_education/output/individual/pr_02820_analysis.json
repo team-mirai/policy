@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2820,
+  "summary": "子ども食堂を民間運営から公共運営に転換し困難を抱える子どもの総合支援拠点化",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "高",
+    "reason": "現状課題と転換後の4つの支援機能が明確"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "全国規模での予算確保と専門人材配置"
+  },
+  "scope": "全国",
+  "required_resources": "予算・人材",
+  "keywords": ["子ども食堂", "公共化", "セーフティネット", "東横キッズ", "総合支援"],
+  "unique_features": "民間依存から公共責任へ転換し総合支援拠点化",
+  "discussion_points": ["公共化の具体的な運営形態と費用負担", "既存の民間子ども食堂との連携方法"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 36,
+  "summary": "AI個別学習と協働的な学びのバランスを重視し学校・地域での学び合いの場の充実を支援",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性は明確だが具体的な実施方法は未提示"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "AI個別学習と協働学習の最適なバランス設計"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正/人材",
+  "keywords": ["AI教育", "協働学習", "社会性", "コミュニケーション能力", "学び合い"],
+  "unique_features": "AI時代の個別最適化と対人スキル育成の両立",
+  "discussion_points": ["AI個別学習と協働学習の最適な配分比率", "学び合いの場の具体的な実現方法と評価基準"]
+}
+```

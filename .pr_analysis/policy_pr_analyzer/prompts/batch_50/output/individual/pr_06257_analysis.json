@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 6257,
+  "summary": "子どもと関わる職への就職希望者の性犯罪歴を確認できる日本版DBS制度の創設",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "高",
+    "reason": "英国DBSという具体的モデルがあり、対象範囲も明確に提示"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "個人情報保護と犯罪歴照会のバランス、法制度整備"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["DBS", "性犯罪歴照会", "子どもの安全", "犯罪歴確認", "児童保護"],
+  "unique_features": "英国DBS制度を参考にした包括的な子ども保護システム",
+  "discussion_points": ["更生した人の職業選択の自由との調整", "照会対象とする犯罪の範囲と期間の設定"]
+}
+```

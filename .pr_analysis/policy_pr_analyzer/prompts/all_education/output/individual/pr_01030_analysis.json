@@ -1,0 +1,23 @@
+```json
+{
+  "pr_number": 1030,
+  "summary": "AI家庭教師により国語の対話力と算数の本質的理解力の育成を具体化",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "国語と算数での具体的な活用方法と期待される効果が明確"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "教育効果の質保証と適切な対話を実現するAIの精度向上"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AI家庭教師", "対話型学習", "国語教育", "算数教育", "個別最適化"],
+  "unique_features": "国語の対話力と算数の本質理解に特化したAI活用",
+  "discussion_points": [
+    "AIとの対話が実際の人間との対話能力育成にどう影響するか",
+    "AIによる学習支援の質をどう保証し、教育効果を測定するか"
+  ]
+}
+```

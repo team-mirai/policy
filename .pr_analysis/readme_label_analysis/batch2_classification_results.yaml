@@ -1,0 +1,200 @@
+batch_2_classifications:
+  - pr_number: 6154
+    label: 産業政策
+    reason: 観光産業の新規政策。オーバーツーリズム対策と観光のハイブランド化に関する提案
+    
+  - pr_number: 6152
+    label: デジタル民主主義
+    reason: AI活用の原則強化と有権者の情報収集支援に関する提案
+    
+  - pr_number: 6150
+    label: ビジョン
+    reason: AI活用における人間の責任と専門性維持の基本原則に関する提案
+    
+  - pr_number: 6148
+    label: 子育て
+    reason: 養育費不払い問題の解決による子どもの貧困対策
+    
+  - pr_number: 6146
+    label: その他政策
+    reason: 政治改革（議員定年制、報酬適正化、世襲制限）に関する提案
+    
+  - pr_number: 6143
+    label: 福祉
+    reason: 公共施設の多機能化による子どもと高齢者の支援策
+    
+  - pr_number: 6142
+    label: ビジョン
+    reason: 多様な家族のあり方（選択的夫婦別姓・同性婚）を支える基本理念
+    
+  - pr_number: 6139
+    label: その他政策
+    reason: 持続可能な都市政策（コンパクトシティ）に関する提案
+    
+  - pr_number: 6135
+    label: その他政策
+    reason: 2拠点生活など新しいライフスタイルの支援策
+    
+  - pr_number: 6128
+    label: 経済財政
+    reason: 納税実績を活用した信用創造（金融政策）の提案
+    
+  - pr_number: 6124
+    label: その他政策
+    reason: ネット上の私的制裁と人権保障（司法・人権）に関する提案
+    
+  - pr_number: 6121
+    label: デジタル民主主義
+    reason: ネット投票における「投票の上書き機能」の原則
+    
+  - pr_number: 6118
+    label: 子育て
+    reason: 子育て支援の所得制限撤廃と一律給付の提案
+    
+  - pr_number: 6114
+    label: その他政策
+    reason: 性加害の厳罰化（司法・刑事政策）に関する提案
+    
+  - pr_number: 6110
+    label: その他政策
+    reason: 安楽死に関する政策（生命倫理）の提案
+    
+  - pr_number: 6108
+    label: 経済財政
+    reason: 消費税一本化と経済のDXによる物価安定策
+    
+  - pr_number: 6107
+    label: 教育
+    reason: 教育を通じた日本文化への理解とアイデンティティ確立
+    
+  - pr_number: 6105
+    label: 産業政策
+    reason: 既卒者など多様な経歴を持つ人への就職支援
+    
+  - pr_number: 6099
+    label: その他政策
+    reason: 国防と情報公開の透明性強化（防衛・安全保障）
+    
+  - pr_number: 6097
+    label: 福祉
+    reason: 氷河期世代や独身者への包括的支援策
+    
+  - pr_number: 6095
+    label: 経済財政
+    reason: 投資促進と金融所得課税に関する提案
+    
+  - pr_number: 6092
+    label: 福祉
+    reason: 子どもの出産・子育て費用の免除と18歳までの教育無償化
+    
+  - pr_number: 6091
+    label: その他政策
+    reason: 外国人の政治参加（外国人参政権）に関する提案
+    
+  - pr_number: 6090
+    label: デジタル民主主義
+    reason: 若者の政治参加を促進するためのアプリやSNS活用
+    
+  - pr_number: 6089
+    label: その他政策
+    reason: 国会議員の質の向上と情報公開に関する提案
+    
+  - pr_number: 6087
+    label: その他政策
+    reason: 移民政策に関する慎重な議論の必要性
+    
+  - pr_number: 6084
+    label: その他政策
+    reason: リニア新幹線事業の見直しと地域への影響評価
+    
+  - pr_number: 6079
+    label: ビジョン
+    reason: 国民の多数意見を尊重する政策実現の基本方針
+    
+  - pr_number: 6078
+    label: 産業政策
+    reason: エッセンシャルワーカーの給与向上と地位向上
+    
+  - pr_number: 6075
+    label: エネルギー
+    reason: エネルギー安全保障と原子力発電の位置づけ
+    
+  - pr_number: 6072
+    label: 産業政策
+    reason: 外国人労働者の待遇改善と定着促進策
+    
+  - pr_number: 6071
+    label: その他政策
+    reason: 憲法と法制度に関する基本的な考え方
+    
+  - pr_number: 6069
+    label: その他政策
+    reason: インボイス制度の見直しと中小事業者支援
+    
+  - pr_number: 6063
+    label: その他政策
+    reason: 同性婚と家族形成に関する提案
+    
+  - pr_number: 6056
+    label: 福祉
+    reason: 片頭痛患者への医療・福祉支援の充実
+    
+  - pr_number: 6054
+    label: 産業政策
+    reason: 農業後継者問題と食料自給率向上策
+    
+  - pr_number: 6053
+    label: その他政策
+    reason: ペットに関する資格制度と虐待防止策
+    
+  - pr_number: 6048
+    label: 教育
+    reason: 給食無償化と食育の推進
+    
+  - pr_number: 6046
+    label: その他政策
+    reason: 社会的マイノリティへの配慮と包摂性
+    
+  - pr_number: 6045
+    label: エネルギー
+    reason: 原子力災害対策と防災体制の強化
+    
+  - pr_number: 6040
+    label: 経済財政
+    reason: インフレ対策と経済政策の見直し
+    
+  - pr_number: 6038
+    label: 行政改革
+    reason: 縦割り行政の是正と中央と地方の連携強化
+    
+  - pr_number: 6033
+    label: その他政策
+    reason: 迷惑系YouTuberへの対策と規制
+    
+  - pr_number: 6030
+    label: その他政策
+    reason: 海外投資家への不動産購入規制
+    
+  - pr_number: 6016
+    label: 経済財政
+    reason: 法人税率の見直しと財源確保策
+    
+  - pr_number: 6010
+    label: 経済財政
+    reason: 国会議員報酬削減とベーシックインカム試験導入
+    
+  - pr_number: 6009
+    label: その他政策
+    reason: 過疎地域の民間委託による活性化策
+    
+  - pr_number: 6008
+    label: ビジョン
+    reason: 「賢く豊かで優しい日本」という基本理念の追加
+    
+  - pr_number: 6006
+    label: その他政策
+    reason: 「親子断絶防止法」による共同親権の推進
+    
+  - pr_number: 6001
+    label: 福祉
+    reason: 「困っている人」への包括的支援システム

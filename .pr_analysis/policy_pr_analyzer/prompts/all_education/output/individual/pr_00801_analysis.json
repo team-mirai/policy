@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 801,
+  "summary": "AI家庭教師が基礎学力習得と苦手意識克服を支援する役割を政策文書に明記",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "具体的な文言追加を提案しているが、実装方法の詳細は示されていない"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "政策文書の修正のみで追加の実装は不要"
+  },
+  "scope": "全国",
+  "required_resources": "なし（文言修正のみ）",
+  "keywords": ["AI家庭教師", "基礎学力", "苦手克服", "個別学習支援", "教育AI"],
+  "unique_features": "AIの役割を基礎学力向上に明確化し誤解を防ぐ",
+  "discussion_points": ["AIによる学習支援の適切な範囲と限界の設定", "基礎学力重視と個性尊重のバランスの取り方"]
+}
+```

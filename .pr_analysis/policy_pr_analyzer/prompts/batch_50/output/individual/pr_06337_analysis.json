@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 6337,
+  "summary": "PTA活動の外部委託費用を補助する制度を創設し保護者負担を軽減",
+  "category": "地域連携",
+  "specificity": {
+    "level": "高",
+    "reason": "補助対象活動と委託先が明確に示されている"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "補助金の予算確保と制度設計"
+  },
+  "scope": "地域",
+  "required_resources": "予算",
+  "keywords": ["PTA", "外部委託", "補助金", "保護者負担", "地域連携"],
+  "unique_features": "PTA活動を外部委託で支援する新しい発想",
+  "discussion_points": ["補助金の適正規模と対象範囲の設定", "PTAの本来の役割と外部委託のバランス"]
+}
+```

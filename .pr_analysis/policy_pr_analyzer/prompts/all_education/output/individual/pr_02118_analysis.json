@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2118,
+  "summary": "初等教育にアンガーマネジメントを含む感情理解教育を導入し人間関係の課題に対処",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "中",
+    "reason": "プログラム内容は明確だが実施詳細や評価方法が不明"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "教員研修体制の構築と専門家の確保"
+  },
+  "scope": "全国",
+  "required_resources": "人材",
+  "keywords": ["アンガーマネジメント", "感情理解教育", "EQ", "初等教育", "人間関係"],
+  "unique_features": "希望制と専門家判断による柔軟な対象者選定",
+  "discussion_points": ["対象者の選定方法と公平性の確保", "個々の感情表現の尊重と教育効果のバランス"]
+}
+```

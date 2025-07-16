@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 155,
+  "summary": "AIリテラシー教育にスマホ・SNS利用の指導を追加し、デジタル機器との健全な関係構築を目指す",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "中",
+    "reason": "小中学校での指導内容は示されているが、具体的な授業時間数や教材内容は未定"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "教員向けの指導教材の開発と研修体制の整備"
+  },
+  "scope": "全国",
+  "required_resources": "教材開発",
+  "keywords": ["スマートフォン", "SNS", "デジタルリテラシー", "健康影響", "情報教育"],
+  "unique_features": "AIだけでなく身近なデジタル機器の適切な利用を重視",
+  "discussion_points": ["家庭との連携方法をどう構築するか", "年齢に応じた段階的な指導内容の具体化"]
+}
+```

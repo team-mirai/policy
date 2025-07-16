@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 103,
+  "summary": "AIで効率化した時間を対話や集団性・身体性を育む指導に活用することを明記",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性は明確だが具体的な実施方法は示されていない"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "教員の意識改革と研修体制の整備"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["AI活用", "教員働き方改革", "集団性", "身体性", "対話的活動"],
+  "unique_features": "AI導入と人間的教育活動のバランスを明文化",
+  "discussion_points": ["AIで創出された時間の具体的な活用方法と評価基準", "発達段階に応じた集団性・身体性教育の具体的内容"]
+}
+```

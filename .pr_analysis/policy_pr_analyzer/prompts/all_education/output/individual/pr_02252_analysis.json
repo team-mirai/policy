@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2252,
+  "summary": "古文書散逸防止のため寄贈窓口明確化とOCR技術でのデジタル化・公開を推進",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "寄贈窓口明確化、OCR技術活用、統合プラットフォーム公開など具体的施策を明記"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "国立国会図書館と各都道府県機関の連携体制構築"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正・予算",
+  "keywords": ["古文書", "デジタル化", "国立国会図書館", "OCR技術", "文化財保護"],
+  "unique_features": "古文書散逸防止とデジタル技術活用を組み合わせた文化財保護",
+  "discussion_points": ["寄贈された古文書の所有権・著作権の扱い", "関係機関間の連携体制・責任分担"]
+}
+```

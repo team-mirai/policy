@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2126,
+  "summary": "マニフェスト目次でステップ1と3の教育・子育て項目順を統一し読みやすさを向上",
+  "category": "その他",
+  "specificity": {
+    "level": "高",
+    "reason": "変更箇所と内容が明確に示されている"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "他ステップとの整合性確認"
+  },
+  "scope": "マニフェスト全体",
+  "required_resources": "編集作業のみ",
+  "keywords": ["目次", "項目順", "一貫性", "読みやすさ", "マニフェスト編集"],
+  "unique_features": "読者視点での構成改善提案",
+  "discussion_points": ["項目順が政策優先度を示すか", "他ステップでも統一が必要か"]
+}
+```

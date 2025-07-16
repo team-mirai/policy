@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 394,
+  "summary": "高等教育機関への入学資格を年齢・高卒資格に縛られず柔軟化し早期社会参加を促す提案",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性は明確だが具体的な実施基準や方法は未定"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "教育基本法等の法改正と社会的合意形成が必要"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["入学資格", "高等教育", "年齢制限", "飛び級", "生涯学習"],
+  "unique_features": "教育期間最適化を少子化対策と関連付けた視点",
+  "discussion_points": ["質保証と評価基準の設定方法", "企業等の採用慣行との整合性"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1646,
+  "summary": "STEAM教育にArtsを明記し、新世代児童館・部活を地域の図書館・博物館等と連携して全国設置",
+  "category": "地域連携",
+  "specificity": {
+    "level": "中",
+    "reason": "連携施設は明示されているが、具体的な連携方法や運営体制は不明確"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "地域施設の人員不足への対応"
+  },
+  "scope": "全国",
+  "required_resources": "人材",
+  "keywords": ["STEAM教育", "地域連携", "図書館", "博物館", "文理融合"],
+  "unique_features": "文理融合型STEAM教育を地域文化施設と連携実施",
+  "discussion_points": ["地域施設の人員不足をどう解決するか", "施設間連携の具体的な運営体制をどう構築するか"]
+}
+```

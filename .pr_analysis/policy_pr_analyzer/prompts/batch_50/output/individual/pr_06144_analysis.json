@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 6144,
+  "summary": "GIGAスクール端末に時間制限・フィルタリング機能を標準搭載しネット依存を防止",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "具体的な機能（時間制限・フィルタリング）と対象端末が明確"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "全国統一の利用制限基準の設定と保護者・学校間の合意形成"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["GIGAスクール", "ネット依存", "時間制限", "フィルタリング", "不登校対策"],
+  "unique_features": "不登校対策として端末の利用制限に着目",
+  "discussion_points": ["教育的効果と利用制限のバランスをどう取るか", "家庭での個人端末利用との整合性"]
+}
+```

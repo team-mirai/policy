@@ -1,0 +1,200 @@
+batch_3_classifications:
+  - pr_number: 5999
+    label: 産業政策
+    reason: プラネタリーヘルス（予防医療・サステナブル産業・AI技術の統合）への投資に関する提案
+    
+  - pr_number: 5996
+    label: その他政策
+    reason: AIと著作権に関する基本方針。知的財産権保護に関する政策
+    
+  - pr_number: 5995
+    label: ビジョン
+    reason: 選択的夫婦別姓と同性婚に関する基本理念の追加
+    
+  - pr_number: 5994
+    label: [システム]
+    reason: iOS版ブラウザのバグ報告。技術的な問題のドキュメント化
+    
+  - pr_number: 5992
+    label: その他政策
+    reason: 公共ワークスペース環境の整備。都市インフラ・公共施設活用
+    
+  - pr_number: 5988
+    label: 行政改革
+    reason: AI等デジタル技術の調達・運用における透明性とセキュリティ確保
+    
+  - pr_number: 5983
+    label: その他政策
+    reason: ネット広告の健全化。インターネット規制・消費者保護
+    
+  - pr_number: 5982
+    label: ビジョン
+    reason: AI活用の責任原則とデジタル化における配慮の基本方針
+    
+  - pr_number: 5981
+    label: その他政策
+    reason: 年金制度の公平性確保と世代間格差の是正
+    
+  - pr_number: 5980
+    label: エネルギー
+    reason: 原子力発電のあり方に関する基本方針
+    
+  - pr_number: 5977
+    label: その他政策
+    reason: 死刑制度廃止と終身刑導入に関する提案
+    
+  - pr_number: 5972
+    label: 行政改革
+    reason: 地方自治体の行政サービス統一化とデジタル化
+    
+  - pr_number: 5971
+    label: 産業政策
+    reason: 一次産業（農林水産業）の未来に関する政策提案
+    
+  - pr_number: 5963
+    label: エネルギー
+    reason: 太陽光発電と電気自動車を活用した災害対策とエネルギー政策
+    
+  - pr_number: 5959
+    label: その他政策
+    reason: 政治家の議論スキル向上と記録公開に関する提案
+    
+  - pr_number: 5958
+    label: 教育
+    reason: 学校給食費の無償化と子どもの食の安全
+    
+  - pr_number: 5957
+    label: その他政策
+    reason: 生成AIと著作権に関する法的ルールの明確化
+    
+  - pr_number: 5956
+    label: [システム]
+    reason: マニフェストのタイポ修正
+    
+  - pr_number: 5952
+    label: その他政策
+    reason: 過疎地域の活性化と持続可能な地域づくり
+    
+  - pr_number: 5950
+    label: その他政策
+    reason: 防災対策としての電柱地中化推進
+    
+  - pr_number: 5943
+    label: 福祉
+    reason: 養護施設出身者への社会的支援強化
+    
+  - pr_number: 5940
+    label: 産業政策
+    reason: 一次産業（農林水産業）の振興と地方活性化
+    
+  - pr_number: 5939
+    label: その他政策
+    reason: 女性と女児への差別撤廃と権利保障
+    
+  - pr_number: 5938
+    label: その他政策
+    reason: 政治家の報酬と定年制に関する提案
+    
+  - pr_number: 5933
+    label: その他政策
+    reason: 外国人参政権と移民政策に関する提案
+    
+  - pr_number: 5932
+    label: その他政策
+    reason: 動物愛護と殺処分ゼロに関する政策
+    
+  - pr_number: 5930
+    label: その他政策
+    reason: 高齢者運転免許返納支援と公共交通の充実
+    
+  - pr_number: 5928
+    label: その他政策
+    reason: 官僚制度改革と行政の効率化
+    
+  - pr_number: 5924
+    label: [システム]
+    reason: メールアドレスのタイポ修正（Gmail関連）
+    
+  - pr_number: 5919
+    label: 医療
+    reason: 健康診断結果のデジタル化と一元管理
+    
+  - pr_number: 5910
+    label: 福祉
+    reason: 高齢者のデジタルディバイド解消支援
+    
+  - pr_number: 5903
+    label: その他政策
+    reason: 政治資金の透明化と企業献金規制
+    
+  - pr_number: 5896
+    label: 子育て
+    reason: 不妊治療支援の拡充と少子化対策
+    
+  - pr_number: 5893
+    label: 教育
+    reason: 教育現場でのICT活用とプログラミング教育
+    
+  - pr_number: 5892
+    label: その他政策
+    reason: 投票権年齢の引き下げと若者の政治参加促進
+    
+  - pr_number: 5887
+    label: 経済財政
+    reason: 地方税制改革と財源の地方移譲
+    
+  - pr_number: 5882
+    label: その他政策
+    reason: 司法制度改革と裁判の迅速化
+    
+  - pr_number: 5881
+    label: 福祉
+    reason: 障害者の就労支援と社会参加促進
+    
+  - pr_number: 5874
+    label: その他政策
+    reason: 公文書管理の徹底と情報公開の推進
+    
+  - pr_number: 5873
+    label: 産業政策
+    reason: 中小企業支援とスタートアップ育成
+    
+  - pr_number: 5869
+    label: その他政策
+    reason: 地方分権の推進と道州制導入
+    
+  - pr_number: 5868
+    label: 教育
+    reason: 大学教育改革と研究環境の改善
+    
+  - pr_number: 5858
+    label: その他政策
+    reason: 選挙制度改革と一票の格差是正
+    
+  - pr_number: 5846
+    label: エネルギー
+    reason: 再生可能エネルギーの普及促進
+    
+  - pr_number: 5840
+    label: 医療
+    reason: 遠隔医療の推進と医療アクセスの改善
+    
+  - pr_number: 5839
+    label: その他政策
+    reason: 外交政策と国際協力の強化
+    
+  - pr_number: 5834
+    label: 福祉
+    reason: 介護職員の待遇改善と人材確保
+    
+  - pr_number: 5833
+    label: 子育て
+    reason: 保育園待機児童問題の解消
+    
+  - pr_number: 5832
+    label: その他政策
+    reason: 防犯対策と治安維持の強化
+    
+  - pr_number: 5830
+    label: 産業政策
+    reason: 観光産業の振興と地域活性化

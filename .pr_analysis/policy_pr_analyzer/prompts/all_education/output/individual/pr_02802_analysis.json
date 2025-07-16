@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2802,
+  "summary": "建設業の人手不足や災害対策の重要性を踏まえ「国土強靭化・建設」分野をマニフェストに新設",
+  "category": "その他",
+  "specificity": {
+    "level": "中",
+    "reason": "政策分野追加は明確だが具体的施策は今後検討"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "具体的な政策内容の策定と合意形成"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["建設業", "国土強靭化", "インフラ整備", "気候変動", "災害対策"],
+  "unique_features": "建設業経営者の現場の声を直接反映した政策提案",
+  "discussion_points": ["建設業の担い手確保・育成の具体策", "GHG削減と国土強靭化の両立方法"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 125,
+  "summary": "AI活用の前提として読解力を重視し、伝統的国語教育と学習支援員配置を提案",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "中",
+    "reason": "教育手法や支援体制の方向性は示されているが、実施規模や具体的な配置基準は不明"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "学習支援員・チューターの人材確保と予算措置"
+  },
+  "scope": "全国",
+  "required_resources": "予算/人材",
+  "keywords": ["AI教育", "読解力", "国語教育", "学習支援員", "チューター"],
+  "unique_features": "AI活用の前提として伝統的国語教育の重要性を強調",
+  "discussion_points": ["学習支援員・チューターの配置基準と必要予算", "AI教育と伝統的国語教育の時間配分"]
+}
+```

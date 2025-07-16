@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1655,
+  "summary": "EBPM推進のための新設学部連携と社会教育施設のDX推進により教育政策を多角的に強化",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "AI活用の具体的業務やデジタルアーカイブ化等の施策が明確に記載"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "全国の社会教育施設へのDX導入に必要な予算確保と人材育成"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["EBPM", "社会教育施設", "DX", "AI活用", "デジタルアーカイブ"],
+  "unique_features": "学校教育だけでなく社会教育施設のDXに着目",
+  "discussion_points": ["社会教育施設のDX推進に必要な予算規模と優先順位", "新設学部との連携における具体的な仕組みづくり"]
+}
+```

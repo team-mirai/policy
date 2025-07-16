@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2931,
+  "summary": "国が財源を確保し給食の質・量を保証した上での給食費無償化を実現",
+  "category": "予算・財源",
+  "specificity": {
+    "level": "中",
+    "reason": "政策の方向性は明確だが、財源規模や実施方法の詳細が未定"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "全国規模での恒久的な財源確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["給食費無償化", "食の保証", "栄養バランス", "子どもの貧困対策", "給食の質"],
+  "unique_features": "無償化と同時に給食の質・量の保証を明記",
+  "discussion_points": ["必要な財源規模と確保方法の具体化", "給食の質・量の具体的な基準設定"]
+}
+```

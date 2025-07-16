@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 847,
+  "summary": "大学教育でAIを活用したイノベーション人材育成と文理融合の学際的教育を推進",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性は明確だが具体的な実施方法や評価基準が不明"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "既存の学部制度や教育体系の抜本的変革が必要"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["大学教育", "AI活用", "イノベーション人材", "学際的教育", "文理融合"],
+  "unique_features": "高等教育での文理融合とAI活用を明確に提示",
+  "discussion_points": ["既存の学部制度との整合性をどう図るか", "実践的人材育成の評価基準をどう設定するか"]
+}
+```

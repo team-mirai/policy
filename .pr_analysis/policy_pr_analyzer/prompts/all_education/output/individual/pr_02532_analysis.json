@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2532,
+  "summary": "子どもへの直接的AI提供から教員支援型AI活用へ方針転換し、子どもの発達への影響に配慮",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "セクションタイトルや政策概要の具体的な修正内容が明示されている"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "政策文書の修正のみで実装段階ではない"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["AI教育", "教員支援", "子どもの発達", "メンタルヘルス", "慎重な導入"],
+  "unique_features": "海外事例の負の影響を踏まえた慎重な方針転換",
+  "discussion_points": ["AI活用の効果と子どもへの潜在的リスクのバランス", "教員支援型AI活用の具体的な実装方法"]
+}
+```

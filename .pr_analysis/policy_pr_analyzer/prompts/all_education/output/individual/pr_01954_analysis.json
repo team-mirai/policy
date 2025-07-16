@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1954,
+  "summary": "国公立中高生対象の海外短期留学支援制度を共通試験による選抜で実施",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "高",
+    "reason": "対象者、選定方法、支援内容が明確に定義されている"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "継続的な財源確保と予算配分"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["海外留学", "短期留学", "ホームステイ", "国際交流", "共通試験"],
+  "unique_features": "共通試験による選抜で公平性を確保した留学支援",
+  "discussion_points": ["私立学校生徒を対象外とすることの妥当性", "学力試験を選定基準とすることの是非"]
+}
+```

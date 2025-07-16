@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 207,
+  "summary": "AI活用と並行して自然体験活動を推進し、教師間対話を働き方改革の中心に据える教育政策改善",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性は明確だが、具体的な実施方法や数値目標が不足"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "学校文化の変革と教師の意識改革に時間を要する"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正/人材",
+  "keywords": ["自然体験", "教師間対話", "働き方改革", "AI教育", "人間性育成"],
+  "unique_features": "AI時代だからこそ人間性と現場主体性を重視",
+  "discussion_points": ["自然体験活動の具体的実施方法と評価指標", "教師間対話の時間確保と既存業務との両立"]
+}
+```

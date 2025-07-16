@@ -1,0 +1,22 @@
+PRの内容から分析結果を出力します：
+
+```json
+{
+  "pr_number": 2157,
+  "summary": "AI活用による国際交流促進と学校現場の実態に応じた段階的導入支援を提案",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "総合的学習での活用やSAIS成果共有など方向性は明確だが実施詳細は未定"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "教員のAI指導スキル習得と研修体制の構築"
+  },
+  "scope": "全国",
+  "required_resources": "人材（教員研修）・予算（教材開発）",
+  "keywords": ["AIリテラシー", "国際交流", "総合的学習", "SAIS", "柔軟な導入"],
+  "unique_features": "AI活用と国際交流を組み合わせ現場負担に配慮",
+  "discussion_points": ["教員のAI指導力をどう確保するか", "学校間格差を生まない支援体制の構築方法"]
+}
+```

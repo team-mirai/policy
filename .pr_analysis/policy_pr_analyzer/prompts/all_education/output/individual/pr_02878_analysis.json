@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2878,
+  "summary": "子どもの性被害防止のため被害者ケア・加害者隔離・GPS監視・厳罰化を含む総合対策",
+  "category": "その他",
+  "specificity": {
+    "level": "高",
+    "reason": "4つの柱それぞれに具体的施策が明記"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "GPS監視や情報公開の憲法適合性"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["性被害防止", "子ども保護", "GPS監視", "性犯罪者情報公開", "厳罰化"],
+  "unique_features": "GPS監視や情報公開など踏み込んだ対策を提案",
+  "discussion_points": ["加害者の人権と子どもの保護のバランス", "監視制度の憲法適合性と実効性"]
+}
+```

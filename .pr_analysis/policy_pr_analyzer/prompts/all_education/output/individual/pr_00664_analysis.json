@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 664,
+  "summary": "小学校AIリテラシー教育に批判的思考力と生涯学習の視点を追加し哲学的思考を育成",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "中",
+    "reason": "追加する内容は明確だが具体的な実施方法や評価基準は未定"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "教員が技術と哲学的思考の両方を指導する能力の育成"
+  },
+  "scope": "全国",
+  "required_resources": "教材開発/教員研修",
+  "keywords": ["AIリテラシー", "批判的思考", "生涯学習", "小学校教育", "AI教育"],
+  "unique_features": "技術習得だけでなく哲学的思考力の育成を重視",
+  "discussion_points": ["小学生の発達段階に批判的思考教育が適切か", "教員がAIと哲学的思考の両方を指導できるか"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 478,
+  "summary": "AIを活用した就学時健診でのディスレクシア早期発見と教員研修による支援体制強化",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "高",
+    "reason": "就学時健診でのAI活用、教員研修という具体的な実施方法が明示"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "AI技術の開発・精度確保と全国的な教員研修体制の構築"
+  },
+  "scope": "全国",
+  "required_resources": "予算・人材",
+  "keywords": ["ディスレクシア", "就学時健診", "AI活用", "教員研修", "早期発見"],
+  "unique_features": "匿名ユーザーの実体験に基づく現実的な支援策",
+  "discussion_points": ["AIスクリーニングの精度と誤診リスクへの対応", "教員研修の具体的内容と実施体制の確立"]
+}
+```

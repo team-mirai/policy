@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 761,
+  "summary": "AI導入に伴い教師の役割を知識伝達から個別指導・メンタリングへ転換し専門性向上を支援",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "高",
+    "reason": "研修プログラム、探求学習、グループワーク等の具体的な施策を明記"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "教師の意識改革と新しい役割への適応"
+  },
+  "scope": "全国",
+  "required_resources": "人材育成・研修体制",
+  "keywords": ["教師の役割変化", "AI時代", "専門性向上", "メンター", "個別指導"],
+  "unique_features": "AI時代における教師の新たな専門性と役割を積極的に定義",
+  "discussion_points": ["教師の意識改革をどう進めるか", "AIと教師の役割分担の最適なバランス"]
+}
+```

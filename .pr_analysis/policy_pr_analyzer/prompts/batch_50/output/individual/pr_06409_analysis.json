@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 6409,
+  "summary": "社会教育施設でAI研修・資格制度・補助金等を通じ社会人の創造性向上を目指す",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "研修実施、補助金・税制優遇、資格制度など具体的施策を明記"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "企業連携体制の構築と資格制度の質保証"
+  },
+  "scope": "全国",
+  "required_resources": "予算/人材/制度改正",
+  "keywords": ["AI教育", "社会人教育", "デジタルトランスフォーメーション", "資格制度", "人間中心"],
+  "unique_features": "AIを人間の創造性拡張ツールと位置づける視点",
+  "discussion_points": ["資格制度の形骸化防止策", "インセンティブの効果測定方法"]
+}
+```

@@ -1,0 +1,18 @@
+{
+  "pr_number": 1050,
+  "summary": "AI家庭教師導入のメリット・デメリットを包括的に分析し、格差是正を目的に全児童生徒へのAI配布を提案",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "ChatGPT等の具体的なAI名、同意プロセス、監督体制など実装レベルの詳細を含む"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "教員・保護者のAIリテラシー不足とプライバシー保護の両立"
+  },
+  "scope": "全国",
+  "required_resources": "予算/人材",
+  "keywords": ["AI教育", "生成AI", "教育格差", "個別最適化学習", "デジタル教育"],
+  "unique_features": "リスクとメリットの両面を詳細に分析した包括的なAI教育導入提案",
+  "discussion_points": ["AIへの過度な依存による思考力低下をどう防ぐか", "プライバシー保護と個人情報管理の具体的方法"]
+}

@@ -1,0 +1,24 @@
+Looking at this PR, I notice that while the title mentions "保護者への情報提供強化によるAI教育の透明性向上" (Enhancing transparency in AI education through strengthened information provision to parents), the actual diff shows that almost the entire content of the file is being deleted (107 lines removed, 1 line added).
+
+Based on the deleted content shown in the diff, I can analyze the original proposal:
+
+```json
+{
+  "pr_number": 969,
+  "summary": "AI家庭教師の全児童生徒への提供と保護者への説明強化でAI教育の透明性を向上",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "具体的な導入方法や保護者対応は記載されているが、実施詳細は未定"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "保護者の理解と同意を得ながらのAI導入プロセスの確立"
+  },
+  "scope": "全国",
+  "required_resources": "予算/制度改正",
+  "keywords": ["AI家庭教師", "保護者同意", "AIリテラシー", "教育透明性", "生成AI"],
+  "unique_features": "保護者の合意形成プロセスを重視したAI教育導入",
+  "discussion_points": ["保護者の懸念に対する具体的な対応策", "AI教育導入における安全性とプライバシー保護の具体策"]
+}
+```

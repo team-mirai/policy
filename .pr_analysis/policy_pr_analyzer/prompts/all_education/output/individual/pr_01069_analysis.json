@@ -1,0 +1,22 @@
+Looking at this PR, I can see it's not about education but rather about a new economic system proposal. Let me analyze it according to the requested criteria.
+
+```json
+{
+  "pr_number": 1069,
+  "summary": "貨幣の代わりに法的ポイントを使用し税金不要・財源問題解消を目指す新経済システム",
+  "category": "その他",
+  "specificity": {
+    "level": "低",
+    "reason": "理論的概念の説明のみで実装詳細や移行計画が不明確"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "既存の貨幣経済システムからの全面的な移行"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["使用経済システム", "法的ポイント", "税金廃止", "財源問題解決", "野中健太郎"],
+  "unique_features": "貨幣を廃止し法的ポイントで経済を運営する革新的システム",
+  "discussion_points": ["既存経済システムからの具体的な移行方法", "国際経済との整合性確保の方策"]
+}
+```

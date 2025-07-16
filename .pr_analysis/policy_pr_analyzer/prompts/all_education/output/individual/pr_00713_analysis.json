@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 713,
+  "summary": "AIを人間性育成のサポートツールとし共感力と協調性を育む教育への転換を提案",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "AIの活用方法や教育プログラムの内容は示されているが実装詳細は不明確"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "教員のAI活用スキル習得と意識改革の必要性"
+  },
+  "scope": "全国",
+  "required_resources": "人材",
+  "keywords": ["共感力", "協調性", "AI活用教育", "人間中心教育", "いじめ防止"],
+  "unique_features": "AIを主役でなくサポーターと位置づけた人間中心の教育方針",
+  "discussion_points": ["AIと人間教育の適切なバランスの設定", "教員の新たな役割と必要なスキルセット"]
+}
+```

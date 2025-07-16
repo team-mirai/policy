@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1860,
+  "summary": "在宅学習でのAI活用評価とオンライン協働学習による社会性育成の具体的手法を提案",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "高",
+    "reason": "AI問題作成、動画評価、相互インタビュー等の具体的手法を明記"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "評価基準の統一と教員のデジタルスキル向上"
+  },
+  "scope": "全国",
+  "required_resources": "システム開発・教員研修",
+  "keywords": ["在宅学習", "AI教育", "オンライン協働学習", "個別最適化", "プロセス評価"],
+  "unique_features": "AIによる個別最適化とプロセス重視の新しい評価方法",
+  "discussion_points": ["AIによる評価の公平性・透明性の確保", "オンライン環境での社会性育成の効果検証"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1724,
+  "summary": "熊本県に文学学校を設置し、誰もが無料・低廉で文学を学べる生涯学習環境を整備",
+  "category": "地域連携",
+  "specificity": {
+    "level": "中",
+    "reason": "施設名称は具体的だが、運営詳細や予算規模が不明確"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "継続的な運営費用の確保"
+  },
+  "scope": "地域",
+  "required_resources": "予算",
+  "keywords": ["生涯学習", "文学教育", "文化振興", "地域文化", "コミュニティスペース"],
+  "unique_features": "文学に特化した生涯学習施設の公的支援",
+  "discussion_points": ["文学に特化する必要性と他の芸術分野との公平性", "継続的な運営費用の確保方法"]
+}
+```

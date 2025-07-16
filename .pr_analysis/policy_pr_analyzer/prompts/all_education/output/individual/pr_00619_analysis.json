@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 619,
+  "summary": "大学教育で文系分野の計量分析・データ解析学習にAI活用を明記する教育ビジョン追加",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "AI活用の方向性は明確だが、具体的な実装方法は未定"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "大学教員のAIリテラシー向上と教育用AIツールの開発"
+  },
+  "scope": "全国",
+  "required_resources": "人材/システム開発予算",
+  "keywords": ["大学教育", "AI活用", "文系", "計量分析", "データ解析"],
+  "unique_features": "文系分野のデータ分析教育にAI活用を明記",
+  "discussion_points": ["AIツールの具体的活用方法と効果測定", "大学の自治と政策介入のバランス"]
+}
+```

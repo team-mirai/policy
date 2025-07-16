@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 5975,
+  "summary": "AI学習アシスタントの初期導入をドリル学習支援に限定し着実な実現を図る",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "計算問題や英単語暗記など具体的な活用範囲を明示"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "個々の習熟度に応じた問題生成システムの開発"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AI学習アシスタント", "ドリル学習", "個別最適化", "教育AI", "段階的導入"],
+  "unique_features": "広範な機能から現実的な範囲に絞り込んだ堅実なアプローチ",
+  "discussion_points": ["ドリル学習に限定することの教育的効果と限界", "将来的な機能拡張の具体的なロードマップ"]
+}
+```

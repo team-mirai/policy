@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2299,
+  "summary": "教育用AIアシスタントを「日本製」に限定し国産開発を明確化する政策変更",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "方針は明確だが技術要件や開発体制の詳細が不明"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "世界水準の教育AIを国内で開発する技術力とリソースの確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["教育AI", "日本製AI", "国産AI", "AIアシスタント", "教育デジタル化"],
+  "unique_features": "海外製AIを排除し国産開発を明確に推進する点",
+  "discussion_points": ["国産AIの技術的優位性と実現可能性", "開発コストと海外製AI活用のトレードオフ"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2148,
+  "summary": "AI教育政策に日本の歴史・文化・精神性教育を融合し技術と人間性の両立を図る",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性は明確だが具体的な教材内容や実施方法の詳細が不明"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "精神性の定義と教育内容の標準化の難しさ"
+  },
+  "scope": "全国",
+  "required_resources": "教材開発",
+  "keywords": ["AI教育", "精神文化", "日本文化", "自己肯定感", "人間性教育"],
+  "unique_features": "AI時代の技術教育に日本の精神文化を融合させる独自アプローチ",
+  "discussion_points": ["精神性の具体的定義と教育内容の標準化", "価値観教育における中立性と多様性への配慮"]
+}
+```

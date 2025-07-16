@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 6067,
+  "summary": "社会教育施設の物価高騰に対応した安定的運営予算確保を政策に明記",
+  "category": "予算・財源",
+  "specificity": {
+    "level": "中",
+    "reason": "予算確保の方針は明確だが、具体的な金額や財源確保方法は未記載"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "財源確保と他の政策との予算配分調整"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["社会教育施設", "運営予算", "博物館", "美術館", "図書館"],
+  "unique_features": "DX推進の前提として運営基盤安定化を優先",
+  "discussion_points": ["財源確保の具体的方法", "必要予算規模の算定基準"]
+}
+```

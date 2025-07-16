@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1462,
+  "summary": "SAISで情報オリンピックやKaggle等の科学技術コンテストへの参加支援と成果評価を明記",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "高",
+    "reason": "具体的なコンテスト名を複数挙げ、支援内容と評価まで明確に記載"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "コンテスト指導ができる専門教員の確保・育成"
+  },
+  "scope": "SAIS指定校",
+  "required_resources": "人材（専門指導者）・予算（参加費・指導費）",
+  "keywords": ["SAIS", "科学技術コンテスト", "競技プログラミング", "AI教育", "成果評価"],
+  "unique_features": "具体的コンテスト名を明記し成果評価まで含む実践的提案",
+  "discussion_points": ["コンテスト成果の評価方法・基準の策定", "専門的指導者の確保と継続的な育成体制"]
+}
+```

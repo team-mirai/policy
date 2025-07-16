@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 413,
+  "summary": "世帯の経済状況に応じた授業料負担の仕組みを導入し教育機会の均等化を促進",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性は明確だが具体的な実施方法や基準が未定"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "財源確保と公平な所得判定基準の設定"
+  },
+  "scope": "全国",
+  "required_resources": "予算・制度改正",
+  "keywords": ["授業料", "経済格差", "教育機会均等", "所得連動", "教育費負担"],
+  "unique_features": "既存政策に欠けていた授業料負担への直接的アプローチ",
+  "discussion_points": ["財源確保の方法と持続可能性", "所得判定基準の公平性と運用方法"]
+}
+```

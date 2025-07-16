@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 683,
+  "summary": "AIの多様な回答を活用し生徒同士が議論・比較検討する学習活動でAIリテラシーと多角的思考力を育成",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "中",
+    "reason": "学習活動の枠組みと期待効果は明確だが、実施方法の詳細は未定"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "教師のAI活用指導スキルの育成と適切な教材開発"
+  },
+  "scope": "全国",
+  "required_resources": "人材（教師研修）",
+  "keywords": ["AIリテラシー", "批判的思考", "協調学習", "多角的思考", "AI活用教育"],
+  "unique_features": "AIの回答のばらつきを教育機会として積極活用",
+  "discussion_points": ["教師のAI活用指導力をどう向上させるか", "発達段階に応じた学習活動の設計方法"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1745,
+  "summary": "部活動の外部委託による教員負担軽減と生徒の多様な学習機会創出",
+  "category": "地域連携",
+  "specificity": {
+    "level": "中",
+    "reason": "外部連携の方向性は明確だが、実施体制や運営方法の詳細が不明"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "外部指導者の確保と質の担保"
+  },
+  "scope": "全国",
+  "required_resources": "人材/予算",
+  "keywords": ["部活動改革", "教員負担軽減", "地域連携", "STEAM教育", "外部指導者"],
+  "unique_features": "教員負担軽減と生徒の選択肢拡大を同時に実現",
+  "discussion_points": ["外部指導者の質の確保と責任体制", "都市部と地方の地域格差への対応"]
+}
+```

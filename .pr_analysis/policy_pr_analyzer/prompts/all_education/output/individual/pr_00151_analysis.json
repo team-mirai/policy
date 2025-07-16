@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 151,
+  "summary": "子どもの発達リスクを考慮しAI家庭教師導入項目を政策から削除する提案",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "削除理由と具体的なリスク（メンタルヘルス、思考力、社会性等）が明確"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "AI教育推進派との意見調整"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["AI家庭教師", "メンタルヘルス", "発達リスク", "デジタル教育", "AI依存"],
+  "unique_features": "AI教育推進に対する慎重な立場からの削除提案",
+  "discussion_points": ["AI活用のメリットとリスクのバランス", "適切なAI教育導入の時期と方法"]
+}
+```

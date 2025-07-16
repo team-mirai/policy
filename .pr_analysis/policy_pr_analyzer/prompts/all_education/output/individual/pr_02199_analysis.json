@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2199,
+  "summary": "専門家が育成するAIアバターと対話して学ぶ次世代デジタル教材プラットフォームの開発",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "プラットフォーム機能、技術要素（RAG/LoRA）、活用例が具体的に記載"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "多数の専門家の継続的な協力体制構築と高度なAI技術実装"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AIアバター", "デジタル教材", "対話型学習", "専門家育成", "歴史人物"],
+  "unique_features": "専門家がAIアバターを「育てる」継続的知識更新の仕組み",
+  "discussion_points": ["専門家の参加インセンティブ設計", "教育効果の検証方法"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 331,
+  "summary": "AI教育導入時の思考力低下防止策と教員のAI研修時間確保のための包括的支援を提案",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "AIの検証的活用方法の指導内容と教員支援の具体策が明記"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "全国教員への研修実施と業務時間内での研修時間確保"
+  },
+  "scope": "全国",
+  "required_resources": "人材",
+  "keywords": ["AI教育", "教員研修", "思考力育成", "教員支援", "批判的思考"],
+  "unique_features": "AI導入時の思考力低下防止と教員の時間確保を同時に解決",
+  "discussion_points": ["AIによる思考力低下をどう防ぐか", "多忙な教員の研修時間をどう確保するか"]
+}
+```

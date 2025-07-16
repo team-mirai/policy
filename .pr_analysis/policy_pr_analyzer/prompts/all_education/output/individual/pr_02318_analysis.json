@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2318,
+  "summary": "教育政策の進捗・成果・課題を動画等で定期的に発信し国民対話で改善",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "動画での発信という手段は示されているが、頻度や具体的な内容は不明確"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "継続的な情報発信体制の構築と維持"
+  },
+  "scope": "全国",
+  "required_resources": "人材",
+  "keywords": ["透明性", "情報発信", "動画", "国民対話", "PDCAサイクル"],
+  "unique_features": "政策プロセスの透明化と国民参加を重視",
+  "discussion_points": ["効果的な情報発信の頻度と形式", "国民フィードバックの政策反映方法"]
+}
+```

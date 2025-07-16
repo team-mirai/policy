@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2821,
+  "summary": "給付型奨学金拡充と授業料減免強化により高等教育無償化を目指す政策提案",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性は明確だが、実施規模や財源、時期等の具体的な数値が未記載"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "高等教育無償化に必要な巨額の財源確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["高等教育無償化", "給付型奨学金", "授業料減免", "教育格差", "貧困の連鎖"],
+  "unique_features": "教育投資を成長戦略として位置づけ",
+  "discussion_points": ["財源確保の具体的方法", "無償化の対象範囲と所得制限の設定"]
+}
+```

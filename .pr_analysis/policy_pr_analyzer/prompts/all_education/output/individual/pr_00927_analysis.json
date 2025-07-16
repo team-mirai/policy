@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 927,
+  "summary": "外科医等の高度専門分野で指導者が実名で後継者の適性を評価する制度導入",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "制度の理念は明確だが、評価基準や運用方法の詳細が不明"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "既存の医師免許制度との調整と評価の客観性確保"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["医療", "外科医", "評価制度", "技能継承", "専門家評価"],
+  "unique_features": "指導者が実名で責任を持つ権威的評価方式",
+  "discussion_points": ["評価の客観性・公平性をどう担保するか", "既存の医師免許・専門医制度との関係性"]
+}
+```

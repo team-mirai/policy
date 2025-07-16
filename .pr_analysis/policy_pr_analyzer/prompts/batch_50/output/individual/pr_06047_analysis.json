@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 6047,
+  "summary": "教育現場でのAI活用における教員の主体性と判断権を明確化する文言修正",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "具体的な文言の修正内容が明示されている"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "現場の教員への周知と理解促進"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["AI活用", "教員主体性", "教育DX", "AIリテラシー", "人間判断"],
+  "unique_features": "AI導入への懸念に配慮した慎重な姿勢",
+  "discussion_points": ["AIの具体的な活用範囲と制限の設定", "教員のAIリテラシー向上の具体的施策"]
+}
+```

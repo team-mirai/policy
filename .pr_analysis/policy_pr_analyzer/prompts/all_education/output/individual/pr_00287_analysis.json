@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 287,
+  "summary": "求職者・成人向けAIリスキリング支援をハローワーク連携で全国展開する提案",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "中",
+    "reason": "ハローワーク連携等の施策は明確だが、具体的なカリキュラム内容は未定"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "質の高いAI教育コンテンツの開発と継続的な更新体制の構築"
+  },
+  "scope": "全国",
+  "required_resources": "予算・人材",
+  "keywords": ["AIリスキリング", "求職者支援", "ハローワーク", "オンライン教育", "成人教育"],
+  "unique_features": "子どもだけでなく成人・求職者のAI教育に焦点",
+  "discussion_points": ["既存の職業訓練制度との統合・差別化", "教育内容の質保証と更新頻度の確保"]
+}
+```

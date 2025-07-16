@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 6111,
+  "summary": "AIメンタルアシスタントの不調検知・自動停止・代替AI切替による安全性強化",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "監視・停止機能、代替AI切替、報告窓口の3つの具体的対策を明記"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "AIの「不調」を正確に検知する基準設定と判定精度の確保"
+  },
+  "scope": "全国",
+  "required_resources": "技術開発・人材",
+  "keywords": ["AIメンタルアシスタント", "安全性", "監視システム", "代替AI", "子どもの心のケア"],
+  "unique_features": "AIの不調検知と代替AIへの自動切り替えによる支援継続性",
+  "discussion_points": ["AIの「不調」を判定する具体的な基準設定", "プライバシー保護と監視のバランス"]
+}
+```

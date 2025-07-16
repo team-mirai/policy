@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2123,
+  "summary": "子どもの学習特性に応じた動画教材活用とAIに教える体験を通じた能動的学習の促進",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "動画活用やAI活用の具体例は示されているが実施詳細は未定"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "教員のAI活用スキル習得と適切な教材開発"
+  },
+  "scope": "全国",
+  "required_resources": "予算（AI教材開発・動画機材）/人材（教員研修）",
+  "keywords": ["個別最適化", "動画教材", "AI活用", "能動的学習", "教育イノベーション"],
+  "unique_features": "AIに「教える」体験で脳の新しい神経回路形成を促す独自アプローチ",
+  "discussion_points": ["AI教材の具体的な仕様と効果測定方法", "従来の授業との併用バランスと教員の負担"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 80,
+  "summary": "AI家庭教師と授業動画配信により教育の地方格差を解消する視点を政策に追加",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "具体的な手段は示されているが実装詳細は未定"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "全国的なデジタルインフラ整備と予算確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AI家庭教師", "地方格差", "教育格差", "授業動画", "個別最適化"],
+  "unique_features": "地方格差解消の視点を明確に位置づけた点",
+  "discussion_points": ["デジタルデバイドへの対応策", "AI教育の質の担保と人間教師との役割分担"]
+}
+```

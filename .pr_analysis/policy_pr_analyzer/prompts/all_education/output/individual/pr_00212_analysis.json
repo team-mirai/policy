@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 212,
+  "summary": "AI家庭教師で生徒がAIに教える双方向学習機能を重視する方針を明文化",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "方針は明確だが実装詳細は未定"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "生徒の説明をAIが適切に評価する仕組みの構築"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正/システム開発",
+  "keywords": ["AI家庭教師", "双方向学習", "能動的学習", "教えることで学ぶ", "教育AI"],
+  "unique_features": "AIに教えることで理解を深める双方向学習アプローチ",
+  "discussion_points": ["AIが生徒の説明を適切に評価する基準と方法", "従来の学習方法との効果比較と使い分け"]
+}
+```

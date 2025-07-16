@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1075,
+  "summary": "地方行政職員のAIリテラシー向上のため国主導でAIエンジニアを派遣し研修・導入支援を実施",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "派遣プログラムの枠組みは示されているが、規模や期間等の詳細は未定"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "全国規模で派遣できるAIエンジニア人材の確保"
+  },
+  "scope": "全国",
+  "required_resources": "人材（AIエンジニア）/予算",
+  "keywords": ["地方行政", "AI活用", "リテラシー向上", "エンジニア派遣", "職員研修"],
+  "unique_features": "教育政策の中で行政職員のAI能力向上を提案",
+  "discussion_points": ["AIエンジニアの確保方法と派遣規模", "教育政策の枠組みで行政改革を扱うことの妥当性"]
+}
+```

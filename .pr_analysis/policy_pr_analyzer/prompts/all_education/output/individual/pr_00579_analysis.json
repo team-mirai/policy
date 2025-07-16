@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 579,
+  "summary": "AIを活用し高校就職課と連携して生徒の主体的な進路設計を支援する政策",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "連携先（就職課）、支援内容（職業情報・インターンシップ・労働市場情報）が明確"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "AIシステム開発と学校現場の連携体制構築"
+  },
+  "scope": "全国",
+  "required_resources": "システム開発・人材",
+  "keywords": ["キャリア教育", "AI活用", "就職支援", "高校教育", "進路指導"],
+  "unique_features": "AI技術と既存の就職課機能を連携させる実践的アプローチ",
+  "discussion_points": ["AIシステムの開発・運用コストと効果のバランス", "就職課職員のAI活用スキル習得の支援方法"]
+}
+```

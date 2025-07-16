@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 256,
+  "summary": "AI活用により子どもから大人まで個別最適化された生涯学習環境を整備する提案",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "AI活用の方向性は明確だが、具体的な実装方法や既存制度との連携詳細は未定"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "既存教育機関との調整とAI学習システムの開発・運用体制構築"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正/システム開発",
+  "keywords": ["生涯学習", "AI教育", "オーダーメイドカリキュラム", "MOOC連携", "成人教育"],
+  "unique_features": "子どもから大人まで包括的にAI個別最適化学習を提供",
+  "discussion_points": ["既存の大学・専門学校等との役割分担", "学習成果の認証・資格制度との連携方法"]
+}
+```

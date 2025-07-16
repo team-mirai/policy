@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 357,
+  "summary": "オンデマンド授業とAI学習メンター導入により個別最適化学習と教員負担軽減を実現",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "検定制度、5G端末配布、ロボット型AIメンター等の具体的施策を明示"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "全児童生徒への5G端末配布とインフラ整備の莫大なコスト"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["オンデマンド授業", "AI学習メンター", "反転授業", "5G端末配布", "個別最適化学習"],
+  "unique_features": "愛着の湧くロボット型AI学習メンターによる学習支援",
+  "discussion_points": ["5G端末全国配布の費用対効果と持続可能性", "AI・ロボット学習支援と教員の役割バランス"]
+}
+```

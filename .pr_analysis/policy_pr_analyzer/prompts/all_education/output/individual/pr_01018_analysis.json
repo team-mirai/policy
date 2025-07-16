@@ -1,0 +1,22 @@
+このPRの分析結果です：
+
+```json
+{
+  "pr_number": 1018,
+  "summary": "AI活用による個別最適化教育と飛び級制度推進、通信制高校の学力保証強化",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "AI活用の方向性は明確だが、具体的な実装方法や技術仕様は未定"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "AI教育システム開発と既存教育制度の大幅改革の両立"
+  },
+  "scope": "全国",
+  "required_resources": "予算・制度改正・技術開発",
+  "keywords": ["AI家庭教師", "個別最適化", "飛び級制度", "通信制高校", "学力保証"],
+  "unique_features": "通信制高校の学力保証問題とAI活用を結びつけた提案",
+  "discussion_points": ["AI教育の質保証と評価基準の設定方法", "飛び級制度と既存学年制との整合性"]
+}
+```

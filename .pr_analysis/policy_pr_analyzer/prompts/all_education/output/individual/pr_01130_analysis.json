@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1130,
+  "summary": "AI家庭教師にいじめ相談機能を追加し、記録・整理により生徒の状況把握と学校対応改善を図る",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "機能追加内容と期待効果が明確に記述されている"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "いじめという繊細な問題をAIが適切に扱えるかの検証"
+  },
+  "scope": "全国",
+  "required_resources": "システム開発/制度整備",
+  "keywords": ["AI家庭教師", "いじめ対応", "相談記録", "学校連携", "心のケア"],
+  "unique_features": "AIを学習支援だけでなくいじめ問題対応にも活用",
+  "discussion_points": ["AIによるいじめ相談対応の適切性と限界", "記録データのプライバシー保護と活用方法"]
+}
+```

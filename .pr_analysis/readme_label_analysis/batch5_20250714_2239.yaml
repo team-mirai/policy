@@ -1,0 +1,558 @@
+batch_metadata:
+  作成日時: 2025年07月14日 22:39
+  バッチサイズ: 50
+  累計処理数: 220
+  総未処理数: 293
+pull_requests:
+- number: 6154
+  title: 観光政策の新規提案：オーバーツーリズム対策と持続可能な観光モデルの構築
+  state: OPEN
+  created_at: '2025-07-13T12:27:57Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6154
+  label_updated: false
+  old_label: README
+  new_label: 産業政策
+  classification_reason: 観光産業の新規政策。オーバーツーリズム対策と観光のハイブランド化に関する提案
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6152
+  title: よんさまからのご提案：AI活用の原則強化とデジタル民主主義の具体化について
+  state: OPEN
+  created_at: '2025-07-13T12:21:58Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6152
+  label_updated: false
+  old_label: README
+  new_label: デジタル民主主義
+  classification_reason: AI活用の原則強化と有権者の情報収集支援に関する提案
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6150
+  title: 淳様ご提案：AI活用における人間の責任と専門性維持の原則を追記
+  state: OPEN
+  created_at: '2025-07-13T12:20:52Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6150
+  label_updated: false
+  old_label: README
+  new_label: ビジョン
+  classification_reason: AI活用における人間の責任と専門性維持の基本原則に関する提案
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6148
+  title: （豊田様ご提案）養育費の不払い問題に関する政策を追加
+  state: OPEN
+  created_at: '2025-07-13T12:11:36Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6148
+  label_updated: false
+  old_label: README
+  new_label: 子育て
+  classification_reason: 養育費不払い問題の解決による子どもの貧困対策
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6146
+  title: 「政治改革」に関する改善提案
+  state: OPEN
+  created_at: '2025-07-13T12:08:33Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6146
+  label_updated: false
+  old_label: README
+  new_label: その他政策
+  classification_reason: 政治改革（議員定年制、報酬適正化、世襲制限）に関する提案
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6142
+  title: 政策の柱として「多様な家族のあり方を支える法整備」を新たに追加
+  state: OPEN
+  created_at: '2025-07-13T11:54:47Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6142
+  label_updated: false
+  old_label: README
+  new_label: ビジョン
+  classification_reason: 多様な家族のあり方（選択的夫婦別姓・同性婚）を支える基本理念
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6139
+  title: ふくとさんによる「持続可能な都市政策」の改善提案
+  state: OPEN
+  created_at: '2025-07-13T11:48:01Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6139
+  label_updated: false
+  old_label: README
+  new_label: その他政策
+  classification_reason: 持続可能な都市政策（コンパクトシティ）に関する提案
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6135
+  title: 2拠点生活など新しいライフスタイルを支援するアイデアを追記
+  state: OPEN
+  created_at: '2025-07-13T11:42:27Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6135
+  label_updated: false
+  old_label: README
+  new_label: その他政策
+  classification_reason: 2拠点生活など新しいライフスタイルの支援策
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6128
+  title: 【匿名ユーザーさんによる改善提案】個人の納税実績を活用した信用創造の提案
+  state: OPEN
+  created_at: '2025-07-13T10:59:55Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6128
+  label_updated: false
+  old_label: README
+  new_label: 経済財政
+  classification_reason: 納税実績を活用した信用創造（金融政策）の提案
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6124
+  title: ネット上の私的制裁の根絶と人権保障のための提言
+  state: OPEN
+  created_at: '2025-07-13T10:48:19Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6124
+  label_updated: false
+  old_label: README
+  new_label: その他政策
+  classification_reason: ネット上の私的制裁と人権保障（司法・人権）に関する提案
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6114
+  title: 【けいさん提案】性加害の厳罰化を柱とした、被害者を守るための包括的政策
+  state: OPEN
+  created_at: '2025-07-13T09:59:58Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6114
+  label_updated: false
+  old_label: README
+  new_label: その他政策
+  classification_reason: 性加害の厳罰化（司法・刑事政策）に関する提案
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6110
+  title: 安楽死に関する政策の追加提案
+  state: OPEN
+  created_at: '2025-07-13T09:53:05Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6110
+  label_updated: false
+  old_label: README
+  new_label: その他政策
+  classification_reason: 安楽死に関する政策（生命倫理）の提案
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6108
+  title: わたなべさんご提案：消費税一本化と経済のDXによる物価安定
+  state: OPEN
+  created_at: '2025-07-13T09:47:48Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6108
+  label_updated: false
+  old_label: README
+  new_label: 経済財政
+  classification_reason: 消費税一本化と経済のDXによる物価安定策
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6107
+  title: ゆうかさんより：教育を通じた日本文化への理解とアイデンティティ確立の提案
+  state: OPEN
+  created_at: '2025-07-13T09:47:39Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6107
+  label_updated: false
+  old_label: README
+  new_label: 教育
+  classification_reason: 教育を通じた日本文化への理解とアイデンティティ確立
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6105
+  title: 【既卒の民さん提案】既卒者など多様な経歴を持つ人への就職支援を追加
+  state: OPEN
+  created_at: '2025-07-13T09:45:09Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6105
+  label_updated: false
+  old_label: README
+  new_label: 産業政策
+  classification_reason: 既卒者など多様な経歴を持つ人への就職支援
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6095
+  title: 「（仮称）エンペラー・ワラント・マーク制度」の創設による日本のブランド価値向上
+  state: OPEN
+  created_at: '2025-07-13T09:19:04Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6095
+  label_updated: false
+  old_label: README
+  new_label: 経済財政
+  classification_reason: 投資促進と金融所得課税に関する提案
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6092
+  title: マニフェストへの平和主義の原則の追記
+  state: OPEN
+  created_at: '2025-07-13T09:03:05Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6092
+  label_updated: false
+  old_label: README
+  new_label: 福祉
+  classification_reason: 子どもの出産・子育て費用の免除と18歳までの教育無償化
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6091
+  title: マニフェスト序文を改善し、「100日プラン」の位置づけを明確化
+  state: OPEN
+  created_at: '2025-07-13T09:01:01Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6091
+  label_updated: false
+  old_label: README
+  new_label: その他政策
+  classification_reason: 外国人の政治参加（外国人参政権）に関する提案
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6071
+  title: 「人権についての基本的な考え方」の新規追加
+  state: OPEN
+  created_at: '2025-07-13T07:51:47Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6071
+  label_updated: false
+  old_label: README
+  new_label: その他政策
+  classification_reason: 憲法と法制度に関する基本的な考え方
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6063
+  title: 未成年者への性犯罪対策強化をマニフェストに明記
+  state: OPEN
+  created_at: '2025-07-13T07:23:28Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6063
+  label_updated: false
+  old_label: README
+  new_label: その他政策
+  classification_reason: 同性婚と家族形成に関する提案
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6054
+  title: 【コンセプト提案】サイト利用ガイドの新設と、「ステップ」定義に関する見解の確認
+  state: OPEN
+  created_at: '2025-07-13T06:55:38Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6054
+  label_updated: false
+  old_label: README
+  new_label: 産業政策
+  classification_reason: 農業後継者問題と食料自給率向上策
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6053
+  title: 【きくさん提案】憲法に関する考え方の追加
+  state: OPEN
+  created_at: '2025-07-13T06:49:23Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6053
+  label_updated: false
+  old_label: README
+  new_label: その他政策
+  classification_reason: ペットに関する資格制度と虐待防止策
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6046
+  title: 政策提案における根拠明記のルール強化
+  state: OPEN
+  created_at: '2025-07-13T06:30:13Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6046
+  label_updated: false
+  old_label: README
+  new_label: その他政策
+  classification_reason: 社会的マイノリティへの配慮と包摂性
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6045
+  title: '[ほんさんからのご提案] 動物愛護政策の新規追加'
+  state: OPEN
+  created_at: '2025-07-13T06:23:23Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6045
+  label_updated: false
+  old_label: README
+  new_label: エネルギー
+  classification_reason: 原子力災害対策と防災体制の強化
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6040
+  title: ゆかこさんによる改善提案：不妊治療の対象拡大による多様な家族形成支援
+  state: OPEN
+  created_at: '2025-07-13T06:09:36Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6040
+  label_updated: false
+  old_label: README
+  new_label: 経済財政
+  classification_reason: インフレ対策と経済政策の見直し
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6033
+  title: 政策提案：住宅政策の重要性を明確化
+  state: OPEN
+  created_at: '2025-07-13T05:52:33Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6033
+  label_updated: false
+  old_label: README
+  new_label: その他政策
+  classification_reason: 迷惑系YouTuberへの対策と規制
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6008
+  title: 【匿名ユーザーからの提案】選択的夫婦別姓の導入
+  state: OPEN
+  created_at: '2025-07-13T04:19:11Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6008
+  label_updated: false
+  old_label: README
+  new_label: ビジョン
+  classification_reason: 「賢く豊かで優しい日本」という基本理念の追加
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6006
+  title: 【いのりさん提案】相続手続きのデジタル化による負担軽減
+  state: OPEN
+  created_at: '2025-07-13T04:17:56Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6006
+  label_updated: false
+  old_label: README
+  new_label: その他政策
+  classification_reason: 「親子断絶防止法」による共同親権の推進
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 6001
+  title: DAOの社会実装による、公正で柔軟な働き方の実現
+  state: OPEN
+  created_at: '2025-07-13T03:57:56Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/6001
+  label_updated: false
+  old_label: README
+  new_label: 福祉
+  classification_reason: 「困っている人」への包括的支援システム
+  analysis_notes: 'LLM分析バッチ2: 2025-07-14'
+- number: 5999
+  title: 「プラネタリーヘルス」に関する政策検討の表現を修正
+  state: OPEN
+  created_at: '2025-07-13T03:51:12Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/5999
+  label_updated: false
+  old_label: README
+  new_label: 産業政策
+  classification_reason: プラネタリーヘルス（予防医療・サステナブル産業・AI技術の統合）への投資に関する提案
+  analysis_notes: 'LLM分析バッチ3: 2025-07-14'
+- number: 5994
+  title: バグ報告：iOS版ブラウザでハンバーガーメニューの項目が選択できない
+  state: OPEN
+  created_at: '2025-07-13T03:31:01Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/5994
+  label_updated: false
+  old_label: README
+  new_label:
+  - システム
+  classification_reason: iOS版ブラウザのバグ報告。技術的な問題のドキュメント化
+  analysis_notes: 'LLM分析バッチ3: 2025-07-14'
+- number: 5992
+  title: 【政策提案】誰もが安心して使える「ワークスペース環境」の整備
+  state: OPEN
+  created_at: '2025-07-13T03:17:43Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/5992
+  label_updated: false
+  old_label: README
+  new_label: その他政策
+  classification_reason: 公共ワークスペース環境の整備。都市インフラ・公共施設活用
+  analysis_notes: 'LLM分析バッチ3: 2025-07-14'
+- number: 5983
+  title: 0289さんによる提案：ステップ1への「ネット広告の健全化」の追加
+  state: OPEN
+  created_at: '2025-07-13T02:42:45Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/5983
+  label_updated: false
+  old_label: README
+  new_label: その他政策
+  classification_reason: ネット広告の健全化。インターネット規制・消費者保護
+  analysis_notes: 'LLM分析バッチ3: 2025-07-14'
+- number: 5982
+  title: AI・デジタル原則の明確化と、制度の谷間にいる方への配慮を追加
+  state: OPEN
+  created_at: '2025-07-13T02:41:00Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/5982
+  label_updated: false
+  old_label: README
+  new_label: ビジョン
+  classification_reason: AI活用の責任原則とデジタル化における配慮の基本方針
+  analysis_notes: 'LLM分析バッチ3: 2025-07-14'
+- number: 5981
+  title: 政策項目「福祉」に、制度の狭間にある人々への支援についての補足を追記
+  state: OPEN
+  created_at: '2025-07-13T02:38:31Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/5981
+  label_updated: false
+  old_label: README
+  new_label: その他政策
+  classification_reason: 年金制度の公平性確保と世代間格差の是正
+  analysis_notes: 'LLM分析バッチ3: 2025-07-14'
+- number: 5980
+  title: 匿名ユーザーによる包括的性教育と多様な家族のあり方に関する改善提案
+  state: OPEN
+  created_at: '2025-07-13T02:37:38Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/5980
+  label_updated: false
+  old_label: README
+  new_label: エネルギー
+  classification_reason: 原子力発電のあり方に関する基本方針
+  analysis_notes: 'LLM分析バッチ3: 2025-07-14'
+- number: 5971
+  title: 【匿名ユーザーからの改善提案】人権に関する基本方針の追加
+  state: OPEN
+  created_at: '2025-07-13T01:54:54Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/5971
+  label_updated: false
+  old_label: README
+  new_label: 産業政策
+  classification_reason: 一次産業（農林水産業）の未来に関する政策提案
+  analysis_notes: 'LLM分析バッチ3: 2025-07-14'
+- number: 5963
+  title: 目次を更新：デジタル民主主義の項目に政治資金の透明化と罰則強化を追記
+  state: OPEN
+  created_at: '2025-07-13T01:31:31Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/5963
+  label_updated: false
+  old_label: README
+  new_label: エネルギー
+  classification_reason: 太陽光発電と電気自動車を活用した災害対策とエネルギー政策
+  analysis_notes: 'LLM分析バッチ3: 2025-07-14'
+- number: 5958
+  title: インボイス制度の廃止と消費税の単一税率化提案
+  state: OPEN
+  created_at: '2025-07-13T01:14:23Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/5958
+  label_updated: false
+  old_label: README
+  new_label: 教育
+  classification_reason: 学校給食費の無償化と子どもの食の安全
+  analysis_notes: 'LLM分析バッチ3: 2025-07-14'
+- number: 5956
+  title: 政策評価の基本方針に多角的視点を追加
+  state: OPEN
+  created_at: '2025-07-13T01:00:51Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/5956
+  label_updated: false
+  old_label: README
+  new_label:
+  - システム
+  classification_reason: マニフェストのタイポ修正
+  analysis_notes: 'LLM分析バッチ3: 2025-07-14'
+- number: 5943
+  title: 【重要課題の明記】党の基本方針の不在について
+  state: OPEN
+  created_at: '2025-07-13T00:17:20Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/5943
+  label_updated: false
+  old_label: README
+  new_label: 福祉
+  classification_reason: 養護施設出身者への社会的支援強化
+  analysis_notes: 'LLM分析バッチ3: 2025-07-14'
+- number: 5940
+  title: 【うしさん提案】子育て政策の改善：学童保育の環境を充実に
+  state: OPEN
+  created_at: '2025-07-13T00:08:47Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/5940
+  label_updated: false
+  old_label: README
+  new_label: 産業政策
+  classification_reason: 一次産業（農林水産業）の振興と地方活性化
+  analysis_notes: 'LLM分析バッチ3: 2025-07-14'
+- number: 5939
+  title: 【ふるちゃんさん提案】国際卓越研究大学を中心とした共同研究体制の推進
+  state: OPEN
+  created_at: '2025-07-13T00:06:52Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/5939
+  label_updated: false
+  old_label: README
+  new_label: その他政策
+  classification_reason: 女性と女児への差別撤廃と権利保障
+  analysis_notes: 'LLM分析バッチ3: 2025-07-14'
+- number: 5938
+  title: 「誰一人取り残さない防災DX」の実現に向けた新規政策提案
+  state: OPEN
+  created_at: '2025-07-13T00:05:50Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/5938
+  label_updated: false
+  old_label: README
+  new_label: その他政策
+  classification_reason: 政治家の報酬と定年制に関する提案
+  analysis_notes: 'LLM分析バッチ3: 2025-07-14'
+- number: 5933
+  title: 選択的夫婦別姓に関する方針を追加
+  state: OPEN
+  created_at: '2025-07-12T23:48:28Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/5933
+  label_updated: false
+  old_label: README
+  new_label: その他政策
+  classification_reason: 外国人参政権と移民政策に関する提案
+  analysis_notes: 'LLM分析バッチ3: 2025-07-14'
+- number: 5932
+  title: マニフェストの基本原則としての人権尊重の姿勢を明記
+  state: OPEN
+  created_at: '2025-07-12T23:43:19Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/5932
+  label_updated: false
+  old_label: README
+  new_label: その他政策
+  classification_reason: 動物愛護と殺処分ゼロに関する政策
+  analysis_notes: 'LLM分析バッチ3: 2025-07-14'
+- number: 5910
+  title: meumoさん提案：葉酸に関する検討プロセスの追記
+  state: OPEN
+  created_at: '2025-07-12T19:40:08Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/5910
+  label_updated: false
+  old_label: README
+  new_label: 福祉
+  classification_reason: 高齢者のデジタルディバイド解消支援
+  analysis_notes: 'LLM分析バッチ3: 2025-07-14'
+- number: 5903
+  title: 社会保険料と税金の使途に関する議論の明記
+  state: OPEN
+  created_at: '2025-07-12T18:12:11Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/5903
+  label_updated: false
+  old_label: README
+  new_label: その他政策
+  classification_reason: 政治資金の透明化と企業献金規制
+  analysis_notes: 'LLM分析バッチ3: 2025-07-14'
+- number: 5896
+  title: 多様な世帯への配慮と地方創生の視点を追加する提案 by こんごう
+  state: OPEN
+  created_at: '2025-07-12T17:00:17Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/5896
+  label_updated: false
+  old_label: README
+  new_label: 子育て
+  classification_reason: 不妊治療支援の拡充と少子化対策
+  analysis_notes: 'LLM分析バッチ3: 2025-07-14'
+- number: 5893
+  title: fさんによる「地方のデジタル産業振興」の追加提案
+  state: OPEN
+  created_at: '2025-07-12T16:54:11Z'
+  author: app/idobata-policy-app
+  url: https://github.com/team-mirai/policy/pull/5893
+  label_updated: false
+  old_label: README
+  new_label: 教育
+  classification_reason: 教育現場でのICT活用とプログラミング教育
+  analysis_notes: 'LLM分析バッチ3: 2025-07-14'

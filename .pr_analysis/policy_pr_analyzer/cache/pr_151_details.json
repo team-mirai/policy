@@ -1,0 +1,30 @@
+{
+  "additions": 0,
+  "author": {
+    "is_bot": true,
+    "login": "app/idobata-policy-app"
+  },
+  "body": "Yukiさんの提案により、「すべての子どもに「専属のAI家庭教師」を届けます」という項目を削除しました。\nこの変更の背景には、AIへの過度な依存が子どもたちのメンタルヘルスや発達に与える潜在的なリスクに対する懸念があります。特に、思考力やコミュニケーション能力といった重要なスキルの発達への影響や、不確かな情報源への依存、さらにはAIとの過度なインタラクションによる社会性の発達阻害などが懸念点として挙げられました。\n現時点では、これらのリスクが十分に払拭されているとは言えず、特に成長過程にある子どもたちにとっては慎重な判断が求められます。AI技術の教育分野における活用は大きな可能性を秘めている一方で、その導入は倫理的な側面や教育的な影響を十分に考慮した上で進めるべきです。今回の変更は、このような観点から、より安全でバランスの取れたデジタル技術の活用を目指すものです。\n教育におけるAIの役割については、今後も引き続き議論を深め、子どもたちの健全な成長を最優先に考えた上で、慎重に検討していく必要があると考えます。Yuki",
+  "changedFiles": 1,
+  "comments": [],
+  "createdAt": "2025-05-16T10:26:11Z",
+  "deletions": 1,
+  "labels": [
+    {
+      "id": "LA_kwDOOqTJvM8AAAACAn5d8w",
+      "name": "教育",
+      "description": "",
+      "color": "E57B81"
+    }
+  ],
+  "mergeable": "UNKNOWN",
+  "mergedAt": null,
+  "number": 151,
+  "reactionGroups": [],
+  "state": "OPEN",
+  "title": "YukiさんによるAI家庭教師の項目の削除提案",
+  "updatedAt": "2025-05-18T07:03:25Z",
+  "url": "https://github.com/team-mirai/policy/pull/151",
+  "commentsCount": 0,
+  "totalReactions": 0
+}

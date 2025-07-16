@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1674,
+  "summary": "AI教育開発初期から境界知能等の多様な子どもや関係者へのヒアリングを徹底しインクルーシブ化",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "ヒアリング対象は明確だが実施プロセスが不明確"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "多様なニーズをAI開発に反映させる技術的困難"
+  },
+  "scope": "全国",
+  "required_resources": "人材/予算",
+  "keywords": ["境界知能", "インクルーシブ教育", "AI家庭教師", "多様性", "アクセシビリティ"],
+  "unique_features": "境界知能という見過ごされがちな層に焦点",
+  "discussion_points": ["境界知能の子どもに適したAIインターフェース設計", "AIカバー範囲と人的支援の境界線"]
+}
+```

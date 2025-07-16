@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 47,
+  "summary": "AIチューターとGIGAスクール端末を活用した反転学習推進、Khan Academy事例追加",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "Khan Academy事例とGIGAスクール端末活用の具体的施策を明記"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "教育委員会との連携による端末利用制限の緩和調整"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["AIチューター", "反転学習", "GIGAスクール端末", "Khan Academy", "家庭学習"],
+  "unique_features": "既存GIGAスクール端末とAIを組み合わせた反転学習モデル",
+  "discussion_points": ["家庭でのデバイス利用に関する保護者の理解と協力", "AIチューターの教育効果の評価・検証方法"]
+}
+```

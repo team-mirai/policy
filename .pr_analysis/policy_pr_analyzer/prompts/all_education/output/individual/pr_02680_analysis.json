@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2680,
+  "summary": "AIによる個別最適化学習と地域課題探究・協働学習を組み合わせ、ICTで地域格差を解消",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性は明確だが、具体的な実施方法や評価基準が未定"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "個別最適化と協働学習の両立および地域格差への対応"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正/予算/人材",
+  "keywords": ["オーダーメイドカリキュラム", "協働学習", "地域連携", "ICT活用", "都市地方交流"],
+  "unique_features": "AI個別最適化と地域協働学習の融合を提案",
+  "discussion_points": ["個別最適化と協働学習のバランスの取り方", "ICTによる地域格差解消の実効性"]
+}
+```

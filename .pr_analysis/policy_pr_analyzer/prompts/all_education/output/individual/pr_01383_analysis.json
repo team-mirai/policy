@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1383,
+  "summary": "AI家庭教師導入までの間、既存優秀教育アプリを国が選定・推奨しGIGAスクール端末で活用",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "実施方法は明確だが選定基準や具体的アプリ名は未提示"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "アプリ選定基準の策定と合意形成"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["教育アプリ", "GIGAスクール", "AI家庭教師", "デジタル教材", "個別最適化"],
+  "unique_features": "AI導入までの移行期間に既存リソースを活用する現実的アプローチ",
+  "discussion_points": ["アプリ選定基準と透明性の確保", "教育格差を生まない配慮"]
+}
+```

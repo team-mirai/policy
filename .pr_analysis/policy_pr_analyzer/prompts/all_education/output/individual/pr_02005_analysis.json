@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2005,
+  "summary": "給付型奨学金の対象者数を拡大し経済的不安なく学業に専念できる環境を作る",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "拡大の方向性は明確だが具体的な規模や基準は未定"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "継続的な財源確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["給付型奨学金", "学生支援", "経済的支援", "教育機会均等", "学業専念"],
+  "unique_features": "他の教育政策との優先順位バランスを考慮した段階的実施",
+  "discussion_points": ["財源確保の具体的方法", "対象者選定基準の公平性"]
+}
+```

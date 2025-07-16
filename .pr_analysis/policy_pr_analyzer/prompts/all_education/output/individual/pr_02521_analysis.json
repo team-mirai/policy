@@ -1,0 +1,18 @@
+{
+  "pr_number": 2521,
+  "summary": "基礎学力重視とAI活用による学習支援強化、先進的すぎるモデル校案の削除",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "中",
+    "reason": "AI活用の方向性は明確だが、具体的な実施方法や評価基準が不明確"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "AIによる個別最適化学習システムの開発・導入コスト"
+  },
+  "scope": "全国",
+  "required_resources": "予算/制度改正",
+  "keywords": ["基礎学力", "AI活用", "個別最適化", "学習支援", "教育格差"],
+  "unique_features": "エリート教育より基礎学力保障を優先する現実的アプローチ",
+  "discussion_points": ["AI活用による個別最適化学習の効果と公平性", "先進的教育モデルの必要性vs基礎学力重視のバランス"]
+}

@@ -1,0 +1,32 @@
+{
+  "additions": 1,
+  "author": {
+    "id": "MDQ6VXNlcjc2NzM4ODQ1",
+    "is_bot": false,
+    "login": "GelatinousFish",
+    "name": "Yoshigaura"
+  },
+  "body": "[既存文]\r\nAIメンタルアシスタントは、より日常的な愚痴や相談が（匿名でも）24時間365日できる相手であり、内容の深刻度に応じて、具体的なアドバイスの提供や、関係する専門機関につなぐ窓口といった役割も果たします。\r\n\r\n[変更文]\r\nAIメンタルアシスタントは、より日常的な愚痴や相談が（匿名でも）24時間365日できる相手であり、内容の深刻度に応じて、具体的なアドバイスの提供や、関係する専門機関につなぐ窓口といった役割も果たします。**同時に、自殺の兆候など、極めて深刻な相談をAIが不適切に扱うことを防ぐため、危険性を検知した際は、利用者の匿名性を尊重した上で、専門のカウンセラーなど待機している人間に速やかに連携し、直接的な介入・支援に繋ぐセーフティネットを構築します。**",
+  "changedFiles": 1,
+  "comments": [],
+  "createdAt": "2025-07-06T06:17:26Z",
+  "deletions": 1,
+  "labels": [
+    {
+      "id": "LA_kwDOOqTJvM8AAAACAn5d8w",
+      "name": "教育",
+      "description": "",
+      "color": "E57B81"
+    }
+  ],
+  "mergeable": "MERGEABLE",
+  "mergedAt": null,
+  "number": 3999,
+  "reactionGroups": [],
+  "state": "OPEN",
+  "title": "11_ステップ１教育_AIメンタルアシスタントの寄り添いすぎが怖いので加筆",
+  "updatedAt": "2025-07-06T15:18:26Z",
+  "url": "https://github.com/team-mirai/policy/pull/3999",
+  "commentsCount": 0,
+  "totalReactions": 0
+}

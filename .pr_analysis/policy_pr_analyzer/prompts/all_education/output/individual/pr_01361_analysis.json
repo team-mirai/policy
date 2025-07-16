@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1361,
+  "summary": "住所表記統一ルールと建物への緯度経度付きユニーク識別番号導入でDX推進",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "統一ルール策定と識別番号導入の具体的施策を明示"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "全国の既存システムとの互換性確保と莫大な移行コスト"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["住所基盤", "DX推進", "住所表記統一", "緯度経度情報", "ユニーク識別番号"],
+  "unique_features": "住所に緯度経度情報付きユニーク識別番号を導入",
+  "discussion_points": ["既存住所体系との互換性確保方法", "実施主体と費用負担の分担"]
+}
+```

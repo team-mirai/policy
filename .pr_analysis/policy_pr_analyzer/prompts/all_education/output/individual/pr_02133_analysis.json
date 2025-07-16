@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2133,
+  "summary": "学校内外の多様な施設を活用し、地域全体で子どもの学びを支える柔軟な教育環境の構築",
+  "category": "地域連携",
+  "specificity": {
+    "level": "中",
+    "reason": "活用施設の種類は具体的だが、実施方法や手順が不明確"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "関係者との調整と安全管理体制の確立"
+  },
+  "scope": "地域",
+  "required_resources": "制度改正・人材",
+  "keywords": ["施設活用", "空き教室", "公民館", "地域連携", "学習環境"],
+  "unique_features": "学校外施設も含めた地域全体での学習環境構築",
+  "discussion_points": ["安全管理と責任分担の明確化", "施設利用のコーディネート体制"]
+}
+```

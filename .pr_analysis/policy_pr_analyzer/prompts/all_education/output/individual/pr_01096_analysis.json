@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1096,
+  "summary": "多様な才能が正当に評価され経済的安定とやりがいを両立する社会システムを構築",
+  "category": "その他",
+  "specificity": {
+    "level": "低",
+    "reason": "理念は明確だが具体的な施策や実現方法が示されていない"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "既存の雇用慣行や評価システムの根本的変革が必要"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["働きがい", "自己実現", "多様な働き方", "才能評価", "職業選択"],
+  "unique_features": "見えにくい価値の正当評価システムを提案",
+  "discussion_points": ["正当な評価の基準設定方法", "経済的安定と自己実現の両立方法"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 825,
+  "summary": "AI家庭教師の提供を強制から希望制に変更し、家庭の教育方針や通信環境への配慮を追加",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "利用方法、配慮事項、代替手段が明確に記載"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "公共機関での環境整備や通信費支援の予算確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AI家庭教師", "希望制", "教育方針", "通信環境", "デジタル格差"],
+  "unique_features": "強制ではなく選択制とし、多様な価値観に配慮",
+  "discussion_points": ["公共機関での利用環境整備の具体的方法", "通信費支援の対象範囲と財源確保"]
+}
+```

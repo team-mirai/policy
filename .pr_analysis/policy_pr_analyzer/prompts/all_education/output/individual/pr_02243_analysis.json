@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2243,
+  "summary": "ICT支援員の待遇改善と権限明確化を行い、デジタル教育推進リーダーとして各教育委員会に配置",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "中",
+    "reason": "役割と改善方向は明確だが、具体的な待遇内容や権限の詳細が不明"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "各自治体での雇用形態統一と予算確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算/制度改正",
+  "keywords": ["ICT支援員", "デジタル教育推進リーダー", "待遇改善", "教育DX", "雇用安定化"],
+  "unique_features": "ICT支援員の身分保障と権限強化による教育DX推進",
+  "discussion_points": ["各自治体での雇用形態統一の実現方法", "必要な予算規模と財源確保"]
+}
+```

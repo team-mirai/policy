@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1624,
+  "summary": "狂犬病予防接種の罰則強化（30万円）とAI活用野犬対策で公衆衛生向上",
+  "category": "その他",
+  "specificity": {
+    "level": "高",
+    "reason": "罰金額の具体的数値やAI技術の活用方法が明示されている"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "狂犬病予防法の改正と自治体への技術導入支援体制構築"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正/予算",
+  "keywords": ["狂犬病", "予防接種", "野犬対策", "AI活用", "罰則強化"],
+  "unique_features": "AI技術を野犬対策に活用する先進的アプローチ",
+  "discussion_points": ["罰則強化の実効性と適切な金額設定", "AI技術導入の費用対効果と自治体負担"]
+}
+```

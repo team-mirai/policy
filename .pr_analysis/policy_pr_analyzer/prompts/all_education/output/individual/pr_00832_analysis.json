@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 832,
+  "summary": "2歳児へのタブレット配布とAI教育プログラムで就学前の教育格差を是正",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "対象年齢、配布物、教育内容、管理方法まで詳細に記載"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "2歳児へのデジタルデバイス配布の健康・発達への影響懸念"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["就学前教育", "AI活用", "タブレット配布", "教育格差", "幼児教育"],
+  "unique_features": "2歳という早期からのデジタル教育介入",
+  "discussion_points": ["幼児のスクリーンタイムと発達への影響", "家庭での適切な利用をどう担保するか"]
+}
+```

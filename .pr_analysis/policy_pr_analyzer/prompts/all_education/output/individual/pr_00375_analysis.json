@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 375,
+  "summary": "AI家庭教師の機能として学習計画最適化と励ましによるモチベーション維持を追加",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "具体的な機能（学習計画最適化、励ましの言葉）を明記"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "AIの感情認識や個別最適化技術は発展途上"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AI家庭教師", "個別最適化", "学習計画", "モチベーション維持", "教育AI"],
+  "unique_features": "AIが学習支援だけでなく心理的サポートも提供",
+  "discussion_points": ["AIによる感情認識・励ましの適切性", "個人学習データの取り扱い・プライバシー"]
+}
+```

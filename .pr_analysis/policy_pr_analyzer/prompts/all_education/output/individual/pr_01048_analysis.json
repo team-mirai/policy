@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1048,
+  "summary": "「AIいと電話」という先生秘書AIで出欠連絡・テスト採点分析・保護者連絡を自動化",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "具体的な名称と機能（出欠、テスト自動採点、個別分析等）が明記"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "個人情報保護とAIの分析精度の確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AI秘書", "教員業務効率化", "保護者連絡自動化", "テスト自動採点", "働き方改革"],
+  "unique_features": "AIによる個別学習分析コメント付きテスト結果報告",
+  "discussion_points": ["AIによる学習分析の精度と信頼性をどう担保するか", "保護者・教員間のコミュニケーションの人間的側面をどう維持するか"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1329,
+  "summary": "AI技術を活用した医療システムの段階的導入により医療現場の効率化と患者利便性向上を実現",
+  "category": "その他",
+  "specificity": {
+    "level": "高",
+    "reason": "短期・中期・長期の段階的導入計画と具体的な施策が明示されている"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "医療AIの精度確保と医師・国民の受容性確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算/人材/制度改正",
+  "keywords": ["AI医療", "オンライン診療", "医療改革", "コンビニ型診療", "医療DX"],
+  "unique_features": "AI診療への移行期間を重視した段階的導入アプローチ",
+  "discussion_points": ["AI診断の責任所在と医療事故時の対応", "既存医療従事者の雇用と役割の再定義"]
+}
+```

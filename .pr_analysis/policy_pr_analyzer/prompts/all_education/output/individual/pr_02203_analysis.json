@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2203,
+  "summary": "AI家庭教師による学習効率化で生まれた時間を社会性・協調性育成に活用する教育改革",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性は明確だが、社会性育成の具体的実施方法が不明確"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "社会性育成プログラムの具体的設計と評価方法の確立"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["AI家庭教師", "社会性涵養", "早期学習", "協調性", "多様性"],
+  "unique_features": "AI活用で生じる時間を社会性育成に充てる視点",
+  "discussion_points": ["社会性育成の具体的方法とカリキュラム設計", "早期学習終了者の進路選択の柔軟性確保"]
+}
+```

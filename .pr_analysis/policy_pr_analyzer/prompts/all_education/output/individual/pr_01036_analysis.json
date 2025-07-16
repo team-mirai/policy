@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1036,
+  "summary": "教育AI活用において理念強化と家庭でのWi-Fi環境整備支援を追加し教育格差解消を図る提案",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "Wi-Fi環境整備支援など具体的な施策を明記"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "家庭へのWi-Fi環境整備の予算確保と実施体制構築"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AI家庭教師", "Wi-Fi環境整備", "教育格差", "家庭学習", "デジタル教育"],
+  "unique_features": "家庭のデジタル格差に配慮したAI教育環境整備",
+  "discussion_points": ["Wi-Fi整備支援の具体的な基準と財源", "家庭でのAI利用における安全性確保"]
+}
+```

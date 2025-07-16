@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2756,
+  "summary": "AIアシスタントを活用し生徒主体の校則見直しを支援、ブラック校則問題解決と主体性育成を目指す",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "高",
+    "reason": "AIアシスタントの機能や期待効果が具体的に記載"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "学校現場での受け入れと教員の理解獲得"
+  },
+  "scope": "全国",
+  "required_resources": "予算・人材",
+  "keywords": ["校則", "ブラック校則", "生徒主体", "AIアシスタント", "人権教育"],
+  "unique_features": "AI技術を生徒の民主的参加促進に活用",
+  "discussion_points": ["AIが提供する情報の中立性・適切性の確保方法", "生徒・教員間の意見対立時の調整プロセス"]
+}
+```

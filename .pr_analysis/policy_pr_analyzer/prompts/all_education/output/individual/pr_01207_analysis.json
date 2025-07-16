@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1207,
+  "summary": "AI家庭教師を高校・大学から段階的に導入し、効果検証後に低年齢層へ展開する教育改革",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "導入順序、各段階の理由、考慮事項が明確に示されている"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "AI教育システムの開発コストと教育現場の受け入れ体制構築"
+  },
+  "scope": "全国",
+  "required_resources": "予算/人材",
+  "keywords": ["AI家庭教師", "個別最適化", "段階的導入", "教育改革", "年齢別対応"],
+  "unique_features": "年齢に応じた慎重な段階的AI導入アプローチ",
+  "discussion_points": ["AI導入による教師の役割変化と必要なスキル", "低年齢層での人間関係の重要性とAI活用のバランス"]
+}
+```

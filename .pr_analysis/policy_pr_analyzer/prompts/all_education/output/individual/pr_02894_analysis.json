@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2894,
+  "summary": "AIを子どもの「友だち」として位置づけ、ロボットやARメガネ等の形で学習を支援",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "コンセプトは明確だが、技術仕様や導入計画の詳細が不明"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "子どもの心理的安全性とプライバシー保護の両立"
+  },
+  "scope": "全国",
+  "required_resources": "予算/技術開発",
+  "keywords": ["AI教育", "友だちAI", "個別最適化", "ARメガネ", "教育アシスタント"],
+  "unique_features": "AIを冷たいツールでなく温かい友だちとして捉える視点",
+  "discussion_points": ["子どもとAIの適切な関係性の設計", "データプライバシーと教育効果のバランス"]
+}
+```

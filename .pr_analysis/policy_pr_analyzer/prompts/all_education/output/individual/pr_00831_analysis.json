@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 831,
+  "summary": "AI教育政策文書の専門用語に注釈を追加し、一般読者の理解を促進する提案",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "18個の具体的な専門用語をリストアップし、各用語の説明内容まで明記"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "専門用語の説明の適切性・平易さの確保"
+  },
+  "scope": "全国",
+  "required_resources": "文書修正作業のみ",
+  "keywords": ["専門用語", "可読性向上", "AI教育", "アクセシビリティ", "用語解説"],
+  "unique_features": "政策文書自体の改善に焦点を当てた提案",
+  "discussion_points": ["用語説明の難易度の適切性", "追加すべき他の専門用語の有無"]
+}
+```

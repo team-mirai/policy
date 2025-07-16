@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1335,
+  "summary": "AI家庭教師を全国民に拡大し、多様な人材によるプッシュ型支援で生涯学習社会を実現",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性は明確だが実装方法の詳細が不足"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "全国民へのAI配布と多様な人材の研修体制構築"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AI家庭教師", "生涯学習", "プッシュ型支援", "就職氷河期世代", "デジタル格差"],
+  "unique_features": "全年齢層へのAI学習支援と多様な人材活用の組み合わせ",
+  "discussion_points": ["全国民へのAI配布の費用対効果", "多様な人材の質の確保と研修体制"]
+}
+```

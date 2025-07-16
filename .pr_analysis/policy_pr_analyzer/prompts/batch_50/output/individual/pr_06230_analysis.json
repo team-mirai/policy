@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 6230,
+  "summary": "発達障害児支援のため教員研修充実・専門家常駐・支援員増員と定員削減を実施",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "高",
+    "reason": "定員数値（8→5人）や専門職種（OT等）を明記"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "全国規模での専門人材確保と予算確保"
+  },
+  "scope": "全国",
+  "required_resources": "人材/予算",
+  "keywords": ["発達障害", "特別支援学級", "教員研修", "専門家常駐", "定員削減"],
+  "unique_features": "療育経験者やOTの学校常駐という外部専門家活用",
+  "discussion_points": ["専門人材の確保方法と必要予算規模", "通常学級での発達障害児支援との連携方法"]
+}
+```

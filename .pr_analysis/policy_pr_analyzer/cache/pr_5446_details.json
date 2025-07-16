@@ -1,0 +1,30 @@
+{
+  "additions": 123,
+  "author": {
+    "is_bot": true,
+    "login": "app/idobata-policy-app"
+  },
+  "body": "「子どもに向き合う時間がない」――それが今の学校現場の現実です。\n本提案は、教員が本来の仕事に集中できるよう、人とテクノロジーの力を制度設計に落とし込んだ「五層構造の学校再構築案」です。\n第1層で“人の再配置”、第2層・第3層で“業務効率”、第4層・第5層で“構造改革”を段階的に積み上げ、単なるICT導入ではない、本質的な改革を目指します。\n\nこの提案は、単なる業務改善の積み上げではありません。追いつめられた教員の皆さんを解放し、その情熱と時間を、未来そのものである子どもたちへと取り戻すための「本質的な力」を持つと、私たちは信じています。\n\nこの構想が一人でも多くの共感を呼び、一日も早く実現されることで、日本の教育が再生する一助となることを、切に願います。",
+  "changedFiles": 1,
+  "comments": [],
+  "createdAt": "2025-07-11T10:13:40Z",
+  "deletions": 38,
+  "labels": [
+    {
+      "id": "LA_kwDOOqTJvM8AAAACAn5d8w",
+      "name": "教育",
+      "description": "",
+      "color": "E57B81"
+    }
+  ],
+  "mergeable": "MERGEABLE",
+  "mergedAt": null,
+  "number": 5446,
+  "reactionGroups": [],
+  "state": "OPEN",
+  "title": "人とテクノロジーで再構築する、“子どもと向き合う”学校現場 #5446",
+  "updatedAt": "2025-07-11T15:21:18Z",
+  "url": "https://github.com/team-mirai/policy/pull/5446",
+  "commentsCount": 0,
+  "totalReactions": 0
+}

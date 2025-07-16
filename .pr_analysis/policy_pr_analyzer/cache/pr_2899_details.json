@@ -1,0 +1,30 @@
+{
+  "additions": 2,
+  "author": {
+    "is_bot": true,
+    "login": "app/idobata-policy-app"
+  },
+  "body": "匿名ユーザー様との議論に基づき、政策案を改善しました。主な変更点は２つです。１つ目は、教育内容が技術に偏りすぎないよう、文理の枠を超えた総合的な学びを目指す「STEAM教育」の考え方を明確にしたことです。AI等の技術は、あくまで多様な学びを支援するツールとして位置づけられます。２つ目は、この先進的な教育モデルが一部の生徒だけでなく、「教育困難校、一般校、進学校」といった、あらゆる学力層の子供たちの可能性を伸ばすものであることを明記した点です。これにより、誰一人取り残さない、より公平でバランスの取れた教育モデルを目指すという政策の意図を明確化しました。この改善提案は、日本の未来を担う全ての子供たちが、自らの可能性を最大限に発揮できる教育環境を構築するための重要な一歩です。匿名ユーザー様のご意見に深く感謝申し上げます。",
+  "changedFiles": 1,
+  "comments": [],
+  "createdAt": "2025-06-25T23:53:41Z",
+  "deletions": 1,
+  "labels": [
+    {
+      "id": "LA_kwDOOqTJvM8AAAACAn5d8w",
+      "name": "教育",
+      "description": "",
+      "color": "E57B81"
+    }
+  ],
+  "mergeable": "MERGEABLE",
+  "mergedAt": null,
+  "number": 2899,
+  "reactionGroups": [],
+  "state": "OPEN",
+  "title": "「先進的モデル校」におけるSTEAM教育の導入と多様な学力層への対応",
+  "updatedAt": "2025-06-26T15:20:28Z",
+  "url": "https://github.com/team-mirai/policy/pull/2899",
+  "commentsCount": 0,
+  "totalReactions": 0
+}

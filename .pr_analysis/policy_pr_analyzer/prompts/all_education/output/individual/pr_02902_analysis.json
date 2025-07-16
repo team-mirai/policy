@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2902,
+  "summary": "AIアシスタントで画一的教育から個別最適化学習へ転換し生徒・教員双方の負担軽減",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "問題意識は明確だが、具体的実装は既存政策案に依存"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "全国規模でのAI導入と教育評価軸の根本的転換"
+  },
+  "scope": "全国",
+  "required_resources": "予算/制度改正",
+  "keywords": ["AI教育", "個別最適化学習", "画一的教育", "基礎学力", "教員負担"],
+  "unique_features": "生徒だけでなく教員の精神的負担にも着目",
+  "discussion_points": ["AI導入の具体的方法と予算確保", "評価軸転換への社会的合意形成"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2967,
+  "summary": "不登校支援のAI学習ツール開発と新世代児童館の機能拡充、体験格差是正を強化",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "具体的施策は明確だが実装詳細や予算規模が不明"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "国主導AI学習ツール開発の技術・予算確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["不登校支援", "AI学習ツール", "新世代児童館", "体験格差", "第三の居場所"],
+  "unique_features": "デジタルとリアル体験を組み合わせた包括的アプローチ",
+  "discussion_points": ["AI学習ツールの教育効果と個人情報保護", "新世代児童館の運営体制と専門人材確保"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2340,
+  "summary": "AIドリル活用により教師の役割を知識伝達から個別支援・伴走へ転換し教師不足対応",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "AIドリルという具体的手段は示されているが実装詳細は今後の議論待ち"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "全国の教育現場へのAI技術導入と教師の意識改革"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AI活用", "教師不足", "個別最適化", "役割転換", "労働環境改善"],
+  "unique_features": "教師の役割転換を通じた労働環境改善に着目",
+  "discussion_points": ["AIドリルの教育効果の検証方法", "教師の新たな役割に対する研修体制の構築"]
+}
+```

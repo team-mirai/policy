@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 43,
+  "summary": "AI活用で生まれる教育現場の余力を、人的支援が重要な幼児教育（非認知能力育成）へ重点配分",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性は明確だが、具体的な配分比率や実施方法は未定"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "AIによる余力の定量化と配分メカニズムの設計"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["AI活用", "幼児教育", "非認知能力", "リソース配分", "教育投資"],
+  "unique_features": "AI時代の教育における人間とAIの役割分担を戦略的に提案",
+  "discussion_points": ["AIによる余力をどう測定・配分するか", "幼児教育への投資効果の評価方法"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 226,
+  "summary": "教師向け生成AI研修でメリット・デメリット・心構えを学ぶ機会を提供し教師のAIリテラシー向上を図る",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "中",
+    "reason": "研修の必要性と内容は明確だが、具体的な実施方法は未定"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "適切な研修コンテンツの開発と講師の確保"
+  },
+  "scope": "全国",
+  "required_resources": "人材",
+  "keywords": ["生成AI", "教師研修", "AIリテラシー", "教員研修", "AI活用"],
+  "unique_features": "教師のAI理解を生徒教育の前提として位置づけ",
+  "discussion_points": ["研修内容の標準化と質の担保をどう行うか", "研修の義務化・推奨度合いをどう設定するか"]
+}
+```

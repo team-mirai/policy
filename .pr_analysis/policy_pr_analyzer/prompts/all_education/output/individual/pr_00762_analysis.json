@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 762,
+  "summary": "所得に応じた現金給付制度と高校無償化・大学授業料補助による格差是正",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "給付額の例示はあるが財源確保や実施方法の詳細は未定"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "莫大な財源確保が最大の課題"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["社会保障インカム", "教育無償化", "大学授業料補助", "所得再分配", "少子化対策"],
+  "unique_features": "教育と社会保障を組み合わせた包括的格差是正策",
+  "discussion_points": ["財源確保の具体的方法（国債発行・増税等）", "給付基準と金額の妥当性"]
+}
+```

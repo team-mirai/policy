@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 389,
+  "summary": "実社会で必要な税金・金融・法律・コミュニケーション等の実務能力教育を新設",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "高",
+    "reason": "7分野の具体的な教育内容が明確に列挙されている"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "実務知識を持つ教員の確保・育成"
+  },
+  "scope": "全国",
+  "required_resources": "人材",
+  "keywords": ["実務教育", "金融リテラシー", "ライフスキル", "キャリア教育", "生活力"],
+  "unique_features": "学校教育と実社会のギャップを埋める包括的実務教育",
+  "discussion_points": ["既存カリキュラムとの時間配分調整", "実務指導可能な教員の確保・育成方法"]
+}
+```

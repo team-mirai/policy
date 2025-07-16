@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2491,
+  "summary": "体力測定データのデジタル化・DB化により個別健康指導や教育政策改善に活用する提案",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "米国FitnessGramの具体例や期待効果を詳細に記載"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "全国統一システムの構築と個人情報保護の両立"
+  },
+  "scope": "全国",
+  "required_resources": "予算・制度改正",
+  "keywords": ["体力測定", "デジタル化", "FitnessGram", "教育データ", "EBPM"],
+  "unique_features": "米国の成功事例を参考に体力データ活用を体系的に提案",
+  "discussion_points": ["児童生徒の健康データのプライバシー保護方法", "システム導入・運用コストと期待効果の費用対効果分析"]
+}
+```

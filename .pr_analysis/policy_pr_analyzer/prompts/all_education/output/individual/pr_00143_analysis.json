@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 143,
+  "summary": "AIが保護者に無料教材活用法や声かけをアドバイスし幼児期の体験格差を解消",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "無料教材活用、声かけアドバイス等の具体的支援内容が明記"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "個別家庭に適したAIアドバイスシステムの開発と精度確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AI活用", "保護者支援", "体験格差", "無料教材", "幼児教育"],
+  "unique_features": "保護者をAIで支援し間接的に子どもの教育格差を解消",
+  "discussion_points": ["AIアドバイスの質と個別対応の限界", "保護者のデジタルリテラシー格差への対応"]
+}
+```

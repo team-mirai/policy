@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 6172,
+  "summary": "美術科等の実技教科向けに基礎スキル習得AIドリルと教員向け教材データベースを整備",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "AI学習アシスタントへの機能追加と教員向けツールの具体的な開発内容を明記"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "美術科向けの質の高いAIコンテンツ開発の難しさ"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["美術科", "実技教科", "AI学習アシスタント", "教材データベース", "創造性教育"],
+  "unique_features": "実技教科の創造性を阻害しないAI活用方法を提案",
+  "discussion_points": ["AIドリルが美術の創造性を本当に支援できるか", "教材データベースの質をどう確保するか"]
+}
+```

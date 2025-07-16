@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 597,
+  "summary": "優秀学生向け給付型奨学金創設と国立大学授業料引き下げで進学機会を確保",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "制度の方向性は明確だが具体的な金額や評価基準は未定"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "奨学金給付と授業料引き下げの財源確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["給付型奨学金", "国立大学", "授業料", "優秀学生", "経済支援"],
+  "unique_features": "世帯収入制限なしで学生本人の意思で申請可能",
+  "discussion_points": ["優秀な学生の評価基準の設定方法", "必要財源の規模と確保方法"]
+}
+```

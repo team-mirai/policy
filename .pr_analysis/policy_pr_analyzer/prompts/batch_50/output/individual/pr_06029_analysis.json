@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 6029,
+  "summary": "AIによる個別最適化教育と全端末へのSIMカード内蔵で教育格差を解消する提案",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "SIMカード内蔵、通信費公費負担、AI活用方法など具体的施策を明記"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "全国規模での通信インフラ整備と継続的な通信費負担の財源確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["個別最適化教育", "AI活用", "通信環境整備", "教育格差解消", "複線型教育"],
+  "unique_features": "通信費まで含めた完全公費負担による徹底した公平性",
+  "discussion_points": ["通信費の継続的な財源をどう確保するか", "飛び級制度導入に対する社会的合意形成"]
+}
+```

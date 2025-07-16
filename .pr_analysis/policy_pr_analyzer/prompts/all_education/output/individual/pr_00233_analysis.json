@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 233,
+  "summary": "AI家庭教師導入を教材アイデア出し等から段階的に開始し効果検証しながら拡大",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "初期活用例は示されているが段階的拡大の詳細計画が不明確"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "効果検証の評価基準と手法の確立"
+  },
+  "scope": "全国",
+  "required_resources": "予算（AI利用料）・人材（教師研修）",
+  "keywords": ["AI家庭教師", "段階的導入", "スモールスタート", "教材作成支援", "効果検証"],
+  "unique_features": "教師の負担軽減を重視した慎重な段階的導入",
+  "discussion_points": ["効果検証の具体的指標と評価方法", "段階的拡大の判断基準とタイムライン"]
+}
+```

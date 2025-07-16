@@ -1,0 +1,30 @@
+{
+  "additions": 1,
+  "author": {
+    "is_bot": true,
+    "login": "app/idobata-policy-app"
+  },
+  "body": "この改善提案は、教育分野の研究者である、わたしさんからの貴重なご指摘に基づき、マニフェストの冒頭にある注意書きを修正するものです。\n\n**変更の背景と目的**\nわたしさんからは、まず「**AI活用は、今後の教育において極めて重要である**」という、このマニフェストの根幹に対する力強いご支持をいただきました。その上で、「**AIだけでは解決できない課題や、AIでは不十分な点についての提案が弱い**」こと、そして「マニフェ...",
+  "changedFiles": 1,
+  "comments": [],
+  "createdAt": "2025-07-11T14:12:59Z",
+  "deletions": 0,
+  "labels": [
+    {
+      "id": "LA_kwDOOqTJvM8AAAACAn5d8w",
+      "name": "教育",
+      "description": "",
+      "color": "E57B81"
+    }
+  ],
+  "mergeable": "MERGEABLE",
+  "mergedAt": null,
+  "number": 5521,
+  "reactionGroups": [],
+  "state": "OPEN",
+  "title": "マニフェストの課題点を冒頭に明記し、多角的な意見を募集",
+  "updatedAt": "2025-07-11T15:20:13Z",
+  "url": "https://github.com/team-mirai/policy/pull/5521",
+  "commentsCount": 0,
+  "totalReactions": 0
+}

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1861,
+  "summary": "全生徒に無償LMSとAIサポーターを提供し教科書を置き換え、個別最適化学習を実現",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "5段階の導入ロードマップと各段階の具体的な実施内容が明記されている"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "全国規模でのシステム開発・運用と教員研修体制の構築"
+  },
+  "scope": "全国",
+  "required_resources": "予算/制度改正",
+  "keywords": ["LMS", "AIサポーター", "個別最適化", "探求学習", "デジタル教科書"],
+  "unique_features": "教科書を完全にLMSに置き換えAI活用で個別最適化を実現",
+  "discussion_points": ["教科書からLMSへの完全移行の是非と移行期間", "デジタルデバイドへの対応と公平性の確保"]
+}
+```

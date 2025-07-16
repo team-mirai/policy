@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 3187,
+  "summary": "EdTech活用により履修主義から修得主義へ転換し、個々の学習進度に応じた教育で学習権を保障",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "転換の方向性は明確だが、修得基準の設定や評価方法の詳細は不明"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "全国統一の修得基準設定と評価システムの構築"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["修得主義", "履修主義", "EdTech", "個別最適化", "学習権"],
+  "unique_features": "学習権保障の観点から修得主義への転換を提案",
+  "discussion_points": ["修得基準の具体的な設定方法", "個別対応による教員負担の増加への対策"]
+}
+```

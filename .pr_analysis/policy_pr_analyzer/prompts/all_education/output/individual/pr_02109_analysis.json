@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2109,
+  "summary": "教育へのAI導入を2028年度末までに配備率100％、週3回利用70％達成する具体的計画",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "KPI、予算規模（年800億円）、段階的導入スケジュールが明確"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "年間800億円の安定的財源確保と官民ファンド設立"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AI教育", "ChatGPT", "教育DX", "生成AI", "教員研修"],
+  "unique_features": "官民共同ファンド（官1:民2）による財源確保モデル",
+  "discussion_points": ["AI利用による学力格差や依存度の管理方法", "教師のAIリテラシー向上に必要な研修体制"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1224,
+  "summary": "図書館にAI推薦・AR体験システムを導入し、子どもの多様な読書体験を促進",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "AIによる推薦やAR技術の活用など具体的な技術に言及しているが、実装の詳細は不明"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "全国の図書館への統一的なシステム導入と維持管理"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["図書館", "AI推薦", "AR技術", "読書体験", "非認知能力"],
+  "unique_features": "デジタル技術で紙の本の価値を増幅させる融合型アプローチ",
+  "discussion_points": ["読書履歴等のプライバシー保護の方法", "地域による図書館のデジタル化格差への対応"]
+}
+```

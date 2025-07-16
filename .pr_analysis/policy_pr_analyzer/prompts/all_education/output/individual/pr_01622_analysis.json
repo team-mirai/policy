@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1622,
+  "summary": "AI教育環境の格差解消とデバイス支援、教員業務のペーパーレス化推進",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "GIGAスクール活用、デバイス貸与、ペーパーレス化など具体的施策を明記"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "経済的困難家庭への支援予算の確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AI家庭教師", "デジタルデバイド", "ペーパーレス化", "GIGAスクール", "教員働き方改革"],
+  "unique_features": "教育格差解消と教員負担軽減を同時に追求",
+  "discussion_points": ["経済的困難家庭への支援基準と範囲", "ペーパーレス化への移行スケジュールと教員研修"]
+}
+```

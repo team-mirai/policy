@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 129,
+  "summary": "発達特性を持つ子どもへの合理的配慮の浸透、支援員増員、情緒級設立・拡充を求める提案",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "高",
+    "reason": "3つの具体的施策と現状の課題を明確に提示"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "予算確保と専門人材の育成・配置"
+  },
+  "scope": "全国",
+  "required_resources": "予算・人材",
+  "keywords": ["発達特性", "合理的配慮", "支援員", "情緒級", "インクルーシブ教育"],
+  "unique_features": "保護者の実体験に基づく3つの具体的支援策",
+  "discussion_points": ["支援員の専門性確保と研修体制の構築", "情緒級設置の地域格差解消の具体策"]
+}
+```

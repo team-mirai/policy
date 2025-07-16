@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 6507,
+  "summary": "教育の全体ビジョンとして学力・ウェルビーイング・SELの3本柱を明示し既存政策を修正",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "高",
+    "reason": "3つの柱を明確に定義し、各政策への具体的な反映方法も記載"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "SELの体系的導入には教員研修や評価方法の確立が必要"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["SEL", "ウェルビーイング", "教育ビジョン", "EBPM", "オーダーメイドカリキュラム"],
+  "unique_features": "SELを日本の義務教育の主流に据える先進的提案",
+  "discussion_points": ["SELの評価方法と教員の対応能力", "3つの柱のバランスと優先順位"]
+}
+```

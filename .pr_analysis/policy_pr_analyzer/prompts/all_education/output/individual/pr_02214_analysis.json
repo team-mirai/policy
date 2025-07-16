@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2214,
+  "summary": "小学校からAI活用の基礎能力（問いを立てる力、プロンプト力、言語化力）を育む教育を導入",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性と育成すべき能力は明確だが、実施方法や段階的導入の詳細が不明"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "教員のAI活用スキル習得と指導方法の確立"
+  },
+  "scope": "全国",
+  "required_resources": "人材（教員研修）と制度改正",
+  "keywords": ["AI教育", "プロンプト力", "言語化力", "小学校", "基礎能力"],
+  "unique_features": "AI技術習得より思考力・表現力の育成を重視",
+  "discussion_points": ["小学校からのAI教育導入の適切な開始時期と段階", "教員のAI指導能力をどう確保するか"]
+}
+```

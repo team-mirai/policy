@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1576,
+  "summary": "小学校の生成AI授業導入に合わせて保護者向け副読本を作成・配布し家庭でのAI利用を支援",
+  "category": "地域連携",
+  "specificity": {
+    "level": "中",
+    "reason": "副読本作成・配布は明確だが、具体的な内容や配布方法の詳細が不明"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "継続的な内容更新と質の確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["保護者", "副読本", "生成AI", "AIリテラシー", "家庭連携"],
+  "unique_features": "保護者のAIリテラシー向上による家庭と学校の連携強化",
+  "discussion_points": ["副読本の内容・更新頻度の適切性", "保護者への配布方法（紙/デジタル）の選択"]
+}
+```

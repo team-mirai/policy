@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2618,
+  "summary": "教育政策マニフェストのビジョン後に6つの施策の目次を追加し文書の可読性を向上",
+  "category": "その他",
+  "specificity": {
+    "level": "高",
+    "reason": "追加する目次の内容と配置場所が明確に示されている"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "レイアウトや見出しレベルの調整程度"
+  },
+  "scope": "全国",
+  "required_resources": "なし（文書編集のみ）",
+  "keywords": ["マニフェスト", "目次", "文書構成", "可読性", "教育政策"],
+  "unique_features": "政策文書のUX改善に特化した編集提案",
+  "discussion_points": ["目次の配置位置（ビジョン直後）の妥当性", "目次形式（番号付きリスト）の適切性"]
+}
+```

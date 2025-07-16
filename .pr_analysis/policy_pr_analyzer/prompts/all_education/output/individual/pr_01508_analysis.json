@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1508,
+  "summary": "AI活用による教育期間短縮で若者の早期経済的自立を促し少子化対策につなげる提案",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "低",
+    "reason": "AI活用の方向性は示されているが具体的な実装方法が不明確"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "教育制度全体の抜本的改革と社会的合意形成が必要"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["少子化対策", "早期自立", "AI教育", "教育期間短縮", "就労支援"],
+  "unique_features": "少子化対策と教育改革を結びつけた横断的アプローチ",
+  "discussion_points": ["教育期間短縮と教育の質の両立方法", "早期就労と若者の成長機会のバランス"]
+}
+```

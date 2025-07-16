@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 906,
+  "summary": "基礎学力重視の教育理念明確化とDXによる教員負担軽減・人的支援強化",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "中",
+    "reason": "DXや人的サポートの方向性は示されているが、具体的な実施方法は未詳"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "教育現場のDX推進に必要な現場の理解と専門人材の確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算・人材",
+  "keywords": ["基礎学力", "教員負担軽減", "教育DX", "事務効率化", "人的サポート"],
+  "unique_features": "基礎学力重視とDX推進を両立させる現実的視点",
+  "discussion_points": ["DX推進の具体的方法と現場の受入体制", "基礎学力とAI活用のバランスの取り方"]
+}
+```

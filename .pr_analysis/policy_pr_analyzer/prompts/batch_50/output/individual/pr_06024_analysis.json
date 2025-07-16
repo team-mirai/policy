@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 6024,
+  "summary": "教育AI開発で政府主導の公民連携モデルを導入し国・企業・子どもの三者利益を実現",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "公民連携の役割分担と三者のメリットが具体的に記述されている"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "官民の利害調整と責任分担の明確化"
+  },
+  "scope": "全国",
+  "required_resources": "予算・制度改正",
+  "keywords": ["教育AI", "公民連携", "AIアシスタント", "官民協業", "Win-Win-Win"],
+  "unique_features": "国・企業・子どもの三者利益を明確化した持続可能モデル",
+  "discussion_points": ["官民連携における責任分担と知的財産権の扱い", "AIの教育利用におけるプライバシーとデータ保護"]
+}
+```

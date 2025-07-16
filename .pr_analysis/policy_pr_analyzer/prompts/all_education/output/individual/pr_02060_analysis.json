@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2060,
+  "summary": "AI家庭教師にSNS安全利用のためのフィルタリング・メッセージ作成支援機能を追加",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "具体的な機能（フィルタリング、メッセージ作成支援）と導入プロセスが明記"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "フィルタリング基準の設定と保護者・教育現場の合意形成"
+  },
+  "scope": "全国",
+  "required_resources": "予算（AI機能開発費）、制度改正",
+  "keywords": ["AI家庭教師", "SNS安全利用", "フィルタリング", "メッセージ作成支援", "デジタルリテラシー"],
+  "unique_features": "SNS禁止ではなくAI支援で安全利用を促進",
+  "discussion_points": ["フィルタリングの基準設定と過度な制限のバランス", "保護者のプライバシー懸念への対応方法"]
+}
+```

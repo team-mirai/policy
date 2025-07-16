@@ -1,0 +1,30 @@
+{
+  "additions": 36,
+  "author": {
+    "is_bot": true,
+    "login": "app/idobata-policy-app"
+  },
+  "body": "主な変更点：\n- 表層的な「AIの使い方」ではなく、**設問構造と文脈操作の教育**を中核とした**再設計力の育成**に焦点。\n- **ミニストーリーの導入**によるフォーマット拡張で、**共感性と導入理解**を高める構成。\n- **出力責任**と**誤用からの学習循環**を明示し、AIとの**対話的学習の基盤整備**を政策化。\n\n目的：\n「AIの誤り」は**出力側の性能問題ではなく、入力設計の不備**によって生じるという視点転換を促す。\n\n「問いの設計力」教育を第1項へ昇格・先頭配置：\n教育現場でのAI活用における**全施策の前提**となる「問いの構造化力」の育成を**最上位に位置づけ**、他施策の**土台として明示**。既存の項目体系と異なり、**共感導入（ミニストーリー）**を含む構成とし、**理解の導入部**としての役割を担わせた。\n\nしろな",
+  "changedFiles": 1,
+  "comments": [],
+  "createdAt": "2025-06-01T05:20:36Z",
+  "deletions": 5,
+  "labels": [
+    {
+      "id": "LA_kwDOOqTJvM8AAAACAn5d8w",
+      "name": "教育",
+      "description": "",
+      "color": "E57B81"
+    }
+  ],
+  "mergeable": "UNKNOWN",
+  "mergedAt": null,
+  "number": 1864,
+  "reactionGroups": [],
+  "state": "OPEN",
+  "title": "【しろな提案】AIを扱う大前提スキル「問いの設計力」教育の新設",
+  "updatedAt": "2025-06-01T15:17:04Z",
+  "url": "https://github.com/team-mirai/policy/pull/1864",
+  "commentsCount": 0,
+  "totalReactions": 0
+}

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 1182,
+  "summary": "教員の長時間労働・精神疾患等の深刻な課題を統計データと国際比較で可視化し政策根拠を強化",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "高",
+    "reason": "OECD調査や文科省データ等の具体的な統計と国際比較を多数引用"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "給特法の見直しなど法制度改正が必要"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["教員働き方改革", "長時間労働", "精神疾患", "国際比較", "AI活用"],
+  "unique_features": "統計データと国際比較による問題の可視化",
+  "discussion_points": ["給特法など抜本的制度改革の必要性", "AI導入による業務効率化の具体的実施方法"]
+}
+```

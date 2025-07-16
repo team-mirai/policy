@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 3060,
+  "summary": "RAG技術を活用し公教育で個別最適化指導を実現、塾や家庭教師を不要にして教育費負担を軽減",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "RAGという具体的技術名とハルシネーション抑制等の技術特性まで明記"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "教員のAI活用スキル習得と研修体制の構築"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["RAG", "AI教育", "個別最適化", "教育費軽減", "塾不要"],
+  "unique_features": "RAG技術で塾通い不要の公教育を実現",
+  "discussion_points": ["AI依存による教員の役割変化への対応", "AIによる教育の質の担保と評価方法"]
+}
+```
