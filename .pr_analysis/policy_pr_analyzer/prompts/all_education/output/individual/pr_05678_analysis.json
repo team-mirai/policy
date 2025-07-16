@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 5678,
+  "summary": "全公立学校体育館へのエアコン設置で熱中症対策と学習環境改善を実現",
+  "category": "設備・インフラ",
+  "specificity": {
+    "level": "高",
+    "reason": "対象施設（全公立学校体育館）と導入設備（エアコン）が明確に特定されている"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "全国規模での設備投資に必要な巨額の予算確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["体育館", "エアコン", "熱中症対策", "学習環境", "避難所"],
+  "unique_features": "教育環境改善と防災機能強化の両面から提案",
+  "discussion_points": ["財源確保の具体的方法", "設置優先順位の決定基準"]
+}
+```

@@ -11,6 +11,7 @@ import time
 import json
 from pathlib import Path
 from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 def run_claude_analysis(prompt_file, output_file, dry_run=False):
     """claude -pコマンドを実行して分析"""
@@ -71,8 +72,8 @@ def get_analysis_status(prompts_dir):
     
     return status
 
-def analyze_individual_prs(prompts_dir, sleep_time=2, dry_run=False, resume=True):
-    """個別PR分析を実行"""
+def analyze_individual_prs(prompts_dir, sleep_time=2, dry_run=False, resume=True, max_workers=3):
+    """個別PR分析を実行（並列処理）"""
     input_dir = Path(prompts_dir) / 'individual'
     output_dir = Path(prompts_dir) / 'output' / 'individual'
     
@@ -82,29 +83,64 @@ def analyze_individual_prs(prompts_dir, sleep_time=2, dry_run=False, resume=True
     
     # プロンプトファイルを取得
     prompt_files = sorted(input_dir.glob('*.txt'))
-    total = len(prompt_files)
-    completed = 0
+    
+    # 分析が必要なファイルのみを抽出
+    files_to_analyze = []
     skipped = 0
     
-    print(f"\n=== Analyzing Individual PRs ({total} files) ===")
-    
-    for i, prompt_file in enumerate(prompt_files):
+    for prompt_file in prompt_files:
         output_file = output_dir / prompt_file.with_suffix('.json').name
-        
-        # 既に分析済みの場合はスキップ
         if resume and output_file.exists():
-            print(f"[{i+1}/{total}] Skipping (already analyzed): {prompt_file.name}")
             skipped += 1
-            continue
+        else:
+            files_to_analyze.append((prompt_file, output_file))
+    
+    total = len(prompt_files)
+    total_to_analyze = len(files_to_analyze)
+    
+    print(f"\n=== Analyzing Individual PRs ({total} files, {total_to_analyze} remaining) ===")
+    print(f"Using {max_workers} parallel workers")
+    
+    if dry_run:
+        for i, (prompt_file, output_file) in enumerate(files_to_analyze):
+            print(f"[{i+1}/{total_to_analyze}] Would analyze: {prompt_file.name}")
+        return total_to_analyze, skipped
+    
+    completed = 0
+    
+    def analyze_single_file(file_info):
+        prompt_file, output_file = file_info
+        try:
+            if run_claude_analysis(prompt_file, output_file, dry_run=False):
+                return prompt_file.name, True, None
+            else:
+                return prompt_file.name, False, "Analysis failed"
+        except Exception as e:
+            return prompt_file.name, False, str(e)
+    
+    # 並列実行
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        # タスクを投入
+        future_to_file = {executor.submit(analyze_single_file, file_info): file_info for file_info in files_to_analyze}
         
-        print(f"[{i+1}/{total}] Analyzing: {prompt_file.name}")
-        
-        if run_claude_analysis(prompt_file, output_file, dry_run):
-            completed += 1
-        
-        # 最後のファイル以外はスリープ
-        if i < total - 1 and not dry_run:
-            time.sleep(sleep_time)
+        # 結果を処理
+        for future in as_completed(future_to_file):
+            file_info = future_to_file[future]
+            prompt_file, output_file = file_info
+            
+            try:
+                filename, success, error = future.result()
+                completed_now = completed + 1
+                if success:
+                    print(f"[{completed_now}/{total_to_analyze}] ✅ Completed: {filename}")
+                    completed += 1
+                else:
+                    print(f"[{completed_now}/{total_to_analyze}] ❌ Failed: {filename} - {error}")
+            except Exception as e:
+                print(f"❌ Exception analyzing {prompt_file.name}: {e}")
+            
+            # 短いスリープ（API制限対策）
+            time.sleep(sleep_time / max_workers)
     
     return completed, skipped
 
@@ -177,6 +213,8 @@ def main():
                         help='Limit number of similarity checks to run')
     parser.add_argument('--status', action='store_true', 
                         help='Show analysis status and exit')
+    parser.add_argument('--workers', type=int, default=3,
+                        help='Number of parallel workers for analysis (default: 3)')
     
     args = parser.parse_args()
     
@@ -197,6 +235,7 @@ def main():
     print(f"Starting analysis at {start_time.strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"Prompts directory: {args.prompts_dir}")
     print(f"Resume mode: {resume}")
+    print(f"Parallel workers: {args.workers}")
     if args.dry_run:
         print("🔍 DRY RUN MODE - No actual analysis will be performed")
     
@@ -209,7 +248,7 @@ def main():
     # 個別PR分析
     if args.type in ['all', 'individual']:
         completed, skipped = analyze_individual_prs(
-            args.prompts_dir, args.sleep, args.dry_run, resume
+            args.prompts_dir, args.sleep, args.dry_run, resume, args.workers
         )
         results['individual']['completed'] = completed
         results['individual']['skipped'] = skipped

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 5808,
+  "summary": "AI活用で基礎学習を効率化し、教師は対話的学習に注力。複数担任制・少人数学級で実現",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "中",
+    "reason": "複数担任制や少人数学級など具体策は示されているが、実装詳細は未定"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "教員の大幅増員に必要な予算確保"
+  },
+  "scope": "全国",
+  "required_resources": "人材（教員増員）・予算",
+  "keywords": ["AI活用", "対話的学習", "複数担任制", "少人数学級", "教師の多様性"],
+  "unique_features": "AI効率化と人間的対話を両立させるバランス重視",
+  "discussion_points": ["AI活用と対話的学習の最適なバランスの設定方法", "教員増員の財源確保策"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 3674,
+  "summary": "マニフェストに「くらべてマニ研」の15分類タグを追加し体系性と比較可能性を向上",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "高",
+    "reason": "分類名と実装方法（READMEへのタグ追加）が明確に示されている"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "各政策の適切な分類への割り当ての妥当性検証"
+  },
+  "scope": "全国",
+  "required_resources": "人材",
+  "keywords": ["マニフェスト", "政策分類", "くらべてマニ研", "体系化", "比較可能性"],
+  "unique_features": "外部の標準的分類導入で他党比較を容易に",
+  "discussion_points": ["ステップ構造と分類タグの効果的な両立方法", "各政策の15分類への適切な割り当て基準"]
+}
+```

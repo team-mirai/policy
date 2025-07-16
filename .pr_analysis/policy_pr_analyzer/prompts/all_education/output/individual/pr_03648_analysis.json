@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 3648,
+  "summary": "政府情報を音声コンテンツ化し高齢者や視覚障害者等のアクセシビリティを向上",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "音声化の方向性は明確だが実装詳細は未定"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "全省庁での統一的な音声化基準の策定"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["音声コンテンツ", "アクセシビリティ", "情報発信", "ポッドキャスト", "ブロードリスニング"],
+  "unique_features": "情報弱者への配慮とながら聞きニーズの両立",
+  "discussion_points": ["音声化する情報の優先順位と範囲", "音声コンテンツの品質基準と更新頻度"]
+}
+```

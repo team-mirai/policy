@@ -1,0 +1,18 @@
+{
+  "pr_number": 4643,
+  "summary": "AI学習アシスタントが子どもの興味（ゲーム等）を学問的探究へと橋渡しする役割を明確化",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "ゲームから学問への具体的な例示があり実装イメージが明確"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "教育効果を最大化するAIの設計と学習誘導の最適化"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AIアシスタント", "個別最適化", "ゲーム", "興味関心", "探究学習"],
+  "unique_features": "子どもの遊びと学問を自然に接続するAI活用",
+  "discussion_points": ["ゲームへの依存と学習への転換のバランス", "AIの教育的介入の適切な範囲と方法"]
+}

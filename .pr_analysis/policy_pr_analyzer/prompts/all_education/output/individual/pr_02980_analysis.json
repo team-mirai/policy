@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2980,
+  "summary": "教員の給与を全産業平均以上に引き上げ、EdTechで業務効率化を進めて教員不足を解決",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "中",
+    "reason": "給与水準の目標は明確だが、財源確保の具体策は教育国債の検討程度"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "給与引き上げとEdTech投資に必要な大規模予算の確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["教員給与", "教員不足", "EdTech", "業務効率化", "教育投資"],
+  "unique_features": "教員の供給増（待遇改善）と需要減（業務効率化）の両面アプローチ",
+  "discussion_points": ["財源確保の具体的方法（教育国債の是非など）", "給与引き上げと業務効率化の優先順位"]
+}
+```

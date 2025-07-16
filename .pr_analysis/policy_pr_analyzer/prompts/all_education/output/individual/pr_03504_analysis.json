@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 3504,
+  "summary": "AI教育導入時の教員の業務負担変化とAI疲れ等の心理的負担への調査・対策の必要性を追記",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "中",
+    "reason": "問題意識は明確だが、具体的な調査方法や対策内容は未記載"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "AI疲れなど新たな問題への効果的な対策立案"
+  },
+  "scope": "全国",
+  "required_resources": "人材/予算",
+  "keywords": ["AI導入", "教員負担", "AI疲れ", "業務負担", "心理的負担"],
+  "unique_features": "AI導入の負の側面（教員のAI疲れ）に着目した現場視点",
+  "discussion_points": ["AI導入による教員負担の変化の定量的・定性的評価方法", "AI疲れ等の新たな心理的負担への具体的対策"]
+}
+```

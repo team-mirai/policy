@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 4481,
+  "summary": "AIで教員業務を1時間/日削減し、残業実態に見合った手当支給制度を導入",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "高",
+    "reason": "1時間/日の削減目標と給与制度見直しという具体的施策を明記"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "給特法改正と残業代支給のための大規模な財源確保が必要"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正/予算",
+  "keywords": ["教員働き方改革", "残業代", "給特法", "AI活用", "業務削減"],
+  "unique_features": "定額働かせ放題問題に正面から取り組む姿勢",
+  "discussion_points": ["給特法改正に伴う財源確保の方法", "AI導入による1時間削減の実現可能性と検証方法"]
+}
+```

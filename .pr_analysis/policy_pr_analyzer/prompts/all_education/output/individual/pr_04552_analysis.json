@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 4552,
+  "summary": "AI活用による業務効率化と教員増員・働き方改革を両輪で進め、教員が子どもと向き合う時間を確保",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性は明確だが、具体的な増員規模や改革内容は示されていない"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "教員増員に必要な財源確保と人材確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算/人材",
+  "keywords": ["教員増員", "働き方改革", "AI活用", "業務効率化", "負担軽減"],
+  "unique_features": "テクノロジー活用と人的基盤強化を両輪として推進",
+  "discussion_points": ["教員増員の財源をどう確保するか", "AI導入による効率化と人員増強の最適なバランス"]
+}
+```

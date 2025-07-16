@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 5868,
+  "summary": "マニフェスト冒頭に人口減少・労働力不足への対応としてデジタル技術活用の必要性を明記",
+  "category": "その他",
+  "specificity": {
+    "level": "高",
+    "reason": "追加する具体的な文言が明確に示されている"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "マニフェスト全体との整合性確認"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["人口減少", "労働力不足", "デジタル技術", "生産性向上", "マニフェスト"],
+  "unique_features": "政策全体の根本的な目的と方向性を明確化",
+  "discussion_points": ["デジタル化以外の解決策との関係性", "個別政策との具体的な連携方法"]
+}
+```

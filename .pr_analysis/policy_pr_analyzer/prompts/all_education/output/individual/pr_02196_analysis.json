@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 2196,
+  "summary": "AIでグレーゾーン生徒の行動を模倣し教員研修に活用、指導力向上と学校評価導入を提案",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "高",
+    "reason": "AI活用したロールプレイ研修の具体的手法が明記"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "AIシステム開発と全国規模の研修体制構築"
+  },
+  "scope": "全国",
+  "required_resources": "技術開発・人材",
+  "keywords": ["AI活用", "教員研修", "グレーゾーン生徒", "指導力向上", "学校評価"],
+  "unique_features": "AIで生徒の行動パターンを模倣し教員研修に活用",
+  "discussion_points": ["AIによる生徒行動模倣の精度と倫理性", "教員の研修負担と実効性の確保方法"]
+}
+```

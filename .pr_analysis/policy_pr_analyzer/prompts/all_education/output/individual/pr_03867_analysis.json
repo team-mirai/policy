@@ -1,0 +1,18 @@
+{
+  "pr_number": 3867,
+  "summary": "不登校児童生徒がAI等を活用し自宅やフリースクール等で学習継続できる環境整備を明記",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "AI活用や学習場所は示されているが、具体的な実装方法は未定"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "学習評価の基準策定と質の担保"
+  },
+  "scope": "全国",
+  "required_resources": "予算（システム開発）・制度改正",
+  "keywords": ["不登校", "AI活用", "在宅学習", "フリースクール", "学習継続"],
+  "unique_features": "不登校児童生徒を明示的に政策対象として位置づけ",
+  "discussion_points": ["学習評価の公平性確保方法", "オンラインでの社会性育成プログラムの内容"]
+}

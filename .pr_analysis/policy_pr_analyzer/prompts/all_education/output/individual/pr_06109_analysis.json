@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 6109,
+  "summary": "教員の働き方改革に「一日あたり平均1時間の業務削減」という具体的目標値を追加",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "高",
+    "reason": "1時間/日という明確な数値目標を設定"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "地域や学校による導入格差"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["働き方改革", "教員業務削減", "IT活用", "AI活用", "時間削減目標"],
+  "unique_features": "具体的な時間削減目標（1時間/日）を明記",
+  "discussion_points": ["1時間削減の実現可能性と測定方法", "IT/AIツール導入による教育の質への影響"]
+}
+```

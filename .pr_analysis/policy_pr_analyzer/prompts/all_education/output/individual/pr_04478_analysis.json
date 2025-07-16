@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 4478,
+  "summary": "AI導入時に教員向け説明会を追加し、現場教員との対話・合意形成を重視するプロセス改善",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "文言修正は明確だが、説明会の具体的実施方法は未記載"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "教員の説明会参加時間の確保"
+  },
+  "scope": "全国",
+  "required_resources": "人材",
+  "keywords": ["AI導入", "教員理解", "合意形成", "説明会", "現場対話"],
+  "unique_features": "現場教員の心理的抵抗感に配慮した導入プロセス",
+  "discussion_points": ["教員の負担軽減と新技術導入のバランス", "トップダウンとボトムアップの調整方法"]
+}
+```

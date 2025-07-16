@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 5171,
+  "summary": "AIによる教員業務支援の具体例（採点補助、教材作成、連絡文書作成）を明記し教員の役割を明確化",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "答案採点、教材作成、連絡文書作成等の具体的な活用業務を明示"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "AI導入コストと全教員への研修体制構築"
+  },
+  "scope": "全国",
+  "required_resources": "予算/人材",
+  "keywords": ["AI活用", "教員支援", "業務効率化", "採点補助", "働き方改革"],
+  "unique_features": "AIは補助的存在と明確化し最終確認は教員が実施",
+  "discussion_points": ["AIの精度と信頼性の確保方法", "教員のAI活用スキル習得支援策"]
+}
+```

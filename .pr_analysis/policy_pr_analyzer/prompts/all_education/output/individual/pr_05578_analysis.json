@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 5578,
+  "summary": "道徳教育でAI倫理を扱う際も従来の人間性教育の時間確保を明記する文言修正",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "高",
+    "reason": "具体的な文言修正案と変更理由が明確に示されている"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "限られた授業時間内での時間配分の調整"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["道徳教育", "AI倫理", "人間性教育", "カリキュラムバランス", "授業時間確保"],
+  "unique_features": "AI教育と従来の道徳教育の両立を明文化",
+  "discussion_points": ["限られた授業時間内でAI倫理と従来の道徳教育をどう配分するか", "既存の授業時間を確保の具体的な基準や運用方法"]
+}
+```

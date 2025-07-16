@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 5177,
+  "summary": "PTA・保護者会業務を補助金とPTA会費で外部委託可能にし保護者負担を軽減",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "高",
+    "reason": "財源（補助金＋PTA会費）、対象（希望団体）、目的が明確"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "外部委託先の選定基準と品質管理体制の構築"
+  },
+  "scope": "全国",
+  "required_resources": "予算・制度改正",
+  "keywords": ["PTA", "保護者会", "外部委託", "働き方改革", "子育て支援"],
+  "unique_features": "PTA業務の外部委託という新しい選択肢の提供",
+  "discussion_points": ["外部委託の品質管理と選定基準", "保護者の学校参画意識の維持方法"]
+}
+```

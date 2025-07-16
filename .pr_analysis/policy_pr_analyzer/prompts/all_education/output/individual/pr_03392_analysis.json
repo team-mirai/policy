@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 3392,
+  "summary": "扶養控除の年齢基準を学年基準に改め、早生まれの不利益解消と大学院生等への支援拡充",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "高",
+    "reason": "具体的な年齢・控除額・対象条件を明示"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "税法改正と減税による税収減への対応"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正/予算",
+  "keywords": ["扶養控除", "早生まれ", "特定扶養親族", "大学院", "長期就学"],
+  "unique_features": "生まれ月による税制上の不公平に着目",
+  "discussion_points": ["減税による税収減の財源確保方法", "支援対象を医歯薬系・大学院に限定する妥当性"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 3503,
+  "summary": "偏差値偏重から脱却し、多様な「生きる力」を育む教育への転換と年齢の壁を超えた能力別教育の実現",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "ビジョンは明確だが、実施方法の詳細は不明"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "既存の学年制・受験制度との整合性"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["生きる力", "能力別教育", "年齢の壁撤廃", "多様性", "AI活用"],
+  "unique_features": "全教科で年齢の壁を撤廃する画期的な提案",
+  "discussion_points": ["年齢混在クラスでの社会性発達への影響", "既存の大学入試制度との整合性"]
+}
+```

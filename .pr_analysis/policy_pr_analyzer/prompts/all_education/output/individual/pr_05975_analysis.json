@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 5975,
+  "summary": "AI学習アシスタントの初期導入を計算や英単語等のドリル学習支援に限定し確実な実装を目指す",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "ドリル学習に特化することを明確に定義し、実装範囲を具体的に限定"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "AIシステムの開発・運用費用の確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AI学習アシスタント", "ドリル学習", "個別最適化", "教育DX", "段階的導入"],
+  "unique_features": "AI導入を現実的な範囲に限定し着実な実装を重視",
+  "discussion_points": ["ドリル学習に限定することで失われる教育効果の評価", "将来的な機能拡張の計画と移行時期の設定"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 3361,
+  "summary": "AIを活用し学習意欲等の「変化量」を評価軸に加え、教員の専門的実践を正当評価",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性は明確だが、変化量の具体的な測定方法は未定義"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "学習意欲等の非認知能力を客観的に測定する手法の確立"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["変化量", "評価多様化", "AI活用", "教員専門性", "非認知能力"],
+  "unique_features": "プロセス評価を重視し教員の専門性を正当に評価",
+  "discussion_points": ["変化量の客観的測定方法の確立", "従来の学力評価との両立方法"]
+}
+```

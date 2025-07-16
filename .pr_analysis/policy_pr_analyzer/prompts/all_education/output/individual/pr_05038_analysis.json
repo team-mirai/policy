@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 5038,
+  "summary": "教員の研修強化と実践共有プラットフォーム整備で子ども・保護者・先生を一体支援",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "高",
+    "reason": "研修プログラムと共有プラットフォームという具体的施策を明示"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "全国規模でのプラットフォーム運営体制の構築"
+  },
+  "scope": "全国",
+  "required_resources": "予算・人材",
+  "keywords": ["教員支援", "研修強化", "実践共有", "GIGAスクール", "業務効率化"],
+  "unique_features": "子ども・保護者・先生の三位一体サポート",
+  "discussion_points": ["共有プラットフォームの質の担保方法", "研修効果の測定と継続的改善の仕組み"]
+}
+```

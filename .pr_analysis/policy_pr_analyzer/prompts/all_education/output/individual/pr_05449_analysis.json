@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 5449,
+  "summary": "全教員への業務用PC・タブレット端末の公費配備を政策に明記し、私物端末利用を解消",
+  "category": "設備・インフラ",
+  "specificity": {
+    "level": "高",
+    "reason": "全教員への端末配備という具体的な施策を明示"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "全国規模での予算確保と調達体制の構築"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["教員端末", "業務用PC", "ICT環境", "働き方改革", "情報セキュリティ"],
+  "unique_features": "生徒端末との格差解消を「本末転倒」と表現した現場視点",
+  "discussion_points": ["端末の仕様・管理方法の統一基準", "継続的な更新・メンテナンス体制"]
+}
+```

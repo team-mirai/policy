@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 4184,
+  "summary": "AIアシスタントが図工・音楽等で生徒の作品共有と相互学習を支援する仕組みの導入",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "対象科目と目的は明確だが、共有プラットフォームの具体的仕様が不明"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "プライバシー保護と保護者の理解獲得"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AI学習支援", "作品共有", "協働学習", "創造性教育", "学び合い"],
+  "unique_features": "GitHubのような作品共有で学習意欲向上を図る",
+  "discussion_points": ["プライバシー保護と公開範囲の設定方法", "作品への批判的コメントへの対応策"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 4857,
+  "summary": "ディベート授業導入と多様な参加形式で生徒の思考力・主体性を育む教育改革",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "高",
+    "reason": "ディベート導入、発言数計測、少人数対応など具体的施策を明示"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "教員のファシリテーション能力向上が必要"
+  },
+  "scope": "学校単位",
+  "required_resources": "人材（教員研修）",
+  "keywords": ["ディベート", "主体的学習", "多様性", "思考力", "個性尊重"],
+  "unique_features": "発言が苦手な生徒への個別配慮を重視",
+  "discussion_points": ["教員の負担増への対応策", "多様な参加形式の評価基準"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 65,
+  "summary": "教員の業務範囲明確化、学校行事の地域移行、給与制度改革による教育環境改善",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "高",
+    "reason": "学校行事の地域移行、業務範囲の明確化、外部連携など具体的な施策が明記されている"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "給特法の改正、地域への業務移行の実現、関係者間の合意形成が必要"
+  },
+  "keywords": ["教員働き方改革", "業務負担軽減", "学校行事地域移行", "給特法改正", "教育の質向上"],
+  "unique_features": "学校行事の地域移行による教員負担軽減を提案",
+  "scope": "",
+  "required_resources": "",
+  "discussion_points": []
+}
+```

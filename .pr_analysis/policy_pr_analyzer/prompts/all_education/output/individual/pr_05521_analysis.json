@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 5521,
+  "summary": "マニフェストの冒頭にAI偏重の課題を明記し、多様な視点での改善を促す",
+  "category": "その他",
+  "specificity": {
+    "level": "高",
+    "reason": "具体的な文言追加という明確な変更内容"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "文章追加のみで技術的障壁なし"
+  },
+  "scope": "マニフェスト全体",
+  "required_resources": "特になし",
+  "keywords": ["マニフェスト改善", "AI偏重", "多角的視点", "教育課題", "包括性"],
+  "unique_features": "政策文書自体の偏りを自己認識し透明性を高める",
+  "discussion_points": ["AI以外の重要な教育課題の特定", "多様な層の視点をどう取り入れるか"]
+}
+```

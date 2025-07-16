@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 5555,
+  "summary": "国公立大学の授業料を段階的に無償化し、進学機会を保障し研究力を守る提案",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "無償化の方向性は明確だが、段階的プロセスや財源の詳細が不明"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "授業料無償化に必要な莫大な財源の確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["国公立大学", "授業料無償化", "高等教育", "研究力", "進学機会"],
+  "unique_features": "私立大学を対象外とし国公立に限定して役割分担を明確化",
+  "discussion_points": ["財源確保の具体的方法", "私立大学を除外することの公平性"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 3373,
+  "summary": "貸与型奨学金の所得制限撤廃と給付型の柔軟化で逆転現象解消を目指す",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "高",
+    "reason": "貸与型の完全撤廃、給付型の子ども数に応じた調整など具体的施策を明示"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "給付型奨学金拡充に伴う財源確保"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["奨学金", "所得制限", "逆転現象", "貸与型", "給付型"],
+  "unique_features": "所得制限による逆転現象解消に特化した柔軟な制度設計",
+  "discussion_points": ["給付型奨学金拡充の財源確保方法", "貸与型の債権管理リスクへの対応"]
+}
+```

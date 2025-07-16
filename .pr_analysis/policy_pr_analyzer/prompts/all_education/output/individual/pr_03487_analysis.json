@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 3487,
+  "summary": "被選挙権年齢を18歳に引き下げ、供託金制度を署名または資産比例制に改革する提案",
+  "category": "その他",
+  "specificity": {
+    "level": "高",
+    "reason": "具体的な年齢、署名数、金額等の数値と制度設計案を明示"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "公職選挙法改正への政治的合意形成"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["被選挙権", "18歳", "供託金", "署名制度", "政治参加"],
+  "unique_features": "経済的・年齢的障壁撤廃による若者政治参加促進",
+  "discussion_points": ["18歳被選挙権の社会的受容性", "供託金改革後の立候補者の質の担保"]
+}
+```

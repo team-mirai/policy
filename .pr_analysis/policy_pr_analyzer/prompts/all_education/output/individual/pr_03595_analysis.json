@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 3595,
+  "summary": "学校から独立した第三者機関を設置し、対話拒否には補助金減額等の制裁を課す",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "高",
+    "reason": "機関の設置、権限、制裁措置まで具体的に記載"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "独立機関設置のための法改正と予算確保"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["いじめ", "第三者機関", "対話拒否", "補助金減額", "人事評価"],
+  "unique_features": "対話拒否への明確な制裁措置を規定",
+  "discussion_points": ["制裁措置の妥当性と実効性", "独立機関の中立性確保の方法"]
+}
+```

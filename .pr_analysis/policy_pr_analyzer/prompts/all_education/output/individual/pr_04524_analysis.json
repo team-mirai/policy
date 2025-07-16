@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 4524,
+  "summary": "教育ビジョンに愛国心と国際貢献を両立する人材育成の視点を追加",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "低",
+    "reason": "理念の追加のみで具体的な実施方法が示されていない"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "愛国心教育の内容・方法論への社会的合意形成"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["愛国心", "国際貢献", "アイデンティティ", "文化教育", "歴史教育"],
+  "unique_features": "技術中心の教育ビジョンに人間形成の視点を追加",
+  "discussion_points": ["愛国心の定義と教育方法の具体化", "国際貢献と愛国心のバランスの取り方"]
+}
+```

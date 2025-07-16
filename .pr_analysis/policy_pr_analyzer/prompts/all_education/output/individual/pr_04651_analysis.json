@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 4651,
+  "summary": "大学LMSのガラパゴス化解消のため国主導でオープンソースLMSを開発・提供し重複投資削減",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "問題点（重複投資・低質UX・サイロ化）と解決策（国主導開発・利用者参加）が明確"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "各大学の既存システムからの移行と大学自治権との調整"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["LMS", "学習管理システム", "オープンソース", "大学DX", "教育プラットフォーム"],
+  "unique_features": "いどばた政策を活用した利用者参加型開発プロセス",
+  "discussion_points": ["大学の自治権とシステム統一化のバランス", "既存システムからの移行コストと期間"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 5174,
+  "summary": "AI時代に対応し教員をメンター化し学校を人間性育成コミュニティへ転換",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性は明確だが具体的な研修内容や実施方法は未記載"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "教員の意識改革と新たなスキル習得の実現"
+  },
+  "scope": "全国",
+  "required_resources": "人材",
+  "keywords": ["AI時代", "人間性", "メンター", "ファシリテーター", "シティズンシップ教育"],
+  "unique_features": "AI時代の教育を人間性育成の観点から根本的に再定義",
+  "discussion_points": ["教員の役割転換をどう実現するか", "知識教育と人間性教育のバランス"]
+}
+```

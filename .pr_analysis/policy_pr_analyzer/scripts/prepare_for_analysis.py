@@ -15,164 +15,90 @@ def load_pr_data(input_file):
         return json.load(f)
 
 def create_individual_pr_prompt(pr):
-    """個別PR分析用のプロンプトを生成"""
-    prompt = f"""以下の政策提案PRを分析してください。
+    """個別PR分析用のプロンプトを生成（トークン削減版）"""
+    # PR本文を1000文字に制限
+    body = pr.get('body', '(本文なし)')
+    if len(body) > 1000:
+        body = body[:1000] + '...(省略)'
+    
+    # diffを重要な部分のみ抽出（最大1000文字）
+    diff = pr.get('diff', '(diffなし)')
+    if len(diff) > 1000:
+        # diffの行数を数える
+        diff_lines = diff.split('\n')
+        if len(diff_lines) > 50:
+            # 最初の25行と最後の25行を保持
+            diff = '\n'.join(diff_lines[:25]) + '\n...(中略)...\n' + '\n'.join(diff_lines[-25:])
+        else:
+            diff = diff[:1000] + '...(省略)'
+    
+    prompt = f"""政策提案PRを分析してください。
 
-【PR情報】
-- PR番号: #{pr['number']}
-- タイトル: {pr['title']}
-- 作成者: {pr['author']['login']}
-- 作成日: {pr['createdAt']}
-- 状態: {pr['state']}
-- コメント数: {pr['statistics']['commentsCount']}
-- リアクション数: {pr['statistics']['totalReactions']}
-- 変更ファイル数: {pr['statistics']['filesChanged']}
-- 追加行数: {pr['statistics']['additions']}
-- 削除行数: {pr['statistics']['deletions']}
+PR#{pr['number']}: {pr['title']}
 
-【PR本文】
-{pr.get('body', '(本文なし)')[:3000]}
+【提案内容】
+{body}
 
-【変更内容（diff）】
-{pr.get('diff', '(diffなし)')[:3000]}
+【主な変更】
+{diff}
 
-【分析項目】
-以下の項目について分析し、JSON形式で出力してください：
+JSON形式で以下を分析：
+1. summary: 要約(50字以内)
+2. category: カリキュラム改革/教員・人材/設備・インフラ/制度・システム/予算・財源/デジタル化/地域連携/その他
+3. specificity: {{level:高/中/低, reason:理由}}
+4. difficulty: {{level:高/中/低, main_challenge:主な課題}}
+5. keywords: [5個のキーワード]
+6. unique_features: 特徴(30字以内)
 
-1. 提案要約: 50字以内で提案の核心を要約
-2. カテゴリ: 以下から1つ選択
-   - カリキュラム改革
-   - 教員・人材
-   - 設備・インフラ
-   - 制度・システム
-   - 予算・財源
-   - デジタル化
-   - 地域連携
-   - その他
-3. 具体性: 高/中/低で評価し、理由も簡潔に
-4. 実現難易度: 高/中/低で評価し、主な課題を1つ挙げる
-5. 影響範囲: 全国/地域/学校単位など
-6. 必要なリソース: 主に必要となるリソース（予算/人材/制度改正など）
-7. キーワード: 類似提案を見つけるためのキーワードを5個
-8. 提案の特徴: この提案の独自性や特筆すべき点（30字以内）
-9. 議論ポイント: 議論が必要な主要な論点を2つ
-
-出力形式：
-{{
-  "pr_number": {pr['number']},
-  "summary": "50字以内の要約",
-  "category": "カテゴリ名",
-  "specificity": {{
-    "level": "高/中/低",
-    "reason": "理由"
-  }},
-  "difficulty": {{
-    "level": "高/中/低", 
-    "main_challenge": "主な課題"
-  }},
-  "scope": "影響範囲",
-  "required_resources": "必要なリソース",
-  "keywords": ["キーワード1", "キーワード2", "キーワード3", "キーワード4", "キーワード5"],
-  "unique_features": "独自性や特徴",
-  "discussion_points": ["論点1", "論点2"]
-}}"""
+{{"pr_number":{pr['number']},"summary":"","category":"","specificity":{{"level":"","reason":""}},"difficulty":{{"level":"","main_challenge":""}},"keywords":[],"unique_features":"","scope":"","required_resources":"","discussion_points":[]}}"""
     
     return prompt
 
 def create_similarity_check_prompt(pr1, pr2):
-    """2つのPR間の類似度チェック用プロンプトを生成"""
-    prompt = f"""以下の2つの政策提案PRの類似度を分析してください。
+    """2つのPR間の類似度チェック用プロンプトを生成（トークン削減版）"""
+    # 本文を500文字に制限
+    body1 = pr1.get('body', '')[:500]
+    body2 = pr2.get('body', '')[:500]
+    
+    prompt = f"""2つのPRの類似度を分析。
 
-【PR1】
-- 番号: #{pr1['number']}
-- タイトル: {pr1['title']}
-- 本文: {pr1.get('body', '')[:1000]}
+PR1 #{pr1['number']}: {pr1['title']}
+{body1}
 
-【PR2】
-- 番号: #{pr2['number']}  
-- タイトル: {pr2['title']}
-- 本文: {pr2.get('body', '')[:1000]}
+PR2 #{pr2['number']}: {pr2['title']}  
+{body2}
 
-【分析項目】
-1. 類似度スコア（0-100）
-2. 共通する主要なテーマ・目的
-3. 共通するアプローチ・手法
-4. 主な相違点
-5. 統合可能性（これらを1つの提案にまとめられるか）
-
-出力形式（JSON）：
-{{
-  "pr1_number": {pr1['number']},
-  "pr2_number": {pr2['number']},
-  "similarity_score": 85,
-  "common_themes": ["共通テーマ1", "共通テーマ2"],
-  "common_approaches": ["アプローチ1", "アプローチ2"],
-  "differences": ["相違点1", "相違点2"],
-  "can_merge": true,
-  "merge_recommendation": "統合する場合の推奨事項"
-}}"""
+JSON形式で出力：
+{{"pr1_number":{pr1['number']},"pr2_number":{pr2['number']},"similarity_score":0,"common_themes":[],"can_merge":false}}"""
     
     return prompt
 
 def create_trend_analysis_prompt(pr_summaries, metadata):
-    """全体傾向分析用のプロンプトを生成"""
-    # 基本統計情報をまとめる
+    """全体傾向分析用のプロンプトを生成（トークン削減版）"""
     total_prs = metadata['totalPRs']
     label = metadata['label']
     
-    prompt = f"""以下は{label}ラベルが付いた{total_prs}件の政策提案PRの概要です。全体的な傾向を分析してください。
+    prompt = f"""{label}ラベル{total_prs}件の政策提案PRの傾向分析。
 
-【基本情報】
-- 総PR数: {total_prs}件
-- 対象期間: 過去から現在まで
-- リポジトリ: {metadata['repo']}
-
-【PR概要リスト】
+PRリスト（最大30件）：
 """
     
-    # 各PRの要約情報を追加（最大50件程度）
-    for i, pr in enumerate(pr_summaries[:50]):
-        prompt += f"\n{i+1}. PR#{pr['number']}: {pr['title']}"
-        if 'summary' in pr:
-            prompt += f" - {pr['summary']}"
+    # 各PRの要約情報を追加（最大30件に削減）
+    for i, pr in enumerate(pr_summaries[:30]):
+        prompt += f"\n{pr['number']}: {pr['title'][:50]}"
     
-    if len(pr_summaries) > 50:
-        prompt += f"\n... 他{len(pr_summaries) - 50}件"
+    if len(pr_summaries) > 30:
+        prompt += f"\n...他{len(pr_summaries) - 30}件"
     
     prompt += """
 
-【分析項目】
-以下の観点で全体傾向を分析し、JSON形式で出力してください：
+JSON形式で分析：
+1. main_themes: TOP5テーマ[{{theme,count}}]
+2. category_distribution: {{カテゴリ:件数}}
+3. common_challenges: 主な課題3つ
+4. overall_insights: 総合所見
 
-1. 主要テーマ: 最も多い提案テーマTOP10（件数付き）
-2. カテゴリ分布: 各カテゴリの提案数
-3. トレンド: 最近増えている提案の傾向
-4. 議論活発度: コメントが多い提案の共通点
-5. 実現可能性: 実現しやすそうな提案の特徴
-6. 課題領域: 多くの提案が指摘している課題
-7. 革新的提案: 特に独創的・革新的な提案の特徴
-8. 地域性: 地域特有の課題への言及があるか
-9. 総合所見: 全体を通じての気づきや提言
-
-出力形式（JSON）：
-{
-  "main_themes": [
-    {"theme": "テーマ1", "count": 45, "percentage": 8.8},
-    ...
-  ],
-  "category_distribution": {
-    "カリキュラム改革": 120,
-    "教員・人材": 85,
-    ...
-  },
-  "recent_trends": ["トレンド1", "トレンド2"],
-  "active_discussion_traits": "議論が活発な提案の共通点",
-  "feasible_proposal_traits": "実現可能な提案の特徴",
-  "common_challenges": ["課題1", "課題2", "課題3"],
-  "innovative_features": "革新的提案の特徴",
-  "regional_aspects": "地域性に関する観察",
-  "overall_insights": "総合的な所見と提言"
-}"""
+{{"main_themes":[],"category_distribution":{{}},"common_challenges":[],"overall_insights":"","recent_trends":[],"active_discussion_traits":"","feasible_proposal_traits":"","innovative_features":"","regional_aspects":""}}"""
     
     return prompt
 

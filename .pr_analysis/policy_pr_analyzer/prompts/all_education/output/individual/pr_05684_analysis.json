@@ -1,0 +1,22 @@
+提供されたPR情報を分析しました。以下がJSON形式の分析結果です：
+
+```json
+{
+  "pr_number": 5684,
+  "summary": "EdTechで小規模校の価値を守り、農山村の持続可能性を教育政策の核に位置づける提案",
+  "category": "地域連携",
+  "specificity": {
+    "level": "中",
+    "reason": "ビジョンは明確だが、具体的な実施計画や数値目標が不足"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "小規模校維持に必要な予算確保と効率性の両立"
+  },
+  "scope": "全国（特に農山村地域）",
+  "required_resources": "予算・制度改正",
+  "keywords": ["小規模校", "農山村", "EdTech", "地域コミュニティ", "学校統廃合"],
+  "unique_features": "教育を地域社会維持と食料安全保障の観点から重要視",
+  "discussion_points": ["小規模校維持のコストパフォーマンス", "EdTechによる教育格差解消の実効性"]
+}
+```

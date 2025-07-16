@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 6048,
+  "summary": "選択的夫婦別姓制度導入とデジタル技術活用による多様な家族形態支援の実現",
+  "category": "その他",
+  "specificity": {
+    "level": "中",
+    "reason": "デジタル基盤活用の方向性は示されているが具体的実装は未定"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "戸籍法改正が必要で政治的合意形成が困難"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["選択的夫婦別姓", "多様な家族", "デジタル技術", "マイナンバー", "戸籍制度"],
+  "unique_features": "デジタル技術活用による段階的移行アプローチ",
+  "discussion_points": ["戸籍制度との整合性確保方法", "既存システムとの互換性維持"]
+}
+```

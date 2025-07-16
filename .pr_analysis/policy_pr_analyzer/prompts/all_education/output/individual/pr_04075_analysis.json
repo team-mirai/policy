@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 4075,
+  "summary": "教育用AIを活用し誤情報を含む情報を生成させ子どもの批判的思考力を養う教育手法",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "高",
+    "reason": "教育用AIによる誤情報生成と真偽判断学習という具体的手法を明記"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "教員の専門的指導力確保と教育用AI開発の必要性"
+  },
+  "scope": "全国",
+  "required_resources": "人材/技術",
+  "keywords": ["AIリテラシー", "批判的思考", "誤情報判別", "教育用AI", "クリティカルシンキング"],
+  "unique_features": "AIを誤情報生成ツールとして教育に活用する逆転の発想",
+  "discussion_points": ["誤情報を教材として使用する際のリスク管理方法", "教員の指導力向上と研修体制の整備"]
+}
+```

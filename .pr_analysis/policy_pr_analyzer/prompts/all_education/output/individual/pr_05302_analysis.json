@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 5302,
+  "summary": "AIへの過度な依存を防ぎ、思考力と主体性を保つ教育方針を政策に追記",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "中",
+    "reason": "リスクと方向性は明確だが、具体的な教育方法は未提示"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "AI活用の適切な境界線設定と教員への指導方法確立"
+  },
+  "scope": "全国",
+  "required_resources": "人材",
+  "keywords": ["AI教育", "デジタルリテラシー", "主体性", "思考力", "依存防止"],
+  "unique_features": "AIのリスク面に焦点を当てた予防的教育方針",
+  "discussion_points": ["AIの適切な活用と過度な依存の境界線をどう設定するか", "教育現場でAIとの向き合い方をどう具体的に指導するか"]
+}
+```

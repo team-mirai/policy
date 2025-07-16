@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 3721,
+  "summary": "AIによる合理的配慮の提案と教員向け発達障害研修で支援の質を均一化",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "AIの活用方法とeラーニング研修の内容が具体的に記載"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "AIシステムの開発と全教員への研修実施体制の構築"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["合理的配慮", "発達障害", "AI支援", "教員研修", "eラーニング"],
+  "unique_features": "AIと研修の組み合わせで支援の質を均一化",
+  "discussion_points": ["AIによる配慮提案の妥当性と最終判断の責任", "研修の実効性確保と教員の負担軽減の両立"]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 3471,
+  "summary": "モデル校で育成する能力にロジカルシンキング、自己理解、ディベート、Gritを追加し具体化",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "高",
+    "reason": "育成すべき4つの具体的スキルを明確に定義"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "これらのスキルを教える教員の研修体制構築"
+  },
+  "scope": "学校単位",
+  "required_resources": "人材",
+  "keywords": ["ロジカルシンキング", "自己理解", "ディベート", "Grit", "モデル校"],
+  "unique_features": "21世紀型スキルを具体的に明記し教育目標を明確化",
+  "discussion_points": ["これらのスキルの評価方法をどう設計するか", "教員がこれらのスキルを効果的に教えるための研修体制"]
+}
+```

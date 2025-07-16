@@ -1,0 +1,18 @@
+{
+  "pr_number": 4125,
+  "summary": "AI教育の普及に伴う「AI依存」リスクに対処するため、社会性や協調性を育む心の教育を推進",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "中",
+    "reason": "AIの役割分担の方向性は示されているが、具体的な実施方法や教育プログラムの詳細が不明"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "AI依存の定義や適切なバランスの見極めが困難"
+  },
+  "scope": "全国",
+  "required_resources": "予算・人材",
+  "keywords": ["AI教育", "AI依存", "心の教育", "社会性", "人間関係"],
+  "unique_features": "AI教育の負の側面に焦点を当てた先見的な提案",
+  "discussion_points": ["AI依存の定義と判断基準の明確化", "教育におけるAIと人間の適切な役割分担"]
+}

@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 5789,
+  "summary": "全国の公立小中学校の全教室にエアコンを設置し猛暑から子どもたちの健康と学習環境を守る",
+  "category": "設備・インフラ",
+  "specificity": {
+    "level": "高",
+    "reason": "対象施設、設置範囲、目的が明確に示されている"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "全国規模での設置に必要な莫大な予算の確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["エアコン", "特別教室", "猛暑対策", "学習環境", "健康"],
+  "unique_features": "特別教室も含む全教室への設置を明確に提案",
+  "discussion_points": ["財源確保の具体的方法", "地域や学校の優先順位の決定基準"]
+}
+```

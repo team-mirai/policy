@@ -1,0 +1,22 @@
+Looking at this PR about educational AI policy reform, I'll analyze the key aspects:
+
+```json
+{
+  "pr_number": 5589,
+  "summary": "政府主導のAI開発から民間主体への転換で公正な競争環境整備と民業圧迫回避を図る",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "政府と民間の役割分担が明確に定義され具体的な実施内容が示されている"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "民間企業が参入しやすい環境整備と統一基準策定の両立"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["AI学習ツール", "民間連携", "民業圧迫", "教育AI", "政府役割"],
+  "unique_features": "政府は基準策定に徹し民間の開発力を最大限活用",
+  "discussion_points": ["民間企業の参入を促す具体的なインセンティブ設計", "教育の公平性と民間サービスの多様性のバランス"]
+}
+```

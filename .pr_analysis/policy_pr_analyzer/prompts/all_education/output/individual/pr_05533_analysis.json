@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 5533,
+  "summary": "教育現場のDX成果を保育に応用し、幼保小の情報連携を強化する提案",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性は明確だが具体的なツールや実装方法は未定"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "幼保と小学校の管轄の違いによる制度的調整"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正/システム開発",
+  "keywords": ["保育DX", "幼保小連携", "情報共有", "業務効率化", "データプラットフォーム"],
+  "unique_features": "教育DXの成果を保育現場に横展開する発想",
+  "discussion_points": ["幼保と小学校の管轄の違いをどう乗り越えるか", "子どもの個人情報保護とスムーズな情報連携のバランス"]
+}
+```

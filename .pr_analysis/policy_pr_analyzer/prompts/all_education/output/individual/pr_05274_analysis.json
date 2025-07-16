@@ -1,0 +1,20 @@
+```json
+{
+  "pr_number": 5274,
+  "summary": "AI活用で生まれた時間を文学・芸術・スポーツなど人間的な学びに充てる教育ビジョンの明確化",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性は明確だが具体的な実施方法は示されていない"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "現場での実践方法と評価基準の確立"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["AI活用", "ゆとり教育", "人間的な学び", "創造性", "感性教育"],
+  "unique_features": "AI時代の「ゆとり」を人間性豊かな学びへと再定義",
+  "discussion_points": ["AIによる効率化と人間的な学びの時間配分のバランス", "「ゆとり教育」という言葉の使用の是非"]
+}
+```
