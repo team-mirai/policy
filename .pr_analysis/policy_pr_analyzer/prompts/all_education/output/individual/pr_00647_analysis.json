@@ -1,1 +1,18 @@
-
+{
+  "pr_number": 647,
+  "summary": "AI教材の第三者認証制度導入と式典見直しによる教員負担軽減、非正規教員の正規登用を提案",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "認証プロセス、式典の具体例、採用枠設置など具体的施策を明記"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "大学等との連携体制構築と第三者認証機関の設立"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["AI教材認証", "第三者機関", "非正規教員登用", "日本版DBS", "式典見直し"],
+  "unique_features": "運動会や式典の負担軽減という新視点を提示",
+  "discussion_points": ["AI教材認証機関の独立性・中立性確保", "学校行事の文化的価値と教員負担のバランス"]
+}

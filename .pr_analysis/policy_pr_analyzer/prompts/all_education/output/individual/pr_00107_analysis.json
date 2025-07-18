@@ -1,1 +1,18 @@
-
+{
+  "pr_number": 107,
+  "summary": "出生時からAI教育パートナーが伴走し個人の関心に基づく自己実現型学習を支援する制度",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "中",
+    "reason": "理念や機能は詳細だが実装方法が不明確"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "全児童へのAIパートナー配備の技術的・財政的実現性"
+  },
+  "scope": "全国",
+  "required_resources": "予算（AI開発・運用）、制度改正",
+  "keywords": ["AI教育パートナー", "個別最適学習", "自己実現", "メタ学習", "神経科学的アプローチ"],
+  "unique_features": "出生時からAIが生涯学習を伴走する革新的構想",
+  "discussion_points": ["AI依存による人間関係形成への影響", "プライバシーとデータ管理の倫理的課題"]
+}

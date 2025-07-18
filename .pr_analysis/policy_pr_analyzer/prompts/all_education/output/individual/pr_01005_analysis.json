@@ -1,1 +1,18 @@
-
+{
+  "pr_number": 1005,
+  "summary": "教育政策文書の章構成を見直し、アルゴリズム活用とEBPM推進を分離して明確化",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "中",
+    "reason": "章構成の変更とDAアルゴリズムの事例追加は具体的だが、実装詳細は不明"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "文書改訂は容易だが、実際の政策実装には別途検討が必要"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["DAアルゴリズム", "デジタル併願制", "EBPM", "教育データ", "マッチング"],
+  "unique_features": "アルゴリズム活用とEBPMを分離し政策の焦点を明確化",
+  "discussion_points": ["DAアルゴリズムの教育現場での実効性と他分野での応用可能性", "EBPMとアルゴリズム活用の関係性の明確化の必要性"]
+}

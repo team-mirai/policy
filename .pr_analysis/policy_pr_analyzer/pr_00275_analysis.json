@@ -1,0 +1,18 @@
+{
+  "pr_number": 275,
+  "summary": "年少扶養控除復活と基礎控除の物価連動制導入で子育て世帯の税負担軽減を図る",
+  "category": "その他",
+  "specificity": {
+    "level": "高",
+    "reason": "具体的な控除額や国際比較データ、期待効果を明示"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "大規模な税収減に対する財源確保が必要"
+  },
+  "scope": "全国",
+  "required_resources": "予算・制度改正",
+  "keywords": ["年少扶養控除", "基礎控除", "子育て支援", "税制改革", "物価連動制"],
+  "unique_features": "国際比較データに基づく税制改革提案",
+  "discussion_points": ["税収減に対する財源確保の方法", "児童手当拡充との政策バランス"]
+}

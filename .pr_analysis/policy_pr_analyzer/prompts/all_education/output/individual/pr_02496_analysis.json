@@ -1,1 +1,18 @@
-
+{
+  "pr_number": 2496,
+  "summary": "AI学習アシスタントを幼稚園・保育園から導入し、個々の学習スタイルに対応させる",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "対象年齢、学習方法、対応機能が具体的に記載"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "幼児の発達段階に適したAIシステムの設計と安全性確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算（システム開発・運用）、人材（AI開発者・教育専門家）",
+  "keywords": ["AI学習アシスタント", "幼児教育", "個別最適化", "学習スタイル", "教育格差"],
+  "unique_features": "幼児期からのAI活用と多様な学習スタイルへの対応",
+  "discussion_points": ["幼児へのAI導入の適切性と安全性", "家庭環境格差解消の実効性評価"]
+}

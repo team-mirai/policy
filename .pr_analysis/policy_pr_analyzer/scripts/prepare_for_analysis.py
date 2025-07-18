@@ -42,13 +42,15 @@ PR#{pr['number']}: {pr['title']}
 【主な変更】
 {diff}
 
-JSON形式で以下を分析：
+以下の項目を分析してください：
 1. summary: 要約(50字以内)
 2. category: カリキュラム改革/教員・人材/設備・インフラ/制度・システム/予算・財源/デジタル化/地域連携/その他
 3. specificity: {{level:高/中/低, reason:理由}}
 4. difficulty: {{level:高/中/低, main_challenge:主な課題}}
 5. keywords: [5個のキーワード]
 6. unique_features: 特徴(30字以内)
+
+重要: 分析結果は必ず以下の形式の生のJSONのみを出力してください。マークダウンコードブロックや説明文は一切含めないでください。
 
 {{"pr_number":{pr['number']},"summary":"","category":"","specificity":{{"level":"","reason":""}},"difficulty":{{"level":"","main_challenge":""}},"keywords":[],"unique_features":"","scope":"","required_resources":"","discussion_points":[]}}"""
     
@@ -68,7 +70,10 @@ PR1 #{pr1['number']}: {pr1['title']}
 PR2 #{pr2['number']}: {pr2['title']}  
 {body2}
 
-JSON形式で出力：
+類似度（0-100）と共通テーマを分析してください。
+
+重要: 分析結果は必ず以下の形式の生のJSONのみを出力してください。マークダウンコードブロックや説明文は一切含めないでください。
+
 {{"pr1_number":{pr1['number']},"pr2_number":{pr2['number']},"similarity_score":0,"common_themes":[],"can_merge":false}}"""
     
     return prompt
@@ -92,11 +97,13 @@ PRリスト（最大30件）：
     
     prompt += """
 
-JSON形式で分析：
+以下の項目を分析してください：
 1. main_themes: TOP5テーマ[{{theme,count}}]
 2. category_distribution: {{カテゴリ:件数}}
 3. common_challenges: 主な課題3つ
 4. overall_insights: 総合所見
+
+重要: 分析結果は必ず以下の形式の生のJSONのみを出力してください。マークダウンコードブロックや説明文は一切含めないでください。
 
 {{"main_themes":[],"category_distribution":{{}},"common_challenges":[],"overall_insights":"","recent_trends":[],"active_discussion_traits":"","feasible_proposal_traits":"","innovative_features":"","regional_aspects":""}}"""
     

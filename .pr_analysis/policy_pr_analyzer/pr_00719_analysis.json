@@ -1,0 +1,18 @@
+{
+  "pr_number": 719,
+  "summary": "子育て世帯への税制支援を通じた経済的負担軽減をマニフェストに明記する提案",
+  "category": "その他",
+  "specificity": {
+    "level": "低",
+    "reason": "税制支援の方向性は示されているが、具体的な制度設計や支援額は未定"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "財源確保と既存税制との調整"
+  },
+  "scope": "全国",
+  "required_resources": "予算・制度改正",
+  "keywords": ["子育て支援", "税制支援", "経済的負担", "少子化対策", "財源確保"],
+  "unique_features": "税制を通じた子育て家庭への明確な支援姿勢",
+  "discussion_points": ["財源確保の具体的方法", "支援対象と支援額の設定基準"]
+}

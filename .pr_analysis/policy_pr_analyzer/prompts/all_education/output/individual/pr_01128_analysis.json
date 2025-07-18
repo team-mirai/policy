@@ -1,1 +1,18 @@
-
+{
+  "pr_number": 1128,
+  "summary": "AI教育導入事例の記述を一次資料に基づき正確化する文書修正",
+  "category": "その他",
+  "specificity": {
+    "level": "高",
+    "reason": "修正箇所と内容が明確で、具体的な数値や出典も明記"
+  },
+  "difficulty": {
+    "level": "低", 
+    "main_challenge": "既存文書の修正のみで技術的・制度的な障壁なし"
+  },
+  "scope": "政策文書",
+  "required_resources": "特になし",
+  "keywords": ["AI教育", "事例修正", "一次資料", "正確性", "教育政策"],
+  "unique_features": "出典の正確性を重視した事実確認に基づく修正",
+  "discussion_points": ["AI教育導入の効果をどの程度具体的に記述すべきか", "政策文書における事例引用の基準設定"]
+}

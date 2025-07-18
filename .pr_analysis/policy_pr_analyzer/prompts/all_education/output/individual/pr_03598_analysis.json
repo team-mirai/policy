@@ -1,4 +1,3 @@
-```json
 {
   "pr_number": 3598,
   "summary": "GIGAスクール端末を国からの供与とBYOD選択可能なハイブリッド方式に転換",
@@ -13,8 +12,16 @@
   },
   "scope": "全国",
   "required_resources": "予算",
-  "keywords": ["GIGAスクール", "端末供与", "BYOD", "ハイブリッド方式", "デュアルOS"],
+  "keywords": [
+    "GIGAスクール",
+    "端末供与",
+    "BYOD",
+    "ハイブリッド方式",
+    "デュアルOS"
+  ],
   "unique_features": "端末を「貸与」でなく「供与」し、BYOD選択可能にする柔軟性",
-  "discussion_points": ["端末供与の財源確保と持続可能性", "BYODにおけるセキュリティとプライバシー管理"]
+  "discussion_points": [
+    "端末供与の財源確保と持続可能性",
+    "BYODにおけるセキュリティとプライバシー管理"
+  ]
 }
-```

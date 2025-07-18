@@ -1,1 +1,18 @@
-
+{
+  "pr_number": 415,
+  "summary": "教員のAI研修時間確保のため研修中の授業・校務を代替する非常勤講師等を配置",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "高",
+    "reason": "代替要員配置という具体的施策を明記"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "全国規模での代替教員確保が困難"
+  },
+  "scope": "全国",
+  "required_resources": "人材/予算",
+  "keywords": ["教員研修", "代替教員", "働き方改革", "AIスキル", "研修保障"],
+  "unique_features": "研修を権利として制度的に保障する仕組み",
+  "discussion_points": ["代替教員の質と量の確保方法", "必要予算の規模と財源"]
+}

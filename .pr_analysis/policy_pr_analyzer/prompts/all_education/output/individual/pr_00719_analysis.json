@@ -1,1 +1,18 @@
-
+{
+  "pr_number": 719,
+  "summary": "子育て支援について税制面を含む多角的な議論を深めることをマニフェストに明記する提案",
+  "category": "予算・財源",
+  "specificity": {
+    "level": "低",
+    "reason": "マニフェストへの文言追加のみで具体的な支援策は未提示"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "文言追加は容易だが実際の税制改革実現は困難"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["子育て支援", "税制", "経済的負担", "少子化対策", "家庭支援"],
+  "unique_features": "子育てを国家の財産創出と捉える視点",
+  "discussion_points": ["具体的な税制支援策の内容", "財源確保の方法"]
+}

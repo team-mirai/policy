@@ -9,6 +9,8 @@ import argparse
 import subprocess
 import time
 import json
+import re
+import threading
 from pathlib import Path
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -23,25 +25,48 @@ def run_claude_analysis(prompt_file, output_file, dry_run=False):
         # 出力ディレクトリを作成
         os.makedirs(os.path.dirname(output_file), exist_ok=True)
         
-        # claude -pコマンドを実行
+        # claude -pコマンドを実行（フルパスを使用）
+        claude_cmd = "/Users/chaspy/.nvm/versions/node/v22.14.0/bin/claude"
+        
         with open(prompt_file, 'r', encoding='utf-8') as f:
             result = subprocess.run(
-                ["claude", "-p"],
+                [claude_cmd, "-p"],
                 stdin=f,
                 capture_output=True,
-                text=True
+                text=True,
+                env=os.environ.copy()  # 環境変数を正しく渡す
             )
         
         if result.returncode != 0:
             print(f"  ❌ Error: {result.stderr}")
             return False
         
+        # マークダウンラップを除去
+        output = result.stdout.strip()
+        if output.startswith('```json') and output.endswith('```'):
+            # ```json ... ``` 形式を除去
+            import re
+            match = re.search(r'```json\s*(.*?)\s*```', output, re.DOTALL)
+            if match:
+                output = match.group(1).strip()
+        
         # 結果を保存
         with open(output_file, 'w', encoding='utf-8') as f:
-            f.write(result.stdout)
+            f.write(output)
         
-        print(f"  ✅ Analyzed: {os.path.basename(prompt_file)}")
-        return True
+        # 保存したファイルが有効なJSONかチェック
+        try:
+            with open(output_file, 'r', encoding='utf-8') as f:
+                json.load(f)
+            print(f"  ✅ Analyzed: {os.path.basename(prompt_file)}")
+            return True
+        except json.JSONDecodeError as e:
+            print(f"  ⚠️  Invalid JSON saved: {os.path.basename(prompt_file)}")
+            # デバッグ用：最初の100文字を表示
+            with open(output_file, 'r', encoding='utf-8') as f:
+                content = f.read()
+            print(f"     First 100 chars: {repr(content[:100])}")
+            return False
     
     except Exception as e:
         print(f"  ❌ Exception: {e}")
@@ -66,7 +91,16 @@ def get_analysis_status(prompts_dir):
             for input_file in input_files:
                 output_file = output_dir / input_file.with_suffix('.json').name
                 if output_file.exists():
-                    status[analysis_type]['completed'] += 1
+                    # ファイルが存在しても、空または無効なJSONの場合はcompletedとしない
+                    try:
+                        if output_file.stat().st_size > 0:  # 空ファイルでない
+                            with open(output_file, 'r', encoding='utf-8') as f:
+                                json.load(f)  # 有効なJSONかチェック
+                            status[analysis_type]['completed'] += 1
+                        else:
+                            status[analysis_type]['files'].append(input_file)
+                    except (json.JSONDecodeError, Exception):
+                        status[analysis_type]['files'].append(input_file)
                 else:
                     status[analysis_type]['files'].append(input_file)
     
@@ -91,7 +125,16 @@ def analyze_individual_prs(prompts_dir, sleep_time=2, dry_run=False, resume=True
     for prompt_file in prompt_files:
         output_file = output_dir / prompt_file.with_suffix('.json').name
         if resume and output_file.exists():
-            skipped += 1
+            # ファイルが存在しても、空または無効なJSONの場合は再実行対象とする
+            try:
+                if output_file.stat().st_size > 0:  # 空ファイルでない
+                    with open(output_file, 'r', encoding='utf-8') as f:
+                        json.load(f)  # 有効なJSONかチェック
+                    skipped += 1
+                else:
+                    files_to_analyze.append((prompt_file, output_file))
+            except (json.JSONDecodeError, Exception):
+                files_to_analyze.append((prompt_file, output_file))
         else:
             files_to_analyze.append((prompt_file, output_file))
     
@@ -107,6 +150,8 @@ def analyze_individual_prs(prompts_dir, sleep_time=2, dry_run=False, resume=True
         return total_to_analyze, skipped
     
     completed = 0
+    processed = 0
+    lock = threading.Lock()
     
     def analyze_single_file(file_info):
         prompt_file, output_file = file_info
@@ -130,17 +175,29 @@ def analyze_individual_prs(prompts_dir, sleep_time=2, dry_run=False, resume=True
             
             try:
                 filename, success, error = future.result()
-                completed_now = completed + 1
-                if success:
-                    print(f"[{completed_now}/{total_to_analyze}] ✅ Completed: {filename}")
-                    completed += 1
-                else:
-                    print(f"[{completed_now}/{total_to_analyze}] ❌ Failed: {filename} - {error}")
+                with lock:
+                    processed += 1
+                    current_processed = processed
+                    if success:
+                        completed += 1
+                        print(f"[{current_processed}/{total_to_analyze}] ✅ Completed: {filename}")
+                    else:
+                        print(f"[{current_processed}/{total_to_analyze}] ❌ Failed: {filename} - {error}")
             except Exception as e:
-                print(f"❌ Exception analyzing {prompt_file.name}: {e}")
+                with lock:
+                    processed += 1
+                    print(f"[{processed}/{total_to_analyze}] ❌ Exception: {prompt_file.name} - {e}")
             
             # 短いスリープ（API制限対策）
             time.sleep(sleep_time / max_workers)
+    
+    # サマリーを表示
+    failed = processed - completed
+    print(f"\n=== Analysis Summary ===")
+    print(f"Total processed: {processed}")
+    print(f"Successful: {completed}")
+    print(f"Failed: {failed}")
+    print(f"Skipped (already completed): {skipped}")
     
     return completed, skipped
 

@@ -1,1 +1,18 @@
-
+{
+  "pr_number": 508,
+  "summary": "EdTech導入と専門スタッフ配置により教員の業務負担を軽減し教育の質向上を図る",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性は明確だが、具体的な実装計画や予算規模が不明"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "専門スタッフの確保と全国規模でのEdTech導入の予算確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算/人材",
+  "keywords": ["EdTech", "教員負担軽減", "業務効率化", "専門スタッフ", "デジタル技術"],
+  "unique_features": "EdTechと専門スタッフ配置の二本柱で包括的に対応",
+  "discussion_points": ["EdTech導入の具体的方法と効果測定指標", "専門スタッフの確保方法と質の担保"]
+}

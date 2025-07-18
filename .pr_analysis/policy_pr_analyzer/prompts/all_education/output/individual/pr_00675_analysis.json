@@ -1,1 +1,18 @@
-
+{
+  "pr_number": 675,
+  "summary": "AIを活用した教育実現のため通信インフラ整備と国立大学でのAI研究推進を強化",
+  "category": "設備・インフラ",
+  "specificity": {
+    "level": "高",
+    "reason": "目標基準設定、定期点検、財政支援、産学連携、規制緩和など具体的な施策を提示"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "全国規模のインフラ整備に必要な莫大な予算確保"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AI教育", "通信環境整備", "国立大学", "産学連携", "規制緩和"],
+  "unique_features": "インフラ整備とAI研究推進を一体的に推進する包括的アプローチ",
+  "discussion_points": ["都市部優先と地方格差是正のバランス", "規制緩和の範囲と安全性の確保"]
+}

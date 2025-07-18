@@ -1,1 +1,18 @@
-
+{
+  "pr_number": 861,
+  "summary": "ICT支援員増員、障害対応の個別サポート、自動ふりがな機能等でAI教育を実効化",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "ICT支援員配置、自動ふりがな機能など具体的施策を明示"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "ICT支援員の確保・育成体制の構築"
+  },
+  "scope": "全国",
+  "required_resources": "人材/予算",
+  "keywords": ["AI教育", "ICT支援員", "個別最適化", "インクルーシブ教育", "教員負担軽減"],
+  "unique_features": "教員負担軽減と個別支援の両立を重視",
+  "discussion_points": ["ICT支援員の人材確保・育成方法", "AI活用による個別支援の効果測定手法"]
+}

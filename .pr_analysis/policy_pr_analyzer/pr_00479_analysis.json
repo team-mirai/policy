@@ -1,0 +1,18 @@
+{
+  "pr_number": 479,
+  "summary": "AI学習支援の表現を柔らかくし、貧困世帯への通信費補助等の具体的支援策を追加",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "通信費補助、Wi-Fi整備、指導員配置など具体的施策を明記"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "全国規模での予算確保と支援体制の構築"
+  },
+  "scope": "全国",
+  "required_resources": "予算",
+  "keywords": ["AI学習アシスタント", "通信費補助", "教育格差", "デジタル格差", "学習支援"],
+  "unique_features": "AI活用の心理的ハードルと経済的ハードルの両方に配慮",
+  "discussion_points": ["AI学習アシスタントの効果検証方法", "通信費補助の予算規模と持続可能性"]
+}

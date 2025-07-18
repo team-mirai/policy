@@ -1,1 +1,18 @@
-
+{
+  "pr_number": 446,
+  "summary": "教育AIの活用と人間中心活動の役割分担を明確化し、保護者向け学習状況フィードバック機能を追加",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "AI家庭教師の具体的機能や保護者連携の仕組みが詳細に記述"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "教育関係者・保護者の合意形成と教師のAI活用スキル習得"
+  },
+  "scope": "全国",
+  "required_resources": "予算（AI開発・導入）、人材（教師研修）",
+  "keywords": ["AI教育", "個別最適化", "保護者連携", "教育格差是正", "AI家庭教師"],
+  "unique_features": "AIと人間教育の役割分担を明確化し保護者連携を重視",
+  "discussion_points": ["AIへの過度な依存による思考力低下のリスク", "学習データの管理とプライバシー保護の方法"]
+}

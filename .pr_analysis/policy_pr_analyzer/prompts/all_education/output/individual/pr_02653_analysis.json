@@ -1,1 +1,18 @@
-
+{
+  "pr_number": 2653,
+  "summary": "人口減少地域の小規模校をAI・遠隔技術で支援し、質の高い教育提供と地域活性化を両立",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "遠隔授業、AI学習アシスタント、学習伴走者制度など具体的施策を明記"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "過疎地域のICTインフラ整備と多様な人材確保"
+  },
+  "scope": "地域",
+  "required_resources": "予算/人材",
+  "keywords": ["小規模校", "AI活用", "遠隔授業", "地域活性化", "人口減少対策"],
+  "unique_features": "教育格差是正と地域活性化を同時に目指す統合的アプローチ",
+  "discussion_points": ["教員免許不要の「学習伴走者」の質の担保", "小規模校への投資対効果と持続可能性"]
+}

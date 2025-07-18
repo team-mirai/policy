@@ -1,0 +1,18 @@
+{
+  "pr_number": 1870,
+  "summary": "「壊して学べる」安価な端末を導入し、失敗を通じた技術の構造理解教育を実施",
+  "category": "設備・インフラ",
+  "specificity": {
+    "level": "高",
+    "reason": "Raspberry Pi、一校50台、OS再インストール等の具体的内容が明記"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "教員の技術力向上と失敗を許容する指導体制の構築"
+  },
+  "scope": "全国",
+  "required_resources": "予算（端末購入）と人材（教員研修）",
+  "keywords": ["失敗学習", "構造理解", "Raspberry Pi", "技術教育", "ブラックボックス"],
+  "unique_features": "「あえて壊せる環境」で技術の本質を学ぶ逆転の発想",
+  "discussion_points": ["教員の技術力不足への対応方法", "失敗による授業時間の長期化への対処"]
+}

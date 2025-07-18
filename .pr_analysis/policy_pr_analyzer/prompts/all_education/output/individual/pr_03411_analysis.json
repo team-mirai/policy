@@ -1,1 +1,18 @@
-分析完了しました。PR #3411の分析結果をJSON形式で保存しました。
+{
+  "pr_number": 3411,
+  "summary": "GIGAスクール端末更新時にAIドリルを導入し、個別最適化学習を実現する提案",
+  "category": "デジタル化",
+  "specificity": {
+    "level": "高",
+    "reason": "AIドリルという具体的ツールと機能（学習分析・個別解説）を明確に記述"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "AIドリルの品質確保と全国規模での導入・運用体制の構築"
+  },
+  "scope": "全国の小中学校の児童生徒と教員",
+  "required_resources": "AIドリルの開発・調達費用、教員研修、システム運用体制",
+  "keywords": ["AIドリル", "個別最適化学習", "GIGAスクール", "EdTech", "アダプティブラーニング"],
+  "unique_features": "AIが個々の学習者に最適化された解説を提供",
+  "discussion_points": ["AIドリルの品質基準と選定方法", "教員の役割変化への対応策"]
+}

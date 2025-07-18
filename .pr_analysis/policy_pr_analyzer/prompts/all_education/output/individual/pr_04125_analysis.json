@@ -12,7 +12,16 @@
   },
   "scope": "全国",
   "required_resources": "予算・人材",
-  "keywords": ["AI教育", "AI依存", "心の教育", "社会性", "人間関係"],
+  "keywords": [
+    "AI教育",
+    "AI依存",
+    "心の教育",
+    "社会性",
+    "人間関係"
+  ],
   "unique_features": "AI教育の負の側面に焦点を当てた先見的な提案",
-  "discussion_points": ["AI依存の定義と判断基準の明確化", "教育におけるAIと人間の適切な役割分担"]
+  "discussion_points": [
+    "AI依存の定義と判断基準の明確化",
+    "教育におけるAIと人間の適切な役割分担"
+  ]
 }

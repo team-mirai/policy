@@ -1,1 +1,18 @@
-
+{
+  "pr_number": 324,
+  "summary": "AI時代に対応するため線形代数を含む数学カリキュラムの抜本的見直しを提案",
+  "category": "カリキュラム改革",
+  "specificity": {
+    "level": "中",
+    "reason": "方向性は明確だが具体的な実施時期や方法は未定"
+  },
+  "difficulty": {
+    "level": "高",
+    "main_challenge": "教科書改訂・教員研修・入試制度との整合性"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["線形代数", "AI教育", "数学カリキュラム", "コンピュータ活用", "教育現代化"],
+  "unique_features": "AI時代に必要な数学として線形代数の早期導入を明確に提案",
+  "discussion_points": ["既存の数学カリキュラムとの整合性をどう取るか", "教員の指導力向上をどう実現するか"]
+}

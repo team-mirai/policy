@@ -1,1 +1,18 @@
-
+{
+  "pr_number": 2561,
+  "summary": "利用者の心理的抵抗を減らすため「体験格差解消バウチャー」の名称を変更する提案",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "高",
+    "reason": "変更箇所、新名称、変更理由が明確に示されている"
+  },
+  "difficulty": {
+    "level": "低",
+    "main_challenge": "関係者間での合意形成"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["バウチャー", "名称変更", "スティグマ", "利用者視点", "心理的配慮"],
+  "unique_features": "利用者の尊厳に配慮した言葉遣いへの変更提案",
+  "discussion_points": ["名称変更による制度の認知度への影響", "「格差」を明示しないことの是非"]
+}

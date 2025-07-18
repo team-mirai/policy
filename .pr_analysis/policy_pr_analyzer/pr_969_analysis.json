@@ -1,0 +1,18 @@
+{
+  "pr_number": 969,
+  "summary": "保護者への情報提供を強化してAI教育の透明性を向上させる提案だが内容が削除されている",
+  "category": "制度・システム",
+  "specificity": {
+    "level": "低",
+    "reason": "実際の内容が削除されており、具体的な透明性向上策が不明"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "削除された内容との整合性確保と実質的な提案内容の不在"
+  },
+  "scope": "全国",
+  "required_resources": "制度改正",
+  "keywords": ["AI教育", "保護者", "透明性", "情報提供", "教育政策"],
+  "unique_features": "既存の教育政策文書を大幅削除する異常な変更",
+  "discussion_points": ["なぜ既存の教育政策を削除するのか", "実際の透明性向上策は何か"]
+}

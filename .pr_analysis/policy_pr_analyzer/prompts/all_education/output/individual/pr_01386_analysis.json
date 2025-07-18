@@ -1,4 +1,3 @@
-```json
 {
   "pr_number": 1386,
   "summary": "海外製LLMの安全保障・文化侵略リスクを指摘し、国産LLMの研究開発推進を提案",
@@ -13,8 +12,16 @@
   },
   "scope": "全国",
   "required_resources": "予算/技術開発",
-  "keywords": ["LLM", "安全保障", "文化侵略", "国産AI", "言語文化"],
+  "keywords": [
+    "LLM",
+    "安全保障",
+    "文化侵略",
+    "国産AI",
+    "言語文化"
+  ],
   "unique_features": "LLMを安全保障・文化主権の観点から捉えた視点",
-  "discussion_points": ["国産LLM開発の費用対効果", "海外製LLM利用規制の妥当性と実効性"]
+  "discussion_points": [
+    "国産LLM開発の費用対効果",
+    "海外製LLM利用規制の妥当性と実効性"
+  ]
 }
-```

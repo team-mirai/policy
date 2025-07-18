@@ -1,0 +1,18 @@
+{
+  "pr_number": 720,
+  "summary": "AIで保育士の業務負担を軽減し、生まれたリソースを人的支援に再投資して人員不足を解消",
+  "category": "教員・人材",
+  "specificity": {
+    "level": "高",
+    "reason": "AI活用による業務効率化と人的サポート強化の2本柱が具体的に提示"
+  },
+  "difficulty": {
+    "level": "中",
+    "main_challenge": "保育現場でのAI導入への理解と受容の促進"
+  },
+  "scope": "全国",
+  "required_resources": "予算（AI開発・導入）と人材（保育士増員）",
+  "keywords": ["保育士支援", "AI活用", "業務効率化", "人員不足", "保育現場"],
+  "unique_features": "AI効率化で生まれたリソースを人的サポートに再投資",
+  "discussion_points": ["保育現場におけるAI活用の有効性と限界", "保育士のAIリテラシー向上の方法"]
+}
