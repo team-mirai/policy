@@ -55,13 +55,14 @@
 
 [チームみらい公式サイト](https://team-mir.ai/)  
 [安野たかひろXアカウント](https://x.com/takahiroanno)  
-[安野たかひろ公式YouTube](https://www.youtube.com/@%E5%AE%89%E9%87%8E%E8%B2%B4%E5%8D%9A)
+[安ноたかひろ公式YouTube](https://www.youtube.com/@%E5%AE%89%E9%87%8E%E8%B2%B4%E5%8D%9A)
 
 ## 変更提案について
 
-本マニフェストによる変更提案は２つの形で受付をしています。
+本マニフェストによる変更提案は３つの形で受付をしています。
 
-* [こちら](https://policy.team-mir.ai/view/README.md)のページから、チャットで政策要望を提出する  
+* [こちら](https://policy.team-mir.ai/view/README.md)のページから、チャットで政策要望を提出する
+* 電話で相談しながら提案する
 * （玄人向け）[GitHub](https://github.com/team-mirai/policy/pulls)でPull Requestを提出する
 
 　頂いた変更提案は、チームみらいが責任をもって確認します。変更提案をマニフェストに反映させるかどうかについては、チームみらいが権限を持ちます。当初マニフェストとは異なる方向性の提案であっても、真剣に検討し、反映するかどうかを考えます。
