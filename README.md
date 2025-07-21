@@ -147,3 +147,4 @@ AIが生産活動の全てを担う社会で「誰も取り残さない」ため
 
 - [デジタル民主主義2030](https://dd2030.org)で開発した[『いどばた』](https://github.com/digitaldemocracy2030/idobata/)を活用しています
 
+
