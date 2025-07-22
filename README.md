@@ -56,7 +56,7 @@
 
 [チームみらい公式サイト](https://team-mir.ai/)  
 [安野たかひろXアカウント](https://x.com/takahiroanno)  
-[安野たかひろ公式YouTube](https://www.youtube.com/@%E5%AE%89%E9%87%8E%E8%B2%B4%E5%8D%9A)
+[安野たかひろ公式YouTube](https://www.youtube.com/@%E5%AE%89%E9%87%8E%E8_B2_B4%E5_8D_9A)  
 
 ## 変更提案について
 
@@ -80,6 +80,8 @@
 
 * 個人攻撃や誹謗中傷  
 * 差別的な発言  
+* 意図的に対立や憎悪を煽る発言
+* 根拠のない情報で不安を煽る行為
 * ハラスメント  
 * スパム・広告の投稿  
 * プライバシーの侵害  
@@ -135,5 +137,4 @@
 ## おしゃべりできるシステム『いどばたシステム』について
 
 - [デジタル民主主義2030](https://dd2030.org)で開発した[『いどばた』](https://github.com/digitaldemocracy2030/idobata/)を活用しています
-
 
